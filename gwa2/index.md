@@ -35,6 +35,5 @@ https://github.com/wadelau/gwa2
 [Back to Up](../index)
 ## [gMIS](gmis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjgyODQzNiwtMzM3ODAyNTM0LC0xMD
-EwNDc5Njk3XX0=
+eyJoaXN0b3J5IjpbMTg3MjgyODQzNl19
 -->
