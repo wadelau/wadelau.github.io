@@ -3,9 +3,7 @@
 
 ## GWA2
 
-### GWA2gMIS Overview
-
-gMIS  
+### GWA2 Overview
 
 ### GWA2 in Java
 
@@ -13,24 +11,20 @@ gMIS
 
 ### GWA2 in Python
 
-### GWA2 OthManagement Information System. ...
-
-#ers
+### GWA2 Others
 
 ## gMIS
 
 ### gMIS Overview
 ### gMIS End U-users
+### gMIS Developers
 
-### gMIS Developet oin t ..nde
-#  nde
- ope
 ## Hanjst
 ### Hanjst Overview
 ### Hanjst Front-end Developers
-### Hanjst Back
+### Hanjst Back-end Developers
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxMjYwNjYwLDE1MTgyODYwNiwxODcyOD
-I4NDM2XX0=
+eyJoaXN0b3J5IjpbLTU4MDIzODk0XX0=
 -->
