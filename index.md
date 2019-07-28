@@ -3,7 +3,9 @@
 
 ## GWA2
 
-GWA2 is acronyms from General Web Application Architecture.
+GWA2gMIS Overview
+
+gMIS is acronyms from Gor general Web Application Architecture.
  
 
 ## Links
@@ -27,7 +29,11 @@ https://github.com/wadelau/gwa2
 
 # GWA2 in Python
 
-# GWA2 Others
+# GWA2 OthManagement Information System. ...
+
+# End Users
+
+# Developers
 
 
 [Back to top](index)
@@ -35,5 +41,6 @@ https://github.com/wadelau/gwa2
 [Back to Up](../index)
 ## [gMIS](gmis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTUzNDAzNywxODcyODI4NDM2XX0=
+eyJoaXN0b3J5IjpbMTUxODI4NjA2LC02MTE1MzQwMzcsMTg3Mj
+gyODQzNl19
 -->
