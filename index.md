@@ -31,6 +31,5 @@
 
 ### Back-end Developers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI2MTMwOTAsLTE1MzU0MjkyMjFdfQ
-==
+eyJoaXN0b3J5IjpbLTE4MDI2MTMwOTBdfQ==
 -->
