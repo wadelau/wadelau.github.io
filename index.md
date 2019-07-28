@@ -1,7 +1,7 @@
 
-# GWA2 Overview
+# Contents
 
-## Background
+## GWA2
 
 GWA2 is acronyms from General Web Application Architecture.
  
@@ -35,5 +35,5 @@ https://github.com/wadelau/gwa2
 [Back to Up](../index)
 ## [gMIS](gmis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjgyODQzNl19
+eyJoaXN0b3J5IjpbLTYxMTUzNDAzNywxODcyODI4NDM2XX0=
 -->
