@@ -33,7 +33,6 @@ https://github.com/wadelau/gwa2
 [Back to top](index)
 
 [Back to Up](../index)
-## [gMIS](gmis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjgyODQzNl19
+eyJoaXN0b3J5IjpbLTUxODc5NDUxNl19
 -->
