@@ -1,11 +1,12 @@
 
 # Contents
 
-## [GWA2](gwa2/index)
+## GWA2](gwa2/index)
 
-### GWA2 Overview
+### GWA2 #in PHP
 
-### GWA2 in Java
+
+# GWA2 in Java
 
 ### GWA2 in Perl
 
@@ -13,7 +14,7 @@
 
 ### GWA2 Others
 
-## [gMIS](gmis/index)
+## /index)
 
 ### gMIS Overview
 ### gMIS End U-users
@@ -27,5 +28,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTczNTE0OV19
+eyJoaXN0b3J5IjpbMjM2MTUxMjg5LDEyNzU3MzUxNDldfQ==
 -->
