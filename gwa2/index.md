@@ -14,7 +14,7 @@
 
 ### GWA2 Others
 
-## /index)
+## gMIS
 
 ### gMIS Overview
 ### gMIS End U-users
@@ -28,5 +28,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2MTUxMjg5LC01MTg3OTQ1MTZdfQ==
+eyJoaXN0b3J5IjpbNTAyMDg1NjEsLTUxODc5NDUxNl19
 -->
