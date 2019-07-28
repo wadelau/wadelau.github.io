@@ -16,7 +16,7 @@ gMIS
 ### GWA2 Othe I Se
 #ers
 
-## gMISs/index)
+## [gMIS](gmis/index)
 
 ### gMIS Overview
 ### gMIS End U-users
@@ -33,5 +33,5 @@ t oin t ..nde
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5MzU5ODEwLDE1OTU4Mjg2ODhdfQ==
+eyJoaXN0b3J5IjpbLTE2MDEyODg0NDMsMTU5NTgyODY4OF19
 -->
