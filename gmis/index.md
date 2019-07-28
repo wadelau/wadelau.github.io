@@ -5,26 +5,20 @@
 
 ### GWA2 Overview
 
-gMIS  
-
 ### GWA2 in Java
 
 ### GWA2 in Perl
 
 ### GWA2 in Python
 
-### GWA2 Othe I Se
-#ers
+### GWA2 Others
 
 ## [gMIS](gmis/index)
 
 ### gMIS Overview
 ### gMIS End U-users
-
 ### gMIS Developers
-t oin t ..nde
-#  nde
- ope
+
 ## [Hanjst](hanjst/index)
 
 ### Hanjst Overview
@@ -33,5 +27,5 @@ t oin t ..nde
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDEyODg0NDNdfQ==
+eyJoaXN0b3J5IjpbMTI3NTczNTE0OSwtMTYwMTI4ODQ0M119
 -->
