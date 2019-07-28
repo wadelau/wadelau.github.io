@@ -28,7 +28,10 @@ https://github.com/wadelau/gwa2
 # GWA2 Others
 
 
-[Back to top](index)
+[Back to top](gwa2/index)
+
+[Back to Up](index)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzQxMDcyXX0=
+eyJoaXN0b3J5IjpbLTMzNzgwMjUzNCwyMTA3NDEwNzJdfQ==
 -->
