@@ -1,9 +1,5 @@
 
-# 
-gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem....
-
----
-[Back to p](index)Contents
+# Contents
 
 ## [GWA2](gwa2/index)
 
@@ -27,7 +23,7 @@ gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2MDIzNTAsOTg4NDE0MjEwLC00NTIzNT
-g1MTQsLTE1MDg4OTc0MzAsLTYxMzQxMTY3NCwxMjc1NzM1MTQ5
-XX0=
+eyJoaXN0b3J5IjpbLTEyNDMwNTkwMDQsNTM2MDIzNTAsOTg4ND
+E0MjEwLC00NTIzNTg1MTQsLTE1MDg4OTc0MzAsLTYxMzQxMTY3
+NCwxMjc1NzM1MTQ5XX0=
 -->
