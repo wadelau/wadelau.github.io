@@ -1,5 +1,9 @@
 
-# Contents
+# 
+gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem....
+
+---
+[Back to p](index)Contents
 
 ## [GWA2](gwa2/index)
 
@@ -22,8 +26,8 @@
 ### Hanjst Back-end Developers
 
 
-[Back to top](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4NDE0MjEwLC00NTIzNTg1MTQsLTE1MD
-g4OTc0MzAsLTYxMzQxMTY3NCwxMjc1NzM1MTQ5XX0=
+eyJoaXN0b3J5IjpbNTM2MDIzNTAsOTg4NDE0MjEwLC00NTIzNT
+g1MTQsLTE1MDg4OTc0MzAsLTYxMzQxMTY3NCwxMjc1NzM1MTQ5
+XX0=
 -->
