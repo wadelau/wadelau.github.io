@@ -19,12 +19,16 @@ Hanjst is an **Han** **J**ava**S**cript **T**emplate engine for HTML.
 ## Hanjst 
 ## Server-side Replaces
 ## Data in JSON
-
+## Resources
+### Paths
+### Scripts
+### Images
+## Search Engine Optimiation
 
 ---
 [Back to top](index)
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0OTYzMzQ2OSw0NDg0NzAzMzFdfQ==
+eyJoaXN0b3J5IjpbLTE2MTE0MzMzNTIsNDQ4NDcwMzMxXX0=
 -->
