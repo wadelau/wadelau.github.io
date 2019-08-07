@@ -4,6 +4,8 @@
 
 ### What is Hanjst
 
+Han JavaScript Template Language and Engine.
+
 Hanjst is a template language aiming at present a page of Web contents.
 
 Hanjst is a template engine which parse the pages written in Hanjst template language.
@@ -23,5 +25,5 @@ Hanjst is intentionally designed to stop further "Reinventing the wheel" for HTM
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMzMwNDQzM119
+eyJoaXN0b3J5IjpbLTExMzY2MDk1ODIsLTkzMzMwNDQzM119
 -->
