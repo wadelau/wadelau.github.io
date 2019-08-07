@@ -1,5 +1,5 @@
 
-# Hanjst
+# [Hanjst](/hanjst/index)
 ## What is Hanjst and Why
 
 ### What is Hanjst?
@@ -58,6 +58,6 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyMDg1ODM0LC02OTg1MDE4NzYsLTkzMz
-MwNDQzM119
+eyJoaXN0b3J5IjpbMTIwOTY3Nzg4NSw4MDIwODU4MzQsLTY5OD
+UwMTg3NiwtOTMzMzA0NDMzXX0=
 -->
