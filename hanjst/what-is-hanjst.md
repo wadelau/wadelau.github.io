@@ -36,13 +36,25 @@ Applying these criteria to all of exist JavaScript-based templates, however, it 
 
  As a fan of [Smarty,](//www.smarty.net) we would like to design and implement a whole newly-created JavaScript-based template language to cover all scenarios where Smarty has achieved.
  
-In the meantime,  bearing these features and functions in mind, the 
+In the meantime,  bearing these features and functions in mind, the invented template and its engine, so-called Hanjst, has mertis as:
+
+-   Hanjst's Run-time in client-side, reduce computing render in server-side;
+    
+-   Hanjst is Language-independent, not-bound with back-end scripts or languages;
+    
+-   Totally-isolated between MVC, data transfer with JSON;
+    
+-   Full-support template tags with built-in logic and customized JavaScript functions;
+    
+-   No more tags languages to be learned, just JavaScript;
+    
+-   ....
 
 ----
 [Back to top](/hanjst/what-is-hanjst)
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjM4MzE2MDAsLTY5ODUwMTg3NiwtOT
-MzMzA0NDMzXX0=
+eyJoaXN0b3J5IjpbNjE2ODgxMTU2LC02OTg1MDE4NzYsLTkzMz
+MwNDQzM119
 -->
