@@ -6,9 +6,6 @@
 
 **Hanjst** is an **Han** **J**ava**S**cript **T**emplate language and engine for HTML.
 
-**Hanjst** is written and running in JavaScript environment which means in both client and server side.
-
-Hanjst is intentionally designed to **stop further "Reinventing the wheel"** for HTML template engines though it sounds ridiculous.
 
 ## Get Started
 ### [What is Hanjst and Why?](/hanjst/what-is-hanjst)
@@ -42,6 +39,6 @@ Hanjst is intentionally designed to **stop further "Reinventing the wheel"** for
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1OTQzOTU5LDQwNzA3ODY1MywxMTYxNj
-M1NTgyLDQ0ODQ3MDMzMV19
+eyJoaXN0b3J5IjpbMTEyNDUwNzkzOSw0MDcwNzg2NTMsMTE2MT
+YzNTU4Miw0NDg0NzAzMzFdfQ==
 -->
