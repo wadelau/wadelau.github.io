@@ -16,6 +16,9 @@ Hanjst is an **Han** **J**ava**S**cript **T**emplate engine for HTML.
 ### Custom Functions
 
 # Hanjst Back-end Developers
+## Hanjst 
+## Server-side Replaces
+## Data in JSON
 
 
 ---
@@ -23,5 +26,5 @@ Hanjst is an **Han** **J**ava**S**cript **T**emplate engine for HTML.
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyMTA4NTM2LDQ0ODQ3MDMzMV19
+eyJoaXN0b3J5IjpbLTY0OTYzMzQ2OSw0NDg0NzAzMzFdfQ==
 -->
