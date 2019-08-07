@@ -3,7 +3,7 @@
 
 Hanjst is an **Han** **J**ava**S**cript **T**emplate engine for HTML....
 
-# Hanjst Front-end Developers
+# Hanjst Front-end Designers
 ...
 
 # Hanjst Back-end Developers
@@ -14,5 +14,5 @@ Hanjst is an **Han** **J**ava**S**cript **T**emplate engine for HTML....
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzU0NjUzLDQ0ODQ3MDMzMV19
+eyJoaXN0b3J5IjpbOTg2MDYxNjk4LDQ0ODQ3MDMzMV19
 -->
