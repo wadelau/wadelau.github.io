@@ -6,7 +6,7 @@ Hanjst is an **Han** **J**ava**S**cript **T**emplate engine for HTML.
 ![Hanjst Logo](http://ufqi.com/blog/wp-content/uploads/2019/06/hanjst-logo.201901.jpg)
 
 ## Get Started
-### What is Hanjst
+### What is Hanjst and Why?
 ### Installation
 ### Configurations
 #### Debugging
@@ -28,12 +28,13 @@ Hanjst is an **Han** **J**ava**S**cript **T**emplate engine for HTML.
 #### Third-party Libraries
 ### Images
 ## Search Engine Optimization
-
+### Title, KD
+### Links
 
 ---
 [Back to top](index)
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3NjM4MDAzLDQ0ODQ3MDMzMV19
+eyJoaXN0b3J5IjpbLTM2MjQ4NzY3Nyw0NDg0NzAzMzFdfQ==
 -->
