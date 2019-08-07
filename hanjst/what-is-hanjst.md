@@ -22,13 +22,15 @@ Hanjst is intentionally designed to stop further "Reinventing the wheel" for HTM
 
 It is easy to create another new template language and engine with JavaScript. therefore, there are too many JavaScript-based templates and corresponding engines for HTML.
 
-Frankly speaking, the basic reason is that it is a simple and easy piece of work to make replaces work with a template and its engine which is designed to parse the templates 
+Frankly speaking, the basic reason is that it is a simple and easy piece of work to make replaces work with a template and its engine which is designed to parse the template sentences into final representations.
+
+Unfortunately, there is no state of art work for this job.  
 
 ----
 [Back to top](/hanjst/what-is-hanjst)
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTU4NDI1MywtNjk4NTAxODc2LC05Mz
+eyJoaXN0b3J5IjpbMTcxMTU0NDAwMSwtNjk4NTAxODc2LC05Mz
 MzMDQ0MzNdfQ==
 -->
