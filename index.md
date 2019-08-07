@@ -2,6 +2,7 @@
 # Contents
 
 ## [GWA2](gwa2/index)
+General Web Application Architecture
 ![GWA2 Logo](http://ufqi.com/blog/wp-content/uploads/2016/09/gwa2-logo-201606.v2.png)
 
 ### GWA2 Overview
@@ -12,6 +13,7 @@
 ----
 
 ## [gMIS](gmis/index)
+general Management Information System
 ![gMIS Logo](https://ufqi.com/dev/gmis/gmis-logo-201606.png)
 
 ### gMIS Overview
@@ -20,6 +22,7 @@
 ---
 
 ## [Hanjst](hanjst/index)
+Han JavaScript Te
 ![Hanjst Logo](http://ufqi.com/blog/wp-content/uploads/2019/06/hanjst-logo.201901.jpg)
 
 ### Hanjst Overview
@@ -28,7 +31,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Mjk0NzQzMiwtMTI0MzA1OTAwNCw1Mz
-YwMjM1MCw5ODg0MTQyMTAsLTQ1MjM1ODUxNCwtMTUwODg5NzQz
-MCwtNjEzNDExNjc0LDEyNzU3MzUxNDldfQ==
+eyJoaXN0b3J5IjpbLTEwNDQzOTY4OTIsLTEyNDMwNTkwMDQsNT
+M2MDIzNTAsOTg4NDE0MjEwLC00NTIzNTg1MTQsLTE1MDg4OTc0
+MzAsLTYxMzQxMTY3NCwxMjc1NzM1MTQ5XX0=
 -->
