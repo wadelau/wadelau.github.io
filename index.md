@@ -18,12 +18,12 @@
 ## [Hanjst](hanjst/index)
 
 ### Hanjst Overview
-### Hanjst Front-end Designers
-### Hanjst Back-end Developers
+### Hanjst for Front-end Designers
+### Hanjst for Back-end Developers
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQ3NzU1NzksLTEyNDMwNTkwMDQsNT
-M2MDIzNTAsOTg4NDE0MjEwLC00NTIzNTg1MTQsLTE1MDg4OTc0
-MzAsLTYxMzQxMTY3NCwxMjc1NzM1MTQ5XX0=
+eyJoaXN0b3J5IjpbLTY1MTI3MDA2MSwtMTI0MzA1OTAwNCw1Mz
+YwMjM1MCw5ODg0MTQyMTAsLTQ1MjM1ODUxNCwtMTUwODg5NzQz
+MCwtNjEzNDExNjc0LDEyNzU3MzUxNDldfQ==
 -->
