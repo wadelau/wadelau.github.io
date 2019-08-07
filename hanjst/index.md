@@ -1,7 +1,7 @@
 
 # Hanjst Overview
 
-Hanjst is an **Han** **J**ava**S**cript **T**emplate engine for HTML.
+Hanjst is an **Han** **J**ava**S**cript **T**emplate language and engine for HTML.
 
 ![Hanjst Logo](http://ufqi.com/blog/wp-content/uploads/2019/06/hanjst-logo.201901.jpg)
 
@@ -36,5 +36,6 @@ Hanjst is an **Han** **J**ava**S**cript **T**emplate engine for HTML.
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTYzNTU4Miw0NDg0NzAzMzFdfQ==
+eyJoaXN0b3J5IjpbMTg2OTYyMjMzLDExNjE2MzU1ODIsNDQ4ND
+cwMzMxXX0=
 -->
