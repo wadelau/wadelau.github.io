@@ -28,11 +28,13 @@ Unfortunately, there is no state of art work for this job prior to Hanjst.
  ![Mindmap of templates engines](http://ufqi.com/blog/wp-content/uploads/2018/12/TemplateLanguage_Engine_forWeb.201812.png)
  
  What we expect for a client-side template, i.e., JavaScript-based template, are three keys points:
- - Run in client-side
- - Independent of back-end scripts
+ - Run in client-side, optional in server-side
+ - Independent of back-end programming languages
  - As powerful as templates of back-end
 
-apply these criteria to all of exist JavaScript-based templates 
+Applying these criteria to all of exist JavaScript-based templates, however, it is hard to find one which meets all of these requirements.
+
+ As a 
 
 
 ----
@@ -40,6 +42,6 @@ apply these criteria to all of exist JavaScript-based templates
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjE5MjQxNCwtNjk4NTAxODc2LC05Mz
+eyJoaXN0b3J5IjpbMTAyNzQzNjE1OSwtNjk4NTAxODc2LC05Mz
 MzMDQ0MzNdfQ==
 -->
