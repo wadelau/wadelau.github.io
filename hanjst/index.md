@@ -11,14 +11,14 @@ Hanjst is an **Han** **J**ava**S**cript **T**emplate engine for HTML.
 ### Configurations
 #### Debugging
 
-# Hanjst Front-end Designers
+# Hanjst for Front-end Designers
 ## Basic Syntax
 ## Variables and Modifiers
 ## Functions
 ### Built-in Functions
 ### Custom Functions
 
-# Hanjst Back-end Developers
+# Hanjst for Back-end Developers
 ## Hanjst Class 
 ## Server-side Replaces
 ## Data in JSON
@@ -28,7 +28,7 @@ Hanjst is an **Han** **J**ava**S**cript **T**emplate engine for HTML.
 #### Third-party Libraries
 ### Images
 ## Search Engine Optimization
-### Title, KD
+### Title, Keyword and Description
 ### Links
 
 ---
@@ -36,5 +36,5 @@ Hanjst is an **Han** **J**ava**S**cript **T**emplate engine for HTML.
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjQ4NzY3Nyw0NDg0NzAzMzFdfQ==
+eyJoaXN0b3J5IjpbMjAzNTA3ODIwOCw0NDg0NzAzMzFdfQ==
 -->
