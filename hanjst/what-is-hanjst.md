@@ -18,6 +18,8 @@ Han is also Chinese in Pinyin, Hànrén (汉人).
 
 Hanjst is intentionally designed to stop further "Reinventing the wheel" for HTML template engines though it sounds ridiculous.
 
+"**汉吉斯特**" in Chinese.
+
 ### Why Hanjst?
 
 It is easy to create another new template language and engine with JavaScript. therefore, there are too many JavaScript-based templates and corresponding engines for HTML.
@@ -58,6 +60,6 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTY3Nzg4NSw4MDIwODU4MzQsLTY5OD
-UwMTg3NiwtOTMzMzA0NDMzXX0=
+eyJoaXN0b3J5IjpbLTQ3NTI2MTg4MSwxMjA5Njc3ODg1LDgwMj
+A4NTgzNCwtNjk4NTAxODc2LC05MzMzMDQ0MzNdfQ==
 -->
