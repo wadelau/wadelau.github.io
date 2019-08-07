@@ -6,6 +6,7 @@
 
 **Hanjst** is an **Han** **J**ava**S**cript **T**emplate language and engine for HTML.
 
+"**汉吉斯特**" in Chinese.
 
 ## Get Started
 ### [What is Hanjst and Why?](/hanjst/what-is-hanjst)
@@ -39,6 +40,6 @@
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDUwNzkzOSw0MDcwNzg2NTMsMTE2MT
-YzNTU4Miw0NDg0NzAzMzFdfQ==
+eyJoaXN0b3J5IjpbMTc1MTg4OTkxOSwxMTI0NTA3OTM5LDQwNz
+A3ODY1MywxMTYxNjM1NTgyLDQ0ODQ3MDMzMV19
 -->
