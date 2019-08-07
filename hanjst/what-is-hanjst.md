@@ -30,7 +30,9 @@ Unfortunately, there is no state of art work for this job prior to Hanjst.
  What we expect for a client-side template, i.e., JavaScript-based template, are three keys points:
  - Run in client-side
  - Independent of back-end scripts
- - As powerful as t
+ - As powerful as templates of back-end
+
+apply these criteria to all of exist JavaScript-based templates 
 
 
 ----
@@ -38,6 +40,6 @@ Unfortunately, there is no state of art work for this job prior to Hanjst.
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzUwMjU3MzEsLTY5ODUwMTg3NiwtOT
-MzMzA0NDMzXX0=
+eyJoaXN0b3J5IjpbLTk4NjE5MjQxNCwtNjk4NTAxODc2LC05Mz
+MzMDQ0MzNdfQ==
 -->
