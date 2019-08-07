@@ -2,7 +2,7 @@
 # Hanjst
 ## What is Hanjst and Why
 
-### What is Hanjst
+### What is Hanjst?
 
 ![Hanjst Logo](http://ufqi.com/blog/wp-content/uploads/2019/06/hanjst-logo.201901.jpg)
 
@@ -25,7 +25,7 @@ It is easy to create another new template language and engine with JavaScript. t
 Frankly speaking, the basic reason is that it is a simple and easy piece of work to make replaces work with a template and its engine which is designed to parse the template sentences into final representations.
 
 Unfortunately, there is no state of art work for this job prior to Hanjst.
-
+ ![Mindmap of templates engines](http://ufqi.com/blog/wp-content/uploads/2018/12/TemplateLanguage_Engine_forWeb.201812.png)
  
  
 
@@ -34,6 +34,6 @@ Unfortunately, there is no state of art work for this job prior to Hanjst.
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTc2OTIwNCwtNjk4NTAxODc2LC05Mz
-MzMDQ0MzNdfQ==
+eyJoaXN0b3J5IjpbMTc0ODIzOTIzLC02OTg1MDE4NzYsLTkzMz
+MwNDQzM119
 -->
