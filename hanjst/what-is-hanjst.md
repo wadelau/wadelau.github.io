@@ -27,13 +27,13 @@ Frankly speaking, the basic reason is that it is a simple and easy piece of work
 Unfortunately, there is no state of art work for this job prior to Hanjst.
  ![Mindmap of templates engines](http://ufqi.com/blog/wp-content/uploads/2018/12/TemplateLanguage_Engine_forWeb.201812.png)
  
- 
+ What we expect for a client-side template, i.e., JavaScript-based template, are 
 
 ----
 [Back to top](/hanjst/what-is-hanjst)
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODIzOTIzLC02OTg1MDE4NzYsLTkzMz
+eyJoaXN0b3J5IjpbLTYxODkwNTgyLC02OTg1MDE4NzYsLTkzMz
 MwNDQzM119
 -->
