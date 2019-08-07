@@ -10,6 +10,7 @@ Hanjst is an **Han** **J**ava**S**cript **T**emplate language and engine for HTM
 ### Installation
 ### Configurations
 #### Debugging
+### Misc.
 
 # Hanjst for Templates Designers
 ## Basic Syntax
@@ -36,6 +37,6 @@ Hanjst is an **Han** **J**ava**S**cript **T**emplate language and engine for HTM
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTYyMjMzLDExNjE2MzU1ODIsNDQ4ND
+eyJoaXN0b3J5IjpbNzQ4NjM0MjQ4LDExNjE2MzU1ODIsNDQ4ND
 cwMzMxXX0=
 -->
