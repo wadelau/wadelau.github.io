@@ -34,7 +34,8 @@ Unfortunately, there is no state of art work for this job prior to Hanjst.
 
 Applying these criteria to all of exist JavaScript-based templates, however, it is hard to find one which meets all of these requirements.
 
- As a 
+ As a fan of -Smarty, we would like to design and implement a whole newly-created JavaScript-based template language to cover all scenarios where Smarty has achieved.
+ 
 
 
 ----
@@ -42,6 +43,6 @@ Applying these criteria to all of exist JavaScript-based templates, however, it 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzQzNjE1OSwtNjk4NTAxODc2LC05Mz
-MzMDQ0MzNdfQ==
+eyJoaXN0b3J5IjpbLTExNjk2NTU0MTIsLTY5ODUwMTg3NiwtOT
+MzMzA0NDMzXX0=
 -->
