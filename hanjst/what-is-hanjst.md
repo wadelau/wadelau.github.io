@@ -51,13 +51,13 @@ In the meantime,  bearing these features and functions in mind, the invented tem
     
 -   ....
 
-All in one, we believe that Hanjst would be the final JavaScript-based template language, and it has all 
+All in one, we believe that Hanjst would be the final JavaScript-based template language, and it has all functions which needed in client-side run-time. Also, any further "reinvent of the wheel" in this field would be meaningless. 
 
 ----
 [Back to top](/hanjst/what-is-hanjst)
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ5NTQxNzQsLTY5ODUwMTg3NiwtOT
-MzMzA0NDMzXX0=
+eyJoaXN0b3J5IjpbODAyMDg1ODM0LC02OTg1MDE4NzYsLTkzMz
+MwNDQzM119
 -->
