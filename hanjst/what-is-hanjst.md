@@ -24,13 +24,16 @@ It is easy to create another new template language and engine with JavaScript. t
 
 Frankly speaking, the basic reason is that it is a simple and easy piece of work to make replaces work with a template and its engine which is designed to parse the template sentences into final representations.
 
-Unfortunately, there is no state of art work for this job.  
+Unfortunately, there is no state of art work for this job prior to Hanjst.
+
+ 
+ 
 
 ----
 [Back to top](/hanjst/what-is-hanjst)
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTU0NDAwMSwtNjk4NTAxODc2LC05Mz
+eyJoaXN0b3J5IjpbMTcwNTc2OTIwNCwtNjk4NTAxODc2LC05Mz
 MzMDQ0MzNdfQ==
 -->
