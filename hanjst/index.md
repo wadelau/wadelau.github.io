@@ -5,6 +5,8 @@ Hanjst is an **Han** **J**ava**S**cript **T**emplate language and engine for HTM
 
 ![Hanjst Logo](http://ufqi.com/blog/wp-content/uploads/2019/06/hanjst-logo.201901.jpg)
 
+Hanjst is written and running in JavaAS
+
 ## Get Started
 ### What is Hanjst and Why?
 ### Installation
@@ -37,6 +39,6 @@ Hanjst is an **Han** **J**ava**S**cript **T**emplate language and engine for HTM
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NjM0MjQ4LDExNjE2MzU1ODIsNDQ4ND
+eyJoaXN0b3J5IjpbNzI4MDAxODcyLDExNjE2MzU1ODIsNDQ4ND
 cwMzMxXX0=
 -->
