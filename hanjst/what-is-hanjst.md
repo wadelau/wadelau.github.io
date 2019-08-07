@@ -27,13 +27,17 @@ Frankly speaking, the basic reason is that it is a simple and easy piece of work
 Unfortunately, there is no state of art work for this job prior to Hanjst.
  ![Mindmap of templates engines](http://ufqi.com/blog/wp-content/uploads/2018/12/TemplateLanguage_Engine_forWeb.201812.png)
  
- What we expect for a client-side template, i.e., JavaScript-based template, are 
+ What we expect for a client-side template, i.e., JavaScript-based template, are three keys points:
+ - Run in client-side
+ - Independent of back-end scripts
+ - As powerful as t
+
 
 ----
 [Back to top](/hanjst/what-is-hanjst)
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODkwNTgyLC02OTg1MDE4NzYsLTkzMz
-MwNDQzM119
+eyJoaXN0b3J5IjpbLTEzMzUwMjU3MzEsLTY5ODUwMTg3NiwtOT
+MzMzA0NDMzXX0=
 -->
