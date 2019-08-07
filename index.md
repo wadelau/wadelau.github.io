@@ -13,6 +13,9 @@ General Web Application Architecture.
 ### GWA2 in Python
 ----
 
+
+---
+
 ---
 
 ## [gMIS](gmis/index)
@@ -23,6 +26,8 @@ general Management Information System.
 ### gMIS Overview
 ### gMIS End-users
 ### gMIS Developers
+---
+
 ---
 
 ---
@@ -40,7 +45,8 @@ Han JavaScript Template.
 ---
 [Back to top](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTg1ODQ3NzUsLTEyNDMwNTkwMDQsNT
-M2MDIzNTAsOTg4NDE0MjEwLC00NTIzNTg1MTQsLTE1MDg4OTc0
-MzAsLTYxMzQxMTY3NCwxMjc1NzM1MTQ5XX0=
+eyJoaXN0b3J5IjpbLTUyNzU4MjQzMSwtMTQxODU4NDc3NSwtMT
+I0MzA1OTAwNCw1MzYwMjM1MCw5ODg0MTQyMTAsLTQ1MjM1ODUx
+NCwtMTUwODg5NzQzMCwtNjEzNDExNjc0LDEyNzU3MzUxNDldfQ
+==
 -->
