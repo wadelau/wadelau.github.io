@@ -19,6 +19,7 @@ Be careful，debug mode will consume extra computing resources and it should be 
 There are a few of type of log messages. Basically, information, warnings and errors.
 
 **1. Information**
+--
 >Hanjst aft parse copyright_year:2019
 
 This marks Hanjst has successfully read JSON data and generated all global variables including one of the default tags, **copyright_year**. 
@@ -53,6 +54,7 @@ In the [demo page of Hanjst]([https://ufqi.com/dev/hanjst/](https://ufqi.com/dev
 
 
 **2. Warnings**
+--
 > additional original scripts before jsondata will be invoked twice.....Thu Aug 08 2019 12:37:00 GMT+0800 (China Standard Time)
 
 @todo
@@ -88,6 +90,7 @@ These keywords and their usages will be discussed in detail in following section
 
 
 **3. Errors**
+--
 >Hanjst template code exec failed.
 >{“stack”:”ReferenceError: \$myAds2 is not defined\n at eval (eval at renderTemplate (http://example.com/view/default/js/Hanjst.js?v=201906171103:468:15), :405:1)\n at renderTemplate (http://example.com//view/default/js/Hanjst.js?v=201906171103:468:39)\n at _callRender (http://example.com//view/default/js/Hanjst.js?v=201906171103:679:9)\n at http://example.com//view/default/js/Hanjst.js?v=201906171103:698:9\n at http://example.com//view/default/js/Hanjst.js?v=201906171103:701:3″,”message”:”\$myAds2 is not defined”}
 >Line 404:
@@ -114,6 +117,6 @@ Attention! It is worth noting! Hanjst turns on JavaScript's Strict mode, which d
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjg4Mjk5NDAsLTEwMDQzNDQ2MjYsMj
-E4NzAxOTU2LDc3NTgxNDkwXX0=
+eyJoaXN0b3J5IjpbMzk5OTU4OTEwLC0xMDA0MzQ0NjI2LDIxOD
+cwMTk1Niw3NzU4MTQ5MF19
 -->
