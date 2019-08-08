@@ -32,8 +32,26 @@ That's all, the powerful and unmatched template engine Hanjst has been implement
 #### Extended Setup
 With more we learned from Hanjst, there are some options to install and run the Hanjst template engine.
 
-Here is a
+Here is an advanced and sophisticated example of extended setup with Hanjst.
+```html
+<html>
+....
+<body>
 
+....
+<div id="Hanjstjsondata">
+	{"copyright_year": 2018}
+</div>
+<!-- Hanjst codes begin -->
+<script type="text/javascript" async>
+    window.Hanjst = {'JsonDataId':'Hanjstjsondata', 'IsDebug': true}; // optional
+</script>
+<script type="text/javascript" src="Hanjst.js" async></script>
+<noscript>JavaScript Required for Hanjst.</noscript>
+<!-- Hanjst codes end -->
+</body> 
+</html>
+```
 
 ### Run-time
 
@@ -49,6 +67,6 @@ Here is a
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NzQ2MjUwNywxNTYwMjIzNTgzLDE4Mj
-gyODg4OTddfQ==
+eyJoaXN0b3J5IjpbNzUzMjA5Mjk1LDE1NjAyMjM1ODMsMTgyOD
+I4ODg5N119
 -->
