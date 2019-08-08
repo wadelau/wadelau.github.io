@@ -27,6 +27,8 @@ The source file will run automatically and check all the elements of the host pa
 
 Please pay attention to BODY element, Hanjst need it to be its parent node.
 
+That's all, the powerful and unmatched template engine has been implemented successfully and will be running automatically seamlessly and  
+
 #### Extended Setup
 
 
@@ -37,13 +39,13 @@ Please pay attention to BODY element, Hanjst need it to be its parent node.
 
 
 ----
-[Back to top](/hanjst/hanjst-install)
+[Back to Top](/hanjst/hanjst-install)
 
 [Previous](./what-is-hanjst) ... [Next](./)
 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNjAzODQxOCwxNTYwMjIzNTgzLDE4Mj
+eyJoaXN0b3J5IjpbLTUzNzk2OTg1MywxNTYwMjIzNTgzLDE4Mj
 gyODg4OTddfQ==
 -->
