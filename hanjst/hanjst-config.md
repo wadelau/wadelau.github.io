@@ -13,6 +13,8 @@ window.HanjstDefault = {
 	"IsDebug": false, //- verbose output in console
 };
 ```
+Keys listed in above can be set in window.Han
+
 
 
 ---
@@ -27,5 +29,5 @@ window.HanjstDefault = {
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTg4ODMwODYsMjEyNTEzNjA0MV19
+eyJoaXN0b3J5IjpbLTE2ODUzNjYzNCwyMTI1MTM2MDQxXX0=
 -->
