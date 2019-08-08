@@ -24,7 +24,7 @@
 
 # Hanjst for Back-end Developers
 ## Hanjst Class 
-## Server-side Replaces
+## Server-side Replacements
 ## Data in JSON
 ## Resources
 ### Paths
@@ -42,7 +42,7 @@
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyMjMyNjY5LDE3MDY1MjM3MCw2OTk1Mz
+eyJoaXN0b3J5IjpbMjM5NTQ0MTI3LDE3MDY1MjM3MCw2OTk1Mz
 Y5ODYsMTc1MTg4OTkxOSwxMTI0NTA3OTM5LDQwNzA3ODY1Mywx
 MTYxNjM1NTgyLDQ0ODQ3MDMzMV19
 -->
