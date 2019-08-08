@@ -20,7 +20,7 @@ There are a few of type of log messages. Basically, information, warnings and er
 1. Information
 >Hanjst aft parse copyright_year:2019
 
->Hanjst sorted tpl sentence:[span {if $user['feedback'] lt 3 } class="cls2" {else} {/if}] in Chrome-likes.
+>Hanjst sorted tpl sentence:[span {if \$user['feedback'] lt 3 } class="cls2" {else} {/if}] in Chrome-likes.
 
 >Hanjst includeScript:	if(1==1){.....
 
@@ -30,7 +30,11 @@ There are a few of type of log messages. Basically, information, warnings and er
 
 >Hanjst found embedded tpl sentence:[span {if="" $user['feedback']="" gt="" 4}="" class="cls2" {else}="" {="" if}=""] but compatible partially.
 
->Hanjst illegal tpl sentence:[if $newslist[$k]['title'].length > 25 ] but compatible.
+>Hanjst illegal tpl sentence:[if \$newslist[$k]['title'].length > 25 ] but compatible.
+
+>Hanjst illegal tpl sentence:[foreach $newscontentlist as $page] but compatible.
+
+
 
 3. Errors
 
@@ -47,5 +51,5 @@ There are a few of type of log messages. Basically, information, warnings and er
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDU3NzQxNjBdfQ==
+eyJoaXN0b3J5IjpbLTM4MTA0NDYxOV19
 -->
