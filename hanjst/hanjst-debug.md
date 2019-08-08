@@ -79,9 +79,9 @@ In the [demo page of Hanjst]([https://ufqi.com/dev/hanjst/](https://ufqi.com/dev
 
 When Hanjst encounters a syntax error, it throws a readable exception code description to form a traceable error report.
 
-Based on these error message specific to the line number, the developers can find the error location and make corrections as fast as possible. As shown above, it is indicated that when the template engine performs parsing, it is found that a variable such as $myAds2 which is undefined on line 405 is used without being initialized, so an error is reported.
+Based on these error message specific to the line number, the developers can find the error location and make corrections as fast as possible. As shown above, it is indicated that when the template engine performs parsing, it has been found that a variable such as $myAds2 which is undefined on line 405 is used without being initialized prior to being called, so an error is reported.
 
-note! It is worth noting! Hanjst turns on JavaScript's Strict mode, which doesn't allow undefined variables!
+Attention! It is worth noting! Hanjst turns on JavaScript's Strict mode, which doesn't allow undefined variables!
 
 ---
 #### Related works
@@ -96,6 +96,6 @@ note! It is worth noting! Hanjst turns on JavaScript's Strict mode, which doesn'
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTI1NjA5NywtMTAwNDM0NDYyNiwyMT
+eyJoaXN0b3J5IjpbLTg4NzU4MjQxNCwtMTAwNDM0NDYyNiwyMT
 g3MDE5NTYsNzc1ODE0OTBdfQ==
 -->
