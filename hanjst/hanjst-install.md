@@ -75,7 +75,10 @@ Sometimes it is necessary to hide JSON data from end-users. Usually there are tw
 End-users will see a waiting layer if we choose this method by adding a top-index DIV layer as the very first element of BODY.
 
 2. To set JSON data DIV hide.
-End-user will see a few parts of the 
+End-user will see a few parts of the loading page if we choose this method by set a CSS style as below.
+```html
+<div id="Hanjstjsondata" style="display:hidden;"></div>
+```
 
 
 #### Related works
@@ -90,6 +93,6 @@ End-user will see a few parts of the
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDUzMDI1LDE1NjAyMjM1ODMsMTgyOD
-I4ODg5N119
+eyJoaXN0b3J5IjpbLTIwMjIzNTQ2MTcsMTU2MDIyMzU4MywxOD
+I4Mjg4ODk3XX0=
 -->
