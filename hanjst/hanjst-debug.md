@@ -22,7 +22,7 @@ There are a few of type of log messages. Basically, information, warnings and er
 >Hanjst aft parse copyright_year:2019
 
 This marks Hanjst has successfully read JSON data and generated all global variables including one of the default tags, **copyright_year**. 
-The copyright_year will be set dynamically to the current year.
+The **copyright_year** will be set dynamically to the current year.
 
 >Hanjst sorted tpl sentence:[span {if \$user['feedback'] lt 3 } class="cls2" {else} {/if}] in Chrome-likes.
 
@@ -33,16 +33,19 @@ To figure it out, we designate "lt" (less than) to represent <, so as "gt" for >
 
 >Hanjst includeScript:	if(1==1){.....
 
-dd
+@todo
+
 >Hanjst tpl2code:try{ var tpl2js = []; ...
 
-dd
+@todo
+
 >tplParse:&lt;style>...."
 
-dd
+@todo
+
 >Hanjst parse time                 cost: 0.017s
 
-dd
+Hanjst log its cost time from the veru
 
 
 **2. Warnings**
@@ -78,5 +81,6 @@ dd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4NzAxOTU2LDc3NTgxNDkwXX0=
+eyJoaXN0b3J5IjpbLTE0NjM1MjIwOTcsMjE4NzAxOTU2LDc3NT
+gxNDkwXX0=
 -->
