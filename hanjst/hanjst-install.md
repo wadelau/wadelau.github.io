@@ -60,6 +60,9 @@ We adds two more elements for Hanjst, trying to adjust the behaving of the templ
 
 Alternatively, we also add the keyword  **async** for JavaScript scripts.  "async" allow scripts to be loaded wisely with non-blocking pipe when browsers downloading and pages rendering. 
 
+All of these additions are optional, so they can be removed and omitted.
+
+
 
 ### Run-time
 
@@ -75,6 +78,6 @@ Alternatively, we also add the keyword  **async** for JavaScript scripts.  "asyn
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTI1NzI1OCwxNTYwMjIzNTgzLDE4Mj
-gyODg4OTddfQ==
+eyJoaXN0b3J5IjpbLTE0NDA5MzY2MTgsMTU2MDIyMzU4MywxOD
+I4Mjg4ODk3XX0=
 -->
