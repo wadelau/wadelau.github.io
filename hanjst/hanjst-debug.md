@@ -2,7 +2,18 @@
 ## Hanjst Debugging
 ### IsDebug Directive
 Hanjst has a debug mode.
-To enable the debug mode, just set IsDebug=true 
+To enable the debug mode, just set "IsDebug=true" before invoking the main template parsing engine.
+
+```javascript
+<script type="text/javascript" async>
+    window.Hanjst = {'JsonDataId':'Hanjstjsondata', 
+	    'IsDebug': true}; // optional
+</script>
+```
+
+The 
+
+ 
 
 ### Debugging Output
 
@@ -19,5 +30,5 @@ To enable the debug mode, just set IsDebug=true
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDE1MjY1ODJdfQ==
+eyJoaXN0b3J5IjpbLTQ3Mzc5OTUwOV19
 -->
