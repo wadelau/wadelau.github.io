@@ -80,13 +80,16 @@ End-users will see a waiting layer if we choose this method by adding a top-inde
 </div>
 ```
 
-2. To set JSON data DIV hide.
+2. To set JSON data DIV hidden.
 End-user will see a few parts of the loading page if we choose this method by set a CSS style as below.
 ```html
-<div id="Hanjstjsondata" style="display:hidden;">
+<div id="Hanjstjsondata" 
+	style="display:hidden;">
 	{"copyright_year": 2018}
 </div>
 ```
+
+Template designers and developers are encouraged to implement one of them to prevent the 
 
 
 #### Related works
@@ -101,6 +104,6 @@ End-user will see a few parts of the loading page if we choose this method by se
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQ0OTEzNjgsMTU2MDIyMzU4MywxOD
+eyJoaXN0b3J5IjpbLTEwMzY4OTcxNTIsMTU2MDIyMzU4MywxOD
 I4Mjg4ODk3XX0=
 -->
