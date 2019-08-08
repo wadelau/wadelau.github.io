@@ -38,11 +38,11 @@
 ---
 [Back to top](index)
 
-[Back to Previous](index)
+[Back to Previous](../index)   [Next]
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyODEyMzU3LDE3NTE4ODk5MTksMTEyND
+eyJoaXN0b3J5IjpbNzY3NzgyOTk1LDE3NTE4ODk5MTksMTEyND
 UwNzkzOSw0MDcwNzg2NTMsMTE2MTYzNTU4Miw0NDg0NzAzMzFd
 fQ==
 -->
