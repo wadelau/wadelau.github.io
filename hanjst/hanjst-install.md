@@ -54,7 +54,7 @@ Here is an advanced and sophisticated example of extended setup with Hanjst.
 </body> 
 </html>
 ```
-
+We adds two more elements for Hanjst to 
 
 
 ### Run-time
@@ -71,6 +71,6 @@ Here is an advanced and sophisticated example of extended setup with Hanjst.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDc2ODE0OTgsMTU2MDIyMzU4MywxOD
-I4Mjg4ODk3XX0=
+eyJoaXN0b3J5IjpbMTM2MjE5OTEwLDE1NjAyMjM1ODMsMTgyOD
+I4ODg5N119
 -->
