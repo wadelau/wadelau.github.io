@@ -35,6 +35,7 @@ The powerful and unmatched template engine Hanjst has been implemented successfu
 With more we learned from Hanjst, there are some options to install and run the Hanjst template engine.
 
 Here is an advanced and sophisticated example of extended setup with Hanjst.
+
 ```html
 <html>
 ....
@@ -83,6 +84,7 @@ End-users will see a waiting layer if we choose this method by adding a top-inde
 
 2. To set JSON data DIV hidden.
 End-user will see a few parts of the loading page if we choose this method by set a CSS style as below.
+
 ```html
 <div id="Hanjstjsondata" 
 	style="display:hidden;">
@@ -105,6 +107,6 @@ Template designers and developers are encouraged to implement one of them to pre
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTUxODY2MSwtMTM4MTExMTkzNiwxNT
-YwMjIzNTgzLDE4MjgyODg4OTddfQ==
+eyJoaXN0b3J5IjpbLTc1MDk4NTY1OSwxNjQ5NTE4NjYxLC0xMz
+gxMTExOTM2LDE1NjAyMjM1ODMsMTgyODI4ODg5N119
 -->
