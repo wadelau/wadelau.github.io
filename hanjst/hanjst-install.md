@@ -1,4 +1,4 @@
-# [Hanjst](/hanst/index)
+# [Hanjst](/hanjst/index)
 ## Hanjst Installation
 ### Simple and Basic
 
@@ -81,6 +81,6 @@ We will investigate deeply into [Hanjst configurations and settings](./hanjst-co
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE5ODEzNzEsMTU2MDIyMzU4MywxOD
+eyJoaXN0b3J5IjpbLTE2MTU1ODY1NTEsMTU2MDIyMzU4MywxOD
 I4Mjg4ODk3XX0=
 -->
