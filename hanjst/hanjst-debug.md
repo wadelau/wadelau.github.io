@@ -13,6 +13,9 @@ To enable the debug mode, just set "IsDebug=true" before invoking the main templ
 
 The template parse engine will output verbose message in current browser's console log or via window.alert.
 Be careful，debug mode will consume extra computing resources and it should be set to false in production environment.
+
+
+
  
 ### Debugging Output
 There are a few of type of log messages. Basically, information, warnings and errors.
@@ -27,7 +30,7 @@ The copyright_year will be set dynamically to the current year.
 
 Hanjst allow embedded template sentences which can be mixed with a normal HTML element.
 However it is error-prone that the confusions raised by the chars of < (less than) and > (greater than).
-To  
+To figure it out, we designate "lt" (less than) to represent <, so as "gt" for >. 
 
 >Hanjst includeScript:	if(1==1){.....
 
@@ -76,5 +79,5 @@ dd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDQzMjczNl19
+eyJoaXN0b3J5IjpbOTQ0MzY2NDddfQ==
 -->
