@@ -13,7 +13,7 @@ General Web Application Architecture.
 ### GWA2 in Perl
 ### GWA2 in Python
 
-.
+
 ----
 
 
@@ -29,7 +29,7 @@ general Management Information System.
 ### gMIS Overview
 ### gMIS End-users
 ### gMIS Developers
-.
+
 ---
 
 
@@ -53,8 +53,9 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6ICdHV0EyLCBnTUlTIGFuZC
 BIYW5qc3QnXG5hdXRob3I6ICdYZW54aW4sIFdhZGVsYXUnXG50
 YWdzOiAnR1dBMiwgZ01JUywgSGFuanN0LCDlkInlqIPlhZQsIO
 WQieWvhuaWrywg5rGJ5ZCJ5pav54m5J1xuZGF0ZTogJzIwMTkt
-MDgtMDgnXG4iLCJoaXN0b3J5IjpbMjE0NzQ5Mzc2LC0xNTkyMT
-kxNDMyLC01Mjc1ODI0MzEsLTE0MTg1ODQ3NzUsLTEyNDMwNTkw
-MDQsNTM2MDIzNTAsOTg4NDE0MjEwLC00NTIzNTg1MTQsLTE1MD
-g4OTc0MzAsLTYxMzQxMTY3NCwxMjc1NzM1MTQ5XX0=
+MDgtMDgnXG4iLCJoaXN0b3J5IjpbMTMwMTkwOTcyMiwyMTQ3ND
+kzNzYsLTE1OTIxOTE0MzIsLTUyNzU4MjQzMSwtMTQxODU4NDc3
+NSwtMTI0MzA1OTAwNCw1MzYwMjM1MCw5ODg0MTQyMTAsLTQ1Mj
+M1ODUxNCwtMTUwODg5NzQzMCwtNjEzNDExNjc0LDEyNzU3MzUx
+NDldfQ==
 -->
