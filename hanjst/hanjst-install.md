@@ -31,7 +31,7 @@ That's all!
 The powerful and unmatched template engine Hanjst has been implemented successfully and will be running automatically, seamlessly and efficiently. 
 
 ---
-#### Extended Setup
+### Extended Setup
 With more we learned from Hanjst, there are some options to install and run the Hanjst template engine.
 
 Here is an advanced and sophisticated example of extended setup with Hanjst.
@@ -89,7 +89,7 @@ End-user will see a few parts of the loading page if we choose this method by se
 </div>
 ```
 
-Template designers and developers are encouraged to implement one of them to prevent the 
+Template designers and developers are encouraged to implement one of them to prevent pages raw data from exposing to end-users.
 
 
 #### Related works
@@ -104,6 +104,6 @@ Template designers and developers are encouraged to implement one of them to pre
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY4OTcxNTIsMTU2MDIyMzU4MywxOD
+eyJoaXN0b3J5IjpbLTEzODExMTE5MzYsMTU2MDIyMzU4MywxOD
 I4Mjg4ODk3XX0=
 -->
