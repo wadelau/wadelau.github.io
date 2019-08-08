@@ -25,7 +25,9 @@ The copyright_year will be set dynamically to the current year.
 
 >Hanjst sorted tpl sentence:[span {if \$user['feedback'] lt 3 } class="cls2" {else} {/if}] in Chrome-likes.
 
-Hanjst allow embedded template sentences which can be mixed with  
+Hanjst allow embedded template sentences which can be mixed with a normal HTML element.
+However it is error-prone that the confusions raised by the chars of < (less than) and > (greater than).
+To  
 
 >Hanjst includeScript:	if(1==1){.....
 
@@ -74,5 +76,5 @@ dd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjI0NDI4NV19
+eyJoaXN0b3J5IjpbLTI4NDQzMjczNl19
 -->
