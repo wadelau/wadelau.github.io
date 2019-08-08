@@ -70,7 +70,7 @@ There do have a few of template languages and engines which meet the desirable r
 
 Therefore, the searching space left for us is limited and an encouraged option is to create a new template language and engine.     
  
-combining all those considerations and  bearing expected features and functions in mind, the invented template and its engine, so-called Hanjst, has mertis as:
+Combining all those considerations and  bearing expected features and functions in mind, the invented template and its engine, so-called Hanjst, has mertis as:
 
 -   Hanjst's Run-time in client-side, reduce computing render in server-side;
     
@@ -91,8 +91,9 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTM5ODA0MSwxODM1MjI3MDEwLDcxMj
-A2NTMwOSwtMjM0MzY0NzQwLDUzNTE1MjIwMCwtODQxNTIyOTU4
-LDE1MjQwMjg4LC00NzUyNjE4ODEsMTIwOTY3Nzg4NSw4MDIwOD
-U4MzQsLTY5ODUwMTg3NiwtOTMzMzA0NDMzXX0=
+eyJoaXN0b3J5IjpbLTE4MDE2NTMyNDEsLTQ2MTM5ODA0MSwxOD
+M1MjI3MDEwLDcxMjA2NTMwOSwtMjM0MzY0NzQwLDUzNTE1MjIw
+MCwtODQxNTIyOTU4LDE1MjQwMjg4LC00NzUyNjE4ODEsMTIwOT
+Y3Nzg4NSw4MDIwODU4MzQsLTY5ODUwMTg3NiwtOTMzMzA0NDMz
+XX0=
 -->
