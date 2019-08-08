@@ -88,7 +88,7 @@ Combining all those considerations and  bearing expected features and functions 
 All in one, we believe that Hanjst would be the final JavaScript-based template language, and it has all functions which needed in client-side run-time. Also, any further "reinvent of the wheel" in this field would be meaningless. 
 
 #### Related works
-1. [Hanjst ]
+1. [Hanjst Homepage](https://ufqi.com/dev/hanjst/)
 1. [Hanjst first release blog.](https://ufqi.com/blog/hello-2019-hanjst-init/)
 2. [GWA2's default template switch from Smarty to Hanjst.](https://ufqi.com/blog/gwa2-8-years-with-smarty-to-hanjst/)
 
@@ -99,9 +99,9 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwODM2NTksLTE4MDE2NTMyNDEsLTQ2MT
-M5ODA0MSwxODM1MjI3MDEwLDcxMjA2NTMwOSwtMjM0MzY0NzQw
-LDUzNTE1MjIwMCwtODQxNTIyOTU4LDE1MjQwMjg4LC00NzUyNj
-E4ODEsMTIwOTY3Nzg4NSw4MDIwODU4MzQsLTY5ODUwMTg3Niwt
-OTMzMzA0NDMzXX0=
+eyJoaXN0b3J5IjpbLTc0OTY3NzExNywtMTgwMTY1MzI0MSwtND
+YxMzk4MDQxLDE4MzUyMjcwMTAsNzEyMDY1MzA5LC0yMzQzNjQ3
+NDAsNTM1MTUyMjAwLC04NDE1MjI5NTgsMTUyNDAyODgsLTQ3NT
+I2MTg4MSwxMjA5Njc3ODg1LDgwMjA4NTgzNCwtNjk4NTAxODc2
+LC05MzMzMDQ0MzNdfQ==
 -->
