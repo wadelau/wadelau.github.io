@@ -2,7 +2,11 @@
 ## Hanjst Installation
 ### Simple and Basic
 
-#### Extended Set
+Hanjst source codes are written in pure JavaScript and has no dependency on any third-party libraries. and all of codes are wraped into 
+
+So the simplest way to install Hanjst is to download a copy of 
+
+#### Extended Setup
 
 ### Environments
 
@@ -17,5 +21,5 @@
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5NDA5NDEyLDE4MjgyODg4OTddfQ==
+eyJoaXN0b3J5IjpbMTYwMDMzMTgzMywxODI4Mjg4ODk3XX0=
 -->
