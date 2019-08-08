@@ -17,7 +17,7 @@ Be careful，debug mode will consume extra computing resources and it should be 
 ### Debugging Output
 There are a few of type of log messages. Basically, information, warnings and errors.
 
-1. Information
+**1. Information**
 >Hanjst aft parse copyright_year:2019
 
 >Hanjst sorted tpl sentence:[span {if \$user['feedback'] lt 3 } class="cls2" {else} {/if}] in Chrome-likes.
@@ -32,7 +32,7 @@ There are a few of type of log messages. Basically, information, warnings and er
 
 
 
-2. Warnings
+**2. Warnings**
 > additional original scripts before jsondata will be invoked twice.....Thu Aug 08 2019 12:37:00 GMT+0800 (China Standard Time)
 
 >Hanjst found embedded tpl sentence:[span {if="" $user['feedback']="" gt="" 4}="" class="cls2" {else}="" {="" if}=""] but compatible partially.
@@ -43,16 +43,18 @@ There are a few of type of log messages. Basically, information, warnings and er
 
 
 
-3. Errors
+**3. Errors**
 >Hanjst template code exec failed.
 >{“stack”:”ReferenceError: \$myAds2 is not defined\n at eval (eval at renderTemplate (http://example.com/view/default/js/Hanjst.js?v=201906171103:468:15), :405:1)\n at renderTemplate (http://example.com//view/default/js/Hanjst.js?v=201906171103:468:39)\n at _callRender (http://example.com//view/default/js/Hanjst.js?v=201906171103:679:9)\n at http://example.com//view/default/js/Hanjst.js?v=201906171103:698:9\n at http://example.com//view/default/js/Hanjst.js?v=201906171103:701:3″,”message”:”\$myAds2 is not defined”}
 >Line 404:
 >Line 405: if( $myAds2[‘sadplace’]==’homepage_up_right’){
 >Line 406: tpl2js.push(” <a href=\””);
 
+
 ---
 #### Related works
-1. [Hanjst in -GitHub]([https://github.com/wadelau/Hanjst](https://github.com/wadelau/Hanjst))
+1. [Hanjst upda]
+2. [Hanjst in -GitHub]([https://github.com/wadelau/Hanjst](https://github.com/wadelau/Hanjst))
 
 
 ----
@@ -62,5 +64,5 @@ There are a few of type of log messages. Basically, information, warnings and er
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTM4NzM1NzBdfQ==
+eyJoaXN0b3J5IjpbLTEzOTE3MDc4OTJdfQ==
 -->
