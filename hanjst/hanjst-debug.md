@@ -69,7 +69,11 @@ In the [demo page of Hanjst]([https://ufqi.com/dev/hanjst/](https://ufqi.com/dev
 
 Hanjst provides lots of compatible remedies for human misspelling or misused with the syntax or semantics.
 
-Hanjst also strives to behave as Smarty and 
+Hanjst also strives to behave as Smarty and it can parse many template sentences which are being composed with Smarty syntax, such as the log shows in the above lines.
+
+```javascript
+forea
+```
 
 **3. Errors**
 >Hanjst template code exec failed.
@@ -98,6 +102,6 @@ Attention! It is worth noting! Hanjst turns on JavaScript's Strict mode, which d
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxMjM4MDk5LC0xMDA0MzQ0NjI2LDIxOD
-cwMTk1Niw3NzU4MTQ5MF19
+eyJoaXN0b3J5IjpbMTExNjg2NjQ3MywtMTAwNDM0NDYyNiwyMT
+g3MDE5NTYsNzc1ODE0OTBdfQ==
 -->
