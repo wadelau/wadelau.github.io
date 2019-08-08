@@ -52,7 +52,7 @@ Applying these criteria to all of exist JavaScript-based templates, however, it 
 Code snippets of a JavaScript-based template: 
 ```javascript
 <script id="template" type="x-tmpl-mustache">
-Hello \{\{ name \}\}!
+Hello `{`{ name `}`}!
 </script>
 ```
 Demerits or dislikes we find in these lines are:
@@ -100,9 +100,9 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDUzNzMwLC03NDk2NzcxMTcsLTE4MD
-E2NTMyNDEsLTQ2MTM5ODA0MSwxODM1MjI3MDEwLDcxMjA2NTMw
-OSwtMjM0MzY0NzQwLDUzNTE1MjIwMCwtODQxNTIyOTU4LDE1Mj
-QwMjg4LC00NzUyNjE4ODEsMTIwOTY3Nzg4NSw4MDIwODU4MzQs
-LTY5ODUwMTg3NiwtOTMzMzA0NDMzXX0=
+eyJoaXN0b3J5IjpbLTEwNjAwMzU0NzQsLTc0OTY3NzExNywtMT
+gwMTY1MzI0MSwtNDYxMzk4MDQxLDE4MzUyMjcwMTAsNzEyMDY1
+MzA5LC0yMzQzNjQ3NDAsNTM1MTUyMjAwLC04NDE1MjI5NTgsMT
+UyNDAyODgsLTQ3NTI2MTg4MSwxMjA5Njc3ODg1LDgwMjA4NTgz
+NCwtNjk4NTAxODc2LC05MzMzMDQ0MzNdfQ==
 -->
