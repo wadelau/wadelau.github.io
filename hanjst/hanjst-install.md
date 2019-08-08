@@ -1,8 +1,8 @@
 # [Hanjst](/hanst/index)
 ## Hanjst Installation
-### Requisitions
+### Simple and Basic
 
-
+#### Extended Set
 
 ### Environments
 
@@ -17,5 +17,5 @@
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDk5Nzg1ODcsMTgyODI4ODg5N119
+eyJoaXN0b3J5IjpbNDA5NDA5NDEyLDE4MjgyODg4OTddfQ==
 -->
