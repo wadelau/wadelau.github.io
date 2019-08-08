@@ -17,7 +17,17 @@ Be careful，debug mode will consume extra computing resources and it should be 
 ### Debugging Output
 There are a few of type of log messages. Basically, information, warnings and errors.
 
-1. 
+1. Information
+>Hanjst aft parse copyright_year:2019
+
+>
+
+2. Warnings
+> additional original scripts before jsondata will be invoked twice.....Thu Aug 08 2019 12:37:00 GMT+0800 (China Standard Time)
+
+
+3. Errors
+
 
 ---
 #### Related works
@@ -31,5 +41,5 @@ There are a few of type of log messages. Basically, information, warnings and er
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3OTQ1OTY2XX0=
+eyJoaXN0b3J5IjpbLTE4MzQxMDc1NzBdfQ==
 -->
