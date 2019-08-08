@@ -25,6 +25,7 @@ Hanjst is intentionally designed to stop further "Reinventing the wheel" for HTM
 
 "**汉吉斯特**" in Chinese.
 
+---
 ### Why Hanjst?
 
 It is easy to create another new template language and engine with JavaScript. therefore, there are too many JavaScript-based templates and corresponding engines for HTML.
@@ -51,7 +52,7 @@ Applying these criteria to all of exist JavaScript-based templates, however, it 
 Code snippets of a JavaScript-based template: 
 ```javascript
 <script id="template" type="x-tmpl-mustache">
-Hello {{ name }}!
+Hello \{\{ name \}\}!
 </script>
 ```
 Demerits or dislikes we find in these lines are:
@@ -99,9 +100,9 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTY3NzExNywtMTgwMTY1MzI0MSwtND
-YxMzk4MDQxLDE4MzUyMjcwMTAsNzEyMDY1MzA5LC0yMzQzNjQ3
-NDAsNTM1MTUyMjAwLC04NDE1MjI5NTgsMTUyNDAyODgsLTQ3NT
-I2MTg4MSwxMjA5Njc3ODg1LDgwMjA4NTgzNCwtNjk4NTAxODc2
-LC05MzMzMDQ0MzNdfQ==
+eyJoaXN0b3J5IjpbLTE4MDUzNzMwLC03NDk2NzcxMTcsLTE4MD
+E2NTMyNDEsLTQ2MTM5ODA0MSwxODM1MjI3MDEwLDcxMjA2NTMw
+OSwtMjM0MzY0NzQwLDUzNTE1MjIwMCwtODQxNTIyOTU4LDE1Mj
+QwMjg4LC00NzUyNjE4ODEsMTIwOTY3Nzg4NSw4MDIwODU4MzQs
+LTY5ODUwMTg3NiwtOTMzMzA0NDMzXX0=
 -->
