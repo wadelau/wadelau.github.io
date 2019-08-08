@@ -7,11 +7,11 @@
 
 
 ----
-[Back to Top](/hanjst/hanjst-install)
+[Back to Top](/hanjst/hanjst-config)
 
 [Previous](./hanjst-install) ... [Next](./)
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTc2NjUwNl19
+eyJoaXN0b3J5IjpbMTI3NDcxNzI2MV19
 -->
