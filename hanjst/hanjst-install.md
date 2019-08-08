@@ -91,7 +91,7 @@ End-user will see a few parts of the loading page if we choose this method by se
 
 Template designers and developers are encouraged to implement one of them to prevent pages raw data from exposing to end-users.
 
-
+---
 #### Related works
 1. [Hanjst in -GitHub]([https://github.com/wadelau/Hanjst](https://github.com/wadelau/Hanjst))
 
@@ -104,6 +104,6 @@ Template designers and developers are encouraged to implement one of them to pre
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODExMTE5MzYsMTU2MDIyMzU4MywxOD
-I4Mjg4ODk3XX0=
+eyJoaXN0b3J5IjpbLTYwNjM4ODM2NSwtMTM4MTExMTkzNiwxNT
+YwMjIzNTgzLDE4MjgyODg4OTddfQ==
 -->
