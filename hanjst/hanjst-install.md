@@ -30,6 +30,7 @@ Please pay attention to BODY element, Hanjst need it to be its parent node.
 That's all!
 The powerful and unmatched template engine Hanjst has been implemented successfully and will be running automatically, seamlessly and efficiently. 
 
+---
 #### Extended Setup
 With more we learned from Hanjst, there are some options to install and run the Hanjst template engine.
 
@@ -82,6 +83,6 @@ We will investigate deeply into [Hanjst configurations and settings](./hanjst-co
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTg1NzcxMCwxNTYwMjIzNTgzLDE4Mj
-gyODg4OTddfQ==
+eyJoaXN0b3J5IjpbMjIxNDgxNzc5LDE1NjAyMjM1ODMsMTgyOD
+I4ODg5N119
 -->
