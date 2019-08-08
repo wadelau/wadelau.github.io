@@ -62,7 +62,8 @@ Alternatively, we also add the keyword  **async** for JavaScript scripts.  "asyn
 
 All of these additions are optional, so they can be removed and omitted.
 
-The key-value pairs inside window.Hanjst are "**JsonDataId**" and "**IsDebug**". The first one tells Hanjst where the JSON data locates in and the 2nd tells Hanjst whether to display more debugging messages in browsers' console log.
+The key-value pairs inside window.Hanjst are "**JsonDataId**" and "**IsDebug**". 
+The first one tells Hanjst where the JSON data resides in and the 2nd tells Hanjst whether to display more debugging messages in browsers' console log.
 
 We will investigate deeply into [Hanjst configurations and settings](./hanjst-config) in late sections.
 
@@ -76,11 +77,11 @@ We will investigate deeply into [Hanjst configurations and settings](./hanjst-co
 ----
 [Back to Top](/hanjst/hanjst-install)
 
-[Previous](./what-is-hanjst) ... [Next](./)
+[Previous](./what-is-hanjst) ... [Next](./hanjst-config)
 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU1ODY1NTEsMTU2MDIyMzU4MywxOD
-I4Mjg4ODk3XX0=
+eyJoaXN0b3J5IjpbLTYwNTg1NzcxMCwxNTYwMjIzNTgzLDE4Mj
+gyODg4OTddfQ==
 -->
