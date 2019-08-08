@@ -26,7 +26,7 @@ It is easy to create another new template language and engine with JavaScript. t
 
 Frankly speaking, the basic reason is that it is a simple and easy piece of work to make replaces work with a template and its engine which is designed to parse the template sentences into final representations.
 
-To be complicated, the template language is a new design of expression language. The difficulty of designing a language is beyond imagination. The language must meet the needs of daily usage and communication. The first thing that language designers should consider is that the template language is universally accepted and widely used, so that the language has vitality. Undoubtedly, succinct and ideographic richness are important and priority considerations.
+To be complicated, the template language is a new design of expression language. The difficulty of designing a language is beyond imagination. The language must meet the needs of daily usage and high-frequency  communication. The first thing that language designers should consider is that the template language is universally accepted and widely used, so that the language has vitality. Undoubtedly, succinct and ideographic richness are important and priority considerations.
 
 Unfortunately, there is no state of art work for this job prior to Hanjst.
  
@@ -72,7 +72,7 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQxODc4OTEsNTM1MTUyMjAwLC04ND
-E1MjI5NTgsMTUyNDAyODgsLTQ3NTI2MTg4MSwxMjA5Njc3ODg1
-LDgwMjA4NTgzNCwtNjk4NTAxODc2LC05MzMzMDQ0MzNdfQ==
+eyJoaXN0b3J5IjpbLTIzNDM2NDc0MCw1MzUxNTIyMDAsLTg0MT
+UyMjk1OCwxNTI0MDI4OCwtNDc1MjYxODgxLDEyMDk2Nzc4ODUs
+ODAyMDg1ODM0LC02OTg1MDE4NzYsLTkzMzMwNDQzM119
 -->
