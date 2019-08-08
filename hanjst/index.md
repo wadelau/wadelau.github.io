@@ -32,7 +32,7 @@
 #### Third-party Libraries
 ### Images
 ## Search Engine Optimization
-### Title, Keyword and Description
+### Title, Description and Keyword
 ### Links
 
 ---
@@ -42,7 +42,7 @@
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5NTQ0MTI3LDE3MDY1MjM3MCw2OTk1Mz
-Y5ODYsMTc1MTg4OTkxOSwxMTI0NTA3OTM5LDQwNzA3ODY1Mywx
-MTYxNjM1NTgyLDQ0ODQ3MDMzMV19
+eyJoaXN0b3J5IjpbLTQ0NjMwMzU1MywyMzk1NDQxMjcsMTcwNj
+UyMzcwLDY5OTUzNjk4NiwxNzUxODg5OTE5LDExMjQ1MDc5Mzks
+NDA3MDc4NjUzLDExNjE2MzU1ODIsNDQ4NDcwMzMxXX0=
 -->
