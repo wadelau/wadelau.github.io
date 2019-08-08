@@ -94,13 +94,13 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 ----
 [Back to top](/hanjst/what-is-hanjst)
 
-[Back to Previous](./index)
+[Previous](./index) ... [Next](./hanjst-install)
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDM0NzY3NSwtMTgwMTY1MzI0MSwtND
-YxMzk4MDQxLDE4MzUyMjcwMTAsNzEyMDY1MzA5LC0yMzQzNjQ3
-NDAsNTM1MTUyMjAwLC04NDE1MjI5NTgsMTUyNDAyODgsLTQ3NT
-I2MTg4MSwxMjA5Njc3ODg1LDgwMjA4NTgzNCwtNjk4NTAxODc2
-LC05MzMzMDQ0MzNdfQ==
+eyJoaXN0b3J5IjpbMjE5NjE5MTE4LC0xODAxNjUzMjQxLC00Nj
+EzOTgwNDEsMTgzNTIyNzAxMCw3MTIwNjUzMDksLTIzNDM2NDc0
+MCw1MzUxNTIyMDAsLTg0MTUyMjk1OCwxNTI0MDI4OCwtNDc1Mj
+YxODgxLDEyMDk2Nzc4ODUsODAyMDg1ODM0LC02OTg1MDE4NzYs
+LTkzMzMwNDQzM119
 -->
