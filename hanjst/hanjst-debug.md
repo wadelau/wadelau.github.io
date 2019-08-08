@@ -20,7 +20,8 @@ There are a few of type of log messages. Basically, information, warnings and er
 **1. Information**
 >Hanjst aft parse copyright_year:2019
 
-This marks Hanjst has successfully 
+This marks Hanjst has successfully read JSON data and generated all global variables including one of the default tags, **copyright_year**. 
+The copyright_year will be set dynamically to the current year.
 
 >Hanjst sorted tpl sentence:[span {if \$user['feedback'] lt 3 } class="cls2" {else} {/if}] in Chrome-likes.
 
@@ -67,5 +68,5 @@ This marks Hanjst has successfully
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTk3ODQ5Ml19
+eyJoaXN0b3J5IjpbLTIwMDI0ODAzMTldfQ==
 -->
