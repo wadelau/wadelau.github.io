@@ -73,6 +73,7 @@ Sometimes it is necessary to hide JSON data from end-users. Usually there are tw
 
 1. To add a waiting layer.
 End-users will see a waiting layer if we choose this method by adding a top-index DIV layer as the very first element of BODY.
+
 ```html
 <div id="Hanjstloading" 
 	style="width:100%;height:100%;z-index:99;opacity:0.92;position:absolute;background-color:#ffffff;"> 
@@ -104,6 +105,6 @@ Template designers and developers are encouraged to implement one of them to pre
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjM4ODM2NSwtMTM4MTExMTkzNiwxNT
+eyJoaXN0b3J5IjpbMTY0OTUxODY2MSwtMTM4MTExMTkzNiwxNT
 YwMjIzNTgzLDE4MjgyODg4OTddfQ==
 -->
