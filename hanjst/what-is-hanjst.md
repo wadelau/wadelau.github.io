@@ -19,7 +19,7 @@ Han is also Chinese in Pinyin, Hànrén (汉人).
 Design this template language and engine from the perspective of a linguist,
 The procedural expression of grammar and semantics is realized by the engineer's thinking.
 
-This is the Hanjst template language and engine from the jointly colloberation .
+This is the Hanjst template language and engine from the jointly collaboration of linguists and computer engineers.
 
 Hanjst is intentionally designed to stop further "Reinventing the wheel" for HTML template engines though it sounds ridiculous.
 
@@ -92,9 +92,9 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1OTgxNjg0LC0xODAxNjUzMjQxLC00Nj
-EzOTgwNDEsMTgzNTIyNzAxMCw3MTIwNjUzMDksLTIzNDM2NDc0
-MCw1MzUxNTIyMDAsLTg0MTUyMjk1OCwxNTI0MDI4OCwtNDc1Mj
-YxODgxLDEyMDk2Nzc4ODUsODAyMDg1ODM0LC02OTg1MDE4NzYs
-LTkzMzMwNDQzM119
+eyJoaXN0b3J5IjpbLTE4MDUxMzYwNzMsLTE4MDE2NTMyNDEsLT
+Q2MTM5ODA0MSwxODM1MjI3MDEwLDcxMjA2NTMwOSwtMjM0MzY0
+NzQwLDUzNTE1MjIwMCwtODQxNTIyOTU4LDE1MjQwMjg4LC00Nz
+UyNjE4ODEsMTIwOTY3Nzg4NSw4MDIwODU4MzQsLTY5ODUwMTg3
+NiwtOTMzMzA0NDMzXX0=
 -->
