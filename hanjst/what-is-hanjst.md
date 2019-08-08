@@ -59,6 +59,8 @@ Demerits or dislikes we find in these lines are:
 However, it is NOT Smarty in JavaScript, which has been implemented and found in -GitHub, e.g. JSmarty or SmartyJS. What's more, both of them has not been enforced to act as Smarty in server-side.
 
 From the point of view of [GWA2](/gwa2/index), we would need a template engine to work with all back-end programming languages, i.e., PHP, Java, Perl, Python, Aspx and so on.
+
+That's to say, we cannot use Smarty for GWA2 in PHP and Velocity for GWA2 in Java. 
  
 In the meantime,  bearing these features and functions in mind, the invented template and its engine, so-called Hanjst, has mertis as:
 
@@ -81,8 +83,8 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2Mzg2OTQ5LDcxMjA2NTMwOSwtMjM0Mz
-Y0NzQwLDUzNTE1MjIwMCwtODQxNTIyOTU4LDE1MjQwMjg4LC00
-NzUyNjE4ODEsMTIwOTY3Nzg4NSw4MDIwODU4MzQsLTY5ODUwMT
-g3NiwtOTMzMzA0NDMzXX0=
+eyJoaXN0b3J5IjpbLTE1ODA3OTAyMDAsNzEyMDY1MzA5LC0yMz
+QzNjQ3NDAsNTM1MTUyMjAwLC04NDE1MjI5NTgsMTUyNDAyODgs
+LTQ3NTI2MTg4MSwxMjA5Njc3ODg1LDgwMjA4NTgzNCwtNjk4NT
+AxODc2LC05MzMzMDQ0MzNdfQ==
 -->
