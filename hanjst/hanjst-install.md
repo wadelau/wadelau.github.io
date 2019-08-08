@@ -54,7 +54,7 @@ Here is an advanced and sophisticated example of extended setup with Hanjst.
 </body> 
 </html>
 ```
-We adds two more elements for Hanjst to 
+We adds two more elements for Hanjst, trying to adjust the behaving of the template engine.  
 
 
 ### Run-time
@@ -71,6 +71,6 @@ We adds two more elements for Hanjst to
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjE5OTEwLDE1NjAyMjM1ODMsMTgyOD
-I4ODg5N119
+eyJoaXN0b3J5IjpbMjExMzA0ODgyMywxNTYwMjIzNTgzLDE4Mj
+gyODg4OTddfQ==
 -->
