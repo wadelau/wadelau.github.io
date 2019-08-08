@@ -27,7 +27,8 @@ The source file will run automatically and check all the elements of the host pa
 
 Please pay attention to BODY element, Hanjst need it to be its parent node.
 
-That's all, the powerful and unmatched template engine Hanjst has been implemented successfully and will be running automatically, seamlessly and efficiently. 
+That's all!
+The powerful and unmatched template engine Hanjst has been implemented successfully and will be running automatically, seamlessly and efficiently. 
 
 #### Extended Setup
 With more we learned from Hanjst, there are some options to install and run the Hanjst template engine.
@@ -44,7 +45,8 @@ Here is an advanced and sophisticated example of extended setup with Hanjst.
 </div>
 <!-- Hanjst codes begin -->
 <script type="text/javascript" async>
-    window.Hanjst = {'JsonDataId':'Hanjstjsondata', 'IsDebug': true}; // optional
+    window.Hanjst = {'JsonDataId':'Hanjstjsondata', 
+	    'IsDebug': true}; // optional
 </script>
 <script type="text/javascript" src="Hanjst.js" async></script>
 <noscript>JavaScript Required for Hanjst.</noscript>
@@ -69,6 +71,6 @@ Here is an advanced and sophisticated example of extended setup with Hanjst.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzMxMzU0OSwxNTYwMjIzNTgzLDE4Mj
-gyODg4OTddfQ==
+eyJoaXN0b3J5IjpbLTEyNDc2ODE0OTgsMTU2MDIyMzU4MywxOD
+I4Mjg4ODk3XX0=
 -->
