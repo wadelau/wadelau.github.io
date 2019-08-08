@@ -43,7 +43,7 @@ Unfortunately, there is no state of art work for this job prior to Hanjst.
 
 Applying these criteria to all of exist JavaScript-based templates, however, it is hard to find one which meets all of these requirements.
 
-Code snippets of a JavaS 
+Code snippets of a JavaScript-based template: 
 ```javascript
 <script id="template" type="x-tmpl-mustache">
 Hello {{ name }}!
@@ -55,6 +55,7 @@ Demerits or dislikes we find in these lines are:
 - No Logic
 
  As fans of [Smarty,](//www.smarty.net) we would like to design and implement a whole newly-created JavaScript-based template language to cover all scenarios where Smarty has achieved.
+However, it is NOT Smart
  
 In the meantime,  bearing these features and functions in mind, the invented template and its engine, so-called Hanjst, has mertis as:
 
@@ -77,8 +78,8 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Nzc3NzA3LDcxMjA2NTMwOSwtMjM0Mz
-Y0NzQwLDUzNTE1MjIwMCwtODQxNTIyOTU4LDE1MjQwMjg4LC00
-NzUyNjE4ODEsMTIwOTY3Nzg4NSw4MDIwODU4MzQsLTY5ODUwMT
-g3NiwtOTMzMzA0NDMzXX0=
+eyJoaXN0b3J5IjpbLTE2MjU5MDg5MDIsNzEyMDY1MzA5LC0yMz
+QzNjQ3NDAsNTM1MTUyMjAwLC04NDE1MjI5NTgsMTUyNDAyODgs
+LTQ3NTI2MTg4MSwxMjA5Njc3ODg1LDgwMjA4NTgzNCwtNjk4NT
+AxODc2LC05MzMzMDQ0MzNdfQ==
 -->
