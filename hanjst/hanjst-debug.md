@@ -15,7 +15,9 @@ The template parse engine will output verbose message in current browser's conso
 Be careful，debug mode will consume extra computing resources and it should be set to false in production environment.
  
 ### Debugging Output
+There are a few of type of log messages. Basically, information, warnings and errors.
 
+1. 
 
 ---
 #### Related works
@@ -29,5 +31,5 @@ Be careful，debug mode will consume extra computing resources and it should be 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjE5NjU0MV19
+eyJoaXN0b3J5IjpbMzE3OTQ1OTY2XX0=
 -->
