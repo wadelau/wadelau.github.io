@@ -64,7 +64,7 @@ All of these additions are optional, so they can be removed and omitted.
 
 The key-value pairs inside window.Hanjst are "**JsonDataId**" and "**IsDebug**". The first one tells Hanjst where the JSON data locates in and the 2nd tells Hanjst whether to display more debugging messages in browsers' console log.
 
-We will investigate deeply into Hanjst configurations and settings in late sections.
+We will investigate deeply into [Hanjst configurations and settings](./hanjst-config) in late sections.
 
 
 ### Run-time
@@ -81,6 +81,6 @@ We will investigate deeply into Hanjst configurations and settings in late secti
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjQyMjI1NiwxNTYwMjIzNTgzLDE4Mj
-gyODg4OTddfQ==
+eyJoaXN0b3J5IjpbLTExNTE5ODEzNzEsMTU2MDIyMzU4MywxOD
+I4Mjg4ODk3XX0=
 -->
