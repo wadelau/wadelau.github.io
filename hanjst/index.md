@@ -38,11 +38,11 @@
 ---
 [Back to top](index)
 
-[Back to Previous](../index)   [Next]
+[Previous](../index)  ...  [Next](./what-is-hanjst)
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3NzgyOTk1LDE3NTE4ODk5MTksMTEyND
-UwNzkzOSw0MDcwNzg2NTMsMTE2MTYzNTU4Miw0NDg0NzAzMzFd
-fQ==
+eyJoaXN0b3J5IjpbLTQ5NDE3OTc0MywxNzUxODg5OTE5LDExMj
+Q1MDc5MzksNDA3MDc4NjUzLDExNjE2MzU1ODIsNDQ4NDcwMzMx
+XX0=
 -->
