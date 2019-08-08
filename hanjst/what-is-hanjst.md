@@ -56,7 +56,9 @@ Demerits or dislikes we find in these lines are:
 
  As fans of [Smarty,](//www.smarty.net) we would like to design and implement a whole newly-created JavaScript-based template language to cover all scenarios where Smarty has achieved.
  
-However, it is NOT Smarty in JavaScript, which has been implemented and found in -GitHub, e.g. JSmarty or SmartyJS. and
+However, it is NOT Smarty in JavaScript, which has been implemented and found in -GitHub, e.g. JSmarty or SmartyJS. What's more, both of them has not been enforced to act as Smarty in server-side.
+
+From t
  
 In the meantime,  bearing these features and functions in mind, the invented template and its engine, so-called Hanjst, has mertis as:
 
@@ -79,8 +81,8 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjAxMzM1LDcxMjA2NTMwOSwtMjM0Mz
-Y0NzQwLDUzNTE1MjIwMCwtODQxNTIyOTU4LDE1MjQwMjg4LC00
-NzUyNjE4ODEsMTIwOTY3Nzg4NSw4MDIwODU4MzQsLTY5ODUwMT
-g3NiwtOTMzMzA0NDMzXX0=
+eyJoaXN0b3J5IjpbLTg3ODI1NDk0MSw3MTIwNjUzMDksLTIzND
+M2NDc0MCw1MzUxNTIyMDAsLTg0MTUyMjk1OCwxNTI0MDI4OCwt
+NDc1MjYxODgxLDEyMDk2Nzc4ODUsODAyMDg1ODM0LC02OTg1MD
+E4NzYsLTkzMzMwNDQzM119
 -->
