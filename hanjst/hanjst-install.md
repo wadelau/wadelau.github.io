@@ -56,7 +56,9 @@ Here is an advanced and sophisticated example of extended setup with Hanjst.
 ```
 We adds two more elements for Hanjst, trying to adjust the behaving of the template engine.  
 1. a SCRIPT element for run-time settings where we set a global variable **window.Hanjst** as a container. There are two key-value pairs inside the global variable. 
-2. a NOSCRIPT element for compatible with obsolete browsers. It disp  
+2. a NOSCRIPT element for compatible with obsolete browsers. It displays a friendly warning when detecting that there is no JavaScript-enabled in current browser.
+
+Alternatively, we also add the keyword   
 
 
 ### Run-time
@@ -73,6 +75,6 @@ We adds two more elements for Hanjst, trying to adjust the behaving of the templ
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4MTc5MTU3LDE1NjAyMjM1ODMsMTgyOD
+eyJoaXN0b3J5IjpbNDc2OTMwNDEwLDE1NjAyMjM1ODMsMTgyOD
 I4ODg5N119
 -->
