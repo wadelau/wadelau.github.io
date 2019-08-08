@@ -20,6 +20,8 @@ There are a few of type of log messages. Basically, information, warnings and er
 **1. Information**
 >Hanjst aft parse copyright_year:2019
 
+This marks Hanjst has successfully 
+
 >Hanjst sorted tpl sentence:[span {if \$user['feedback'] lt 3 } class="cls2" {else} {/if}] in Chrome-likes.
 
 >Hanjst includeScript:	if(1==1){.....
@@ -50,10 +52,11 @@ There are a few of type of log messages. Basically, information, warnings and er
 >Line 405: if( $myAds2[‘sadplace’]==’homepage_up_right’){
 >Line 406: tpl2js.push(” <a href=\””);
 
+...
 
 ---
 #### Related works
-1. [Hanjst upda]
+1. [Hanjst update blog: +readable error-reporting]([https://ufqi.com/blog/hanjst-error-reporting-innerloop-and-loadinglayer/](https://ufqi.com/blog/hanjst-error-reporting-innerloop-and-loadinglayer/))
 2. [Hanjst in -GitHub]([https://github.com/wadelau/Hanjst](https://github.com/wadelau/Hanjst))
 
 
@@ -64,5 +67,5 @@ There are a few of type of log messages. Basically, information, warnings and er
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTE3MDc4OTJdfQ==
+eyJoaXN0b3J5IjpbMTE2OTk3ODQ5Ml19
 -->
