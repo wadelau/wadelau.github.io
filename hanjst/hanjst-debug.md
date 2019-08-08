@@ -20,27 +20,36 @@ There are a few of type of log messages. Basically, information, warnings and er
 
 **1. Information**
 --
+>
 >Hanjst aft parse copyright_year:2019
+>
 
 This marks Hanjst has successfully read JSON data and generated all global variables including one of the default tags, **copyright_year**. 
 The **copyright_year** will be set dynamically to the current year.
 
+>
 >Hanjst sorted tpl sentence:[span {if \$user['feedback'] lt 3 } class="cls2" {else} {/if}] in Chrome-likes.
+>
 
 Hanjst allows embedded template sentences which can be mixed with a normal HTML element.
 However it is error-prone that the confusions raised by the chars of < (less than) and > (greater than).
 To figure it out, we designate "lt" (less than) to represent <, so as "gt" for >. 
 
-
+>
 >Hanjst includeScript:	if(1==1){.....
+>
 
 @todo
 
+>
 >Hanjst tpl2code:try{ var tpl2js = []; ...
+>
 
 @todo
 
+>
 >tplParse:&lt;style>...."
+>
 
 @todo
 
@@ -55,19 +64,27 @@ In the [demo page of Hanjst]([https://ufqi.com/dev/hanjst/](https://ufqi.com/dev
 
 **2. Warnings**
 --
+> 
 > additional original scripts before jsondata will be invoked twice.....Thu Aug 08 2019 12:37:00 GMT+0800 (China Standard Time)
+> 
 
 @todo
 
+>
 >Hanjst found embedded tpl sentence:[span {if="" $user['feedback']="" gt="" 4}="" class="cls2" {else}="" {="" if}=""] but compatible partially.
+>
 
 @todo
 
+>
 >Hanjst illegal tpl sentence:[if \$newslist[$k]['title'].length > 25 ] but compatible.
+>
 
 @todo
 
+>
 >Hanjst illegal tpl sentence:[foreach $newscontentlist as $page] but compatible.
+>
 
 Hanjst provides lots of compatible remedies for human misspelling or misused with the syntax or semantics.
 
@@ -91,6 +108,7 @@ These keywords and their usages will be discussed in detail in following section
 
 **3. Errors**
 --
+>
 >Hanjst template code exec failed.
 >
 >{“stack”:”ReferenceError: \$myAds2 is not defined\n at eval (eval at renderTemplate (http://example.com/view/default/js/Hanjst.js?v=201906171103:468:15), :405:1)\n at renderTemplate (http://example.com//view/default/js/Hanjst.js?v=201906171103:468:39)\n at _callRender (http://example.com//view/default/js/Hanjst.js?v=201906171103:679:9)\n at http://example.com//view/default/js/Hanjst.js?v=201906171103:698:9\n at http://example.com//view/default/js/Hanjst.js?v=201906171103:701:3″,”message”:”\$myAds2 is not defined”}
@@ -100,6 +118,7 @@ These keywords and their usages will be discussed in detail in following section
 >Line 405: if( $myAds2[‘sadplace’]==’homepage_up_right’){
 >
 >Line 406: tpl2js.push(” <a href=\””);
+>
 
 
 When Hanjst encounters a syntax error, it throws a readable exception code description to form a traceable error report.
@@ -121,6 +140,6 @@ Attention! It is worth noting! Hanjst turns on JavaScript's Strict mode, which d
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3Mjg1MjU2LDM5OTk1ODkxMCwtMTAwND
-M0NDYyNiwyMTg3MDE5NTYsNzc1ODE0OTBdfQ==
+eyJoaXN0b3J5IjpbLTU2NDI4MjQsMzk5OTU4OTEwLC0xMDA0Mz
+Q0NjI2LDIxODcwMTk1Niw3NzU4MTQ5MF19
 -->
