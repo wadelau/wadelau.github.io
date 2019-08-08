@@ -45,7 +45,7 @@ Hello {{ name }}!
 Demerits or dislikes we find in these lines are:
 - Block-based expressions
 - Not streamlined mark-tags
-- Logicless 
+- No Logic
 
  As fans of [Smarty,](//www.smarty.net) we would like to design and implement a whole newly-created JavaScript-based template language to cover all scenarios where Smarty has achieved.
  
@@ -70,7 +70,7 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTUyMjk1OCwxNTI0MDI4OCwtNDc1Mj
-YxODgxLDEyMDk2Nzc4ODUsODAyMDg1ODM0LC02OTg1MDE4NzYs
-LTkzMzMwNDQzM119
+eyJoaXN0b3J5IjpbNTM1MTUyMjAwLC04NDE1MjI5NTgsMTUyND
+AyODgsLTQ3NTI2MTg4MSwxMjA5Njc3ODg1LDgwMjA4NTgzNCwt
+Njk4NTAxODc2LC05MzMzMDQ0MzNdfQ==
 -->
