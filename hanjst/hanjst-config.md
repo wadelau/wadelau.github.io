@@ -27,9 +27,9 @@ However it is highly-recommended to keep them untouched due to unexpected or unk
 ----
 [Back to Top](/hanjst/hanjst-config)
 
-[Previous](./hanjst-install) ... [Next](./)
+[Previous](./hanjst-install) ... [Next](./hanjst-debug)
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjAwNjE2OSwyMTI1MTM2MDQxXX0=
+eyJoaXN0b3J5IjpbLTE3ODk5MzMyNTEsMjEyNTEzNjA0MV19
 -->
