@@ -45,7 +45,7 @@ To figure it out, we designate "lt" (less than) to represent <, so as "gt" for >
 
 >Hanjst parse time                 cost: 0.017s
 
-Hanjst log its cost time from the veru
+Hanjst records its cost time from the very beginning, then at the end of all work, the time elapsed will be calculated out by the diff of these two  
 
 
 **2. Warnings**
@@ -81,6 +81,6 @@ Hanjst log its cost time from the veru
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjM1MjIwOTcsMjE4NzAxOTU2LDc3NT
-gxNDkwXX0=
+eyJoaXN0b3J5IjpbMTk4MjMxNzExMywyMTg3MDE5NTYsNzc1OD
+E0OTBdfQ==
 -->
