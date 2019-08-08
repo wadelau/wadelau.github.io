@@ -94,7 +94,7 @@ End-user will see a few parts of the loading page if we choose this method by se
 
 Template designers and developers are encouraged to implement one of them to prevent pages raw data from exposing to end-users.
 
-It's also a resolution to combine those two methods at the same time to reduce the exposure of raw data at  
+It's also a resolution to combine those two methods at the same time to reduce the exposure of raw data at most. 
 
 ---
 #### Related works
@@ -109,7 +109,7 @@ It's also a resolution to combine those two methods at the same time to reduce t
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzM3ODE3NSwxNzUwOTg2NDY3LDExND
-A0NzU1OTEsLTc1MDk4NTY1OSwxNjQ5NTE4NjYxLC0xMzgxMTEx
-OTM2LDE1NjAyMjM1ODMsMTgyODI4ODg5N119
+eyJoaXN0b3J5IjpbLTQyNDU0MTkyLDE3NTA5ODY0NjcsMTE0MD
+Q3NTU5MSwtNzUwOTg1NjU5LDE2NDk1MTg2NjEsLTEzODExMTE5
+MzYsMTU2MDIyMzU4MywxODI4Mjg4ODk3XX0=
 -->
