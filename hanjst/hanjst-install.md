@@ -55,7 +55,8 @@ Here is an advanced and sophisticated example of extended setup with Hanjst.
 </html>
 ```
 We adds two more elements for Hanjst, trying to adjust the behaving of the template engine.  
-1. a SCRIPT for run-time settings where we set
+1. a SCRIPT element for run-time settings where we set a global variable **window.Hanjst** as a container. There are two key-value pairs inside the global variable. 
+2. a NOSCRIPT element for compatible with oldsel
 
 
 ### Run-time
@@ -72,6 +73,6 @@ We adds two more elements for Hanjst, trying to adjust the behaving of the templ
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0MjY3MDQ4LDE1NjAyMjM1ODMsMTgyOD
-I4ODg5N119
+eyJoaXN0b3J5IjpbLTE3MzA1MTM0MTksMTU2MDIyMzU4MywxOD
+I4Mjg4ODk3XX0=
 -->
