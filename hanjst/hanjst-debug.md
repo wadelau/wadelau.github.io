@@ -73,9 +73,16 @@ Hanjst also strives to behave as Smarty and it can parse many template sentences
 
 ```javascript
 > foreach $newsContentList as $news
-	> $news['title']
+	> $news['title'];
 ```
-The lines will be translated into 
+The lines will be translated into JavaScript codes as below.
+
+```javascript
+for(var $news in $newsContentList){
+	$news['title'];
+}
+```
+
 
 **3. Errors**
 >Hanjst template code exec failed.
@@ -104,6 +111,6 @@ Attention! It is worth noting! Hanjst turns on JavaScript's Strict mode, which d
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg3NjY5MzEsLTEwMDQzNDQ2MjYsMj
+eyJoaXN0b3J5IjpbLTE4NjkzNDQyNDYsLTEwMDQzNDQ2MjYsMj
 E4NzAxOTU2LDc3NTgxNDkwXX0=
 -->
