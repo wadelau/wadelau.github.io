@@ -68,6 +68,10 @@ The first one tells Hanjst where the JSON data resides in and the 2nd tells Hanj
 
 We will investigate deeply into [Hanjst configurations and settings](./hanjst-config) in late sections.
 
+#### Waiting Layer
+Sometimes it is necessary to hide JSON data from end-users.
+
+
 
 ### Run-time
 
@@ -83,6 +87,6 @@ We will investigate deeply into [Hanjst configurations and settings](./hanjst-co
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxNDgxNzc5LDE1NjAyMjM1ODMsMTgyOD
-I4ODg5N119
+eyJoaXN0b3J5IjpbLTY4ODI3ODE2MCwxNTYwMjIzNTgzLDE4Mj
+gyODg4OTddfQ==
 -->
