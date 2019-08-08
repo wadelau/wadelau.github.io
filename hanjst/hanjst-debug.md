@@ -47,7 +47,7 @@ To figure it out, we designate "lt" (less than) to represent <, so as "gt" for >
 
 Hanjst records its cost time from the very beginning, then at the end of all work, the time elapsed will be figured out by the diff of these two points.
 
-In the [demo page of Hanjst]([https://ufqi.com/dev/hanjst/](https://ufqi.com/dev/hanjst/)), the log shows that it has spent 0.017 second to parse all the template sentences, i.e., 17 micro seconds.
+In the [demo page of Hanjst]([https://ufqi.com/dev/hanjst/](https://ufqi.com/dev/hanjst/)), the log shows that it has spent 0.017 second to parse all the template sentences, i.e., 17 milliseconds.
 
  It is clear and believable that the parse time should be less and less with the rapid growth of computing in client-side. Therefore, Hanjst follows adhere the trends of grid-computing or edge-computing.  
 
@@ -85,6 +85,6 @@ In the [demo page of Hanjst]([https://ufqi.com/dev/hanjst/](https://ufqi.com/dev
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQzNDQ2MjYsMjE4NzAxOTU2LDc3NT
-gxNDkwXX0=
+eyJoaXN0b3J5IjpbOTcxMjI1MjksLTEwMDQzNDQ2MjYsMjE4Nz
+AxOTU2LDc3NTgxNDkwXX0=
 -->
