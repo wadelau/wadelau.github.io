@@ -20,9 +20,9 @@ So the simplest way to install Hanjst is to [download a copy of Hanjst.js](https
 ```
 There are two HTML blocks needed to run the Hanjst. 
 1. The first is a DIV which has an ID of "Hanjstjsondata" and holds all the data (format in JSON) needed to be merged into the final page presentations.
-2. The 2rd one is a script element which introduces the source file of Hanjst and its trigger.
+2. The 2nd one is a SCRIPT element which introduces the source file of Hanjst and its trigger.
 
-The source file will run automatically and check all the elements of the page to find Hanjst template sentences and parse them into final HTML codes and print out all of them with resources if needed.
+The source file will run automatically and check all the elements of the host page to find Hanjst template sentences and parse them into final HTML codes and print out all of them with resources if needed.
 
 Please pay attention to BODY element, Hanjst need it to be its parent node.
 
@@ -41,6 +41,6 @@ Please pay attention to BODY element, Hanjst need it to be its parent node.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTY1NDg0NiwxNTYwMjIzNTgzLDE4Mj
+eyJoaXN0b3J5IjpbLTQ5MTY0MDUyNiwxNTYwMjIzNTgzLDE4Mj
 gyODg4OTddfQ==
 -->
