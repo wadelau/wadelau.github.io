@@ -36,6 +36,8 @@ Unfortunately, there is no state of art work for this job prior to Hanjst.
  
  ![Mindmap of templates engines](http://ufqi.com/blog/wp-content/uploads/2018/12/TemplateLanguage_Engine_forWeb.201812.png)
  
+Through the analysis of the brain map, we found that there are still two problems in this field that have not been solved, or are not well solved: 1) On the server side, is there a template language and engine that can implement cross-development languages? 2 ) Client/browser terminal, is there a template language and engine that can do without script tags?
+ 
  What we expect from a client-side template, i.e., JavaScript-based template, are three keys points:
  - Run in client-side, optional in server-side
  - Independent of back-end programming languages
@@ -87,8 +89,8 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTYyMjY5NzksMTgzNTIyNzAxMCw3MT
-IwNjUzMDksLTIzNDM2NDc0MCw1MzUxNTIyMDAsLTg0MTUyMjk1
-OCwxNTI0MDI4OCwtNDc1MjYxODgxLDEyMDk2Nzc4ODUsODAyMD
-g1ODM0LC02OTg1MDE4NzYsLTkzMzMwNDQzM119
+eyJoaXN0b3J5IjpbLTU5MjY1MTA5NSwxODM1MjI3MDEwLDcxMj
+A2NTMwOSwtMjM0MzY0NzQwLDUzNTE1MjIwMCwtODQxNTIyOTU4
+LDE1MjQwMjg4LC00NzUyNjE4ODEsMTIwOTY3Nzg4NSw4MDIwOD
+U4MzQsLTY5ODUwMTg3NiwtOTMzMzA0NDMzXX0=
 -->
