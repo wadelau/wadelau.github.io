@@ -82,6 +82,7 @@ for(var $news in $newsContentList){
 	$news['title'];
 }
 ```
+Similar compatible measures include foreach, foreachelse, whileelse. forelse. Because these keywords are not built-in keywords in pure JavaScript source codes.
 
 
 **3. Errors**
@@ -111,6 +112,6 @@ Attention! It is worth noting! Hanjst turns on JavaScript's Strict mode, which d
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjkzNDQyNDYsLTEwMDQzNDQ2MjYsMj
-E4NzAxOTU2LDc3NTgxNDkwXX0=
+eyJoaXN0b3J5IjpbMTc3MjgwMjUyOCwtMTAwNDM0NDYyNiwyMT
+g3MDE5NTYsNzc1ODE0OTBdfQ==
 -->
