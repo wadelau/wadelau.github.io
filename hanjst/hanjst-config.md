@@ -2,7 +2,17 @@
 ## Hanjst Configurations
 ### Runtime Settings
 
-```javascr
+Except from what we have introduced in previous section, there are some other variables which can be set as custom values.
+
+```javascript
+window.HanjstDefault = {
+	"TplVarTag": "$", //- variables from response starting with this, e.g. $pageTitle
+	"JsonDataId": "Hanjstjsondata", //- an html element id which holds server response json data
+	"LogTag": "Hanjst", //- inner usage
+	"ParseTag": "__JSTPL__",  //- inner usage
+	"IsDebug": false, //- verbose output in console
+};
+```
 
 
 ---
@@ -17,5 +27,5 @@
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTMyMjI5NjIsMjEyNTEzNjA0MV19
+eyJoaXN0b3J5IjpbLTE1NTg4ODMwODYsMjEyNTEzNjA0MV19
 -->
