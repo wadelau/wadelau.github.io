@@ -10,10 +10,10 @@
 ----
 [Back to top](/hanjst/hanjst-install)
 
-[Back to Previous](./what-is-hanjst)
+[Previous](./what-is-hanjst) ... [Next]()
 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQyNDYyNF19
+eyJoaXN0b3J5IjpbMTQzNDMxMzUwNl19
 -->
