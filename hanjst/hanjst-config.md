@@ -13,7 +13,9 @@ window.HanjstDefault = {
 	"IsDebug": false, //- verbose output in console
 };
 ```
-Keys listed in above can be set in window.Han
+Keys listed in above can be set in window.Hanjst before the main source file, i.e., Hanjst.js .
+
+However it is highly-recommended to keep them untouched due to unexpected or unknown warnings or errors.
 
 
 
@@ -29,5 +31,5 @@ Keys listed in above can be set in window.Han
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODUzNjYzNCwyMTI1MTM2MDQxXX0=
+eyJoaXN0b3J5IjpbMTExNjAwNjE2OSwyMTI1MTM2MDQxXX0=
 -->
