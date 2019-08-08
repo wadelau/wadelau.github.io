@@ -76,7 +76,12 @@ In the [demo page of Hanjst]([https://ufqi.com/dev/hanjst/](https://ufqi.com/dev
 >Line 405: if( $myAds2[‘sadplace’]==’homepage_up_right’){
 >Line 406: tpl2js.push(” <a href=\””);
 
-...
+
+When Hanjst encounters a syntax error, it throws a readable exception code description to form a traceable error report.
+
+Based on these error message specific to the line number, the developers can find the error location and make corrections as fast as possible. As shown above, it is indicated that when the template engine performs parsing, it is found that a variable such as $myAds2 which is undefined on line 405 is used without being initialized, so an error is reported.
+
+note! It is worth noting! Hanjst turns on JavaScript's Strict mode, which doesn't allow undefined variables!
 
 ---
 #### Related works
@@ -91,6 +96,6 @@ In the [demo page of Hanjst]([https://ufqi.com/dev/hanjst/](https://ufqi.com/dev
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI5MzUxMTksLTEwMDQzNDQ2MjYsMj
-E4NzAxOTU2LDc3NTgxNDkwXX0=
+eyJoaXN0b3J5IjpbMjA3NTI1NjA5NywtMTAwNDM0NDYyNiwyMT
+g3MDE5NTYsNzc1ODE0OTBdfQ==
 -->
