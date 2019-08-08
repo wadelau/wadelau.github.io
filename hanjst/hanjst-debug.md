@@ -7,14 +7,13 @@ To enable the debug mode, just set "IsDebug=true" before invoking the main templ
 ```javascript
 <script type="text/javascript" async>
     window.Hanjst = {'JsonDataId':'Hanjstjsondata', 
-	    'IsDebug': true}; // optional
+	    'IsDebug': true}; // for develop and debug only
 </script>
 ```
 
 The template parse engine will output verbose message in current browser's console log or via window.alert.
-Be careful，debug mode will consume extra computing 
+Be careful，debug mode will consume extra computing resources and it should be set to false in production environment.
  
-
 ### Debugging Output
 
 
@@ -30,5 +29,5 @@ Be careful，debug mode will consume extra computing
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjgxNzA5OV19
+eyJoaXN0b3J5IjpbMTM0MjE5NjU0MV19
 -->
