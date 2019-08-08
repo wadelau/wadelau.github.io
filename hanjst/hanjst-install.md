@@ -7,13 +7,16 @@ Hanjst source codes are written in pure JavaScript and has no dependency on any 
 So the simplest way to install Hanjst is to download a copy of Hanjst.js and put it in an HTML as below.
 
 ```html
+<body>
+....
 <div id="Hanjstjsondata">
 {"copyright_year": 2018}
 </div>
 <script type="text/javascript" src="Hanjst.js" async></script>
 </body>
 ```
-
+There are two HTML blocks needed to run the H'n'j
+Please pay attention to BODY element, Hanjst need it to be its parent node.
 
 #### Extended Setup
 
@@ -30,5 +33,5 @@ So the simplest way to install Hanjst is to download a copy of Hanjst.js and put
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyODQ2ODcwLDE4MjgyODg4OTddfQ==
+eyJoaXN0b3J5IjpbLTE0ODE1OTYyNDUsMTgyODI4ODg5N119
 -->
