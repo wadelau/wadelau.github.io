@@ -97,7 +97,7 @@ Template designers and developers are encouraged to implement one of them to pre
 ---
 #### Related works
 1. [Hanjst in -GitHub]([https://github.com/wadelau/Hanjst](https://github.com/wadelau/Hanjst))
-
+2. [H]
 
 ----
 [Back to Top](/hanjst/hanjst-install)
@@ -107,7 +107,7 @@ Template designers and developers are encouraged to implement one of them to pre
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDQ3NTU5MSwtNzUwOTg1NjU5LDE2ND
-k1MTg2NjEsLTEzODExMTE5MzYsMTU2MDIyMzU4MywxODI4Mjg4
-ODk3XX0=
+eyJoaXN0b3J5IjpbMTIxNjQ1Mzg4MywxMTQwNDc1NTkxLC03NT
+A5ODU2NTksMTY0OTUxODY2MSwtMTM4MTExMTkzNiwxNTYwMjIz
+NTgzLDE4MjgyODg4OTddfQ==
 -->
