@@ -43,6 +43,7 @@ Unfortunately, there is no state of art work for this job prior to Hanjst.
 
 Applying these criteria to all of exist JavaScript-based templates, however, it is hard to find one which meets all of these requirements.
 
+Code snippets of a JavaS 
 ```javascript
 <script id="template" type="x-tmpl-mustache">
 Hello {{ name }}!
@@ -76,8 +77,8 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyMDY1MzA5LC0yMzQzNjQ3NDAsNTM1MT
-UyMjAwLC04NDE1MjI5NTgsMTUyNDAyODgsLTQ3NTI2MTg4MSwx
-MjA5Njc3ODg1LDgwMjA4NTgzNCwtNjk4NTAxODc2LC05MzMzMD
-Q0MzNdfQ==
+eyJoaXN0b3J5IjpbLTM1Nzc3NzA3LDcxMjA2NTMwOSwtMjM0Mz
+Y0NzQwLDUzNTE1MjIwMCwtODQxNTIyOTU4LDE1MjQwMjg4LC00
+NzUyNjE4ODEsMTIwOTY3Nzg4NSw4MDIwODU4MzQsLTY5ODUwMT
+g3NiwtOTMzMzA0NDMzXX0=
 -->
