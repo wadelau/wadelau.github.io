@@ -55,9 +55,15 @@ In the [demo page of Hanjst]([https://ufqi.com/dev/hanjst/](https://ufqi.com/dev
 **2. Warnings**
 > additional original scripts before jsondata will be invoked twice.....Thu Aug 08 2019 12:37:00 GMT+0800 (China Standard Time)
 
+@todo
+
 >Hanjst found embedded tpl sentence:[span {if="" $user['feedback']="" gt="" 4}="" class="cls2" {else}="" {="" if}=""] but compatible partially.
 
+@todo
+
 >Hanjst illegal tpl sentence:[if \$newslist[$k]['title'].length > 25 ] but compatible.
+
+@todo
 
 >Hanjst illegal tpl sentence:[foreach $newscontentlist as $page] but compatible.
 
@@ -85,6 +91,6 @@ In the [demo page of Hanjst]([https://ufqi.com/dev/hanjst/](https://ufqi.com/dev
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxMjI1MjksLTEwMDQzNDQ2MjYsMjE4Nz
-AxOTU2LDc3NTgxNDkwXX0=
+eyJoaXN0b3J5IjpbLTEzNTI5MzUxMTksLTEwMDQzNDQ2MjYsMj
+E4NzAxOTU2LDc3NTgxNDkwXX0=
 -->
