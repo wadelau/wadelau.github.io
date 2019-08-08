@@ -72,10 +72,10 @@ We will investigate deeply into [Hanjst configurations and settings](./hanjst-co
 Sometimes it is necessary to hide JSON data from end-users. Usually there are two methods to make this done.
 
 1. To add a waiting layer.
-
+End-users will see a waiting layer if we choose this method by adding a top-index DIV layer as the very first element of BODY.
 
 2. To set JSON data DIV hide.
-
+End-user will see a few parts of the 
 
 
 #### Related works
@@ -90,6 +90,6 @@ Sometimes it is necessary to hide JSON data from end-users. Usually there are tw
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE1MzI0ODQsMTU2MDIyMzU4MywxOD
-I4Mjg4ODk3XX0=
+eyJoaXN0b3J5IjpbMTg2NDUzMDI1LDE1NjAyMjM1ODMsMTgyOD
+I4ODg5N119
 -->
