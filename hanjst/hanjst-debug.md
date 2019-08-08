@@ -25,7 +25,12 @@ There are a few of type of log messages. Basically, information, warnings and er
 >Hanjst includeScript:	if(1==1){.....
 
 >Hanjst tpl2code:try{ var tpl2js = []; ...
+
 >tplParse:&lt;style>...."
+
+>Hanjst parse time                 cost: 0.017s
+
+
 
 2. Warnings
 > additional original scripts before jsondata will be invoked twice.....Thu Aug 08 2019 12:37:00 GMT+0800 (China Standard Time)
@@ -53,5 +58,5 @@ There are a few of type of log messages. Basically, information, warnings and er
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4NzUxODU1XX0=
+eyJoaXN0b3J5IjpbNDA3NTk0OV19
 -->
