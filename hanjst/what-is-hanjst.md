@@ -30,14 +30,21 @@ Unfortunately, there is no state of art work for this job prior to Hanjst.
  
  ![Mindmap of templates engines](http://ufqi.com/blog/wp-content/uploads/2018/12/TemplateLanguage_Engine_forWeb.201812.png)
  
- What we expect for a client-side template, i.e., JavaScript-based template, are three keys points:
+ What we expect from a client-side template, i.e., JavaScript-based template, are three keys points:
  - Run in client-side, optional in server-side
  - Independent of back-end programming languages
  - As powerful as templates of back-end
 
 Applying these criteria to all of exist JavaScript-based templates, however, it is hard to find one which meets all of these requirements.
 
- As a fan of [Smarty,](//www.smarty.net) we would like to design and implement a whole newly-created JavaScript-based template language to cover all scenarios where Smarty has achieved.
+```javascript
+<script id="template" type="x-tmpl-mustache">
+Hello {{ name }}!
+</script>
+```
+Demerits or dislikes
+
+ As fans of [Smarty,](//www.smarty.net) we would like to design and implement a whole newly-created JavaScript-based template language to cover all scenarios where Smarty has achieved.
  
 In the meantime,  bearing these features and functions in mind, the invented template and its engine, so-called Hanjst, has mertis as:
 
@@ -60,6 +67,7 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTI2MTg4MSwxMjA5Njc3ODg1LDgwMj
-A4NTgzNCwtNjk4NTAxODc2LC05MzMzMDQ0MzNdfQ==
+eyJoaXN0b3J5IjpbODU4NTc1MzcyLC00NzUyNjE4ODEsMTIwOT
+Y3Nzg4NSw4MDIwODU4MzQsLTY5ODUwMTg3NiwtOTMzMzA0NDMz
+XX0=
 -->
