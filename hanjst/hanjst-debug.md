@@ -92,9 +92,13 @@ These keywords and their usages will be discussed in detail in following section
 **3. Errors**
 --
 >Hanjst template code exec failed.
+>
 >{“stack”:”ReferenceError: \$myAds2 is not defined\n at eval (eval at renderTemplate (http://example.com/view/default/js/Hanjst.js?v=201906171103:468:15), :405:1)\n at renderTemplate (http://example.com//view/default/js/Hanjst.js?v=201906171103:468:39)\n at _callRender (http://example.com//view/default/js/Hanjst.js?v=201906171103:679:9)\n at http://example.com//view/default/js/Hanjst.js?v=201906171103:698:9\n at http://example.com//view/default/js/Hanjst.js?v=201906171103:701:3″,”message”:”\$myAds2 is not defined”}
+>
 >Line 404:
+>
 >Line 405: if( $myAds2[‘sadplace’]==’homepage_up_right’){
+>
 >Line 406: tpl2js.push(” <a href=\””);
 
 
@@ -117,6 +121,6 @@ Attention! It is worth noting! Hanjst turns on JavaScript's Strict mode, which d
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5OTU4OTEwLC0xMDA0MzQ0NjI2LDIxOD
-cwMTk1Niw3NzU4MTQ5MF19
+eyJoaXN0b3J5IjpbMzA3Mjg1MjU2LDM5OTk1ODkxMCwtMTAwND
+M0NDYyNiwyMTg3MDE5NTYsNzc1ODE0OTBdfQ==
 -->
