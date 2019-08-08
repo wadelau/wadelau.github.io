@@ -30,6 +30,7 @@ Hanjst allows embedded template sentences which can be mixed with a normal HTML 
 However it is error-prone that the confusions raised by the chars of < (less than) and > (greater than).
 To figure it out, we designate "lt" (less than) to represent <, so as "gt" for >. 
 
+
 >Hanjst includeScript:	if(1==1){.....
 
 dd
@@ -77,5 +78,5 @@ dd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1ODE0OTBdfQ==
+eyJoaXN0b3J5IjpbMjE4NzAxOTU2LDc3NTgxNDkwXX0=
 -->
