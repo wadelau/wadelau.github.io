@@ -15,7 +15,9 @@ So the simplest way to install Hanjst is to download a copy of Hanjst.js and put
 <script type="text/javascript" src="Hanjst.js" async></script>
 </body>
 ```
-There are two HTML blocks needed to run the H'n'j
+There are two HTML blocks needed to run the Hanjst. 
+1. The first is a div which has an ID of "Hanjstjsondata" and holds all the data needed to be merged into the final page presentations.
+2. The 2rd one is a script element which introduces the 
 Please pay attention to BODY element, Hanjst need it to be its parent node.
 
 #### Extended Setup
@@ -33,5 +35,5 @@ Please pay attention to BODY element, Hanjst need it to be its parent node.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE1OTYyNDUsMTgyODI4ODg5N119
+eyJoaXN0b3J5IjpbNTU5MzY1ODA1LDE4MjgyODg4OTddfQ==
 -->
