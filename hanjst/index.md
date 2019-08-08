@@ -12,7 +12,7 @@
 ### [What is Hanjst and Why?](/hanjst/what-is-hanjst)
 ### [Installation](/hanjst/hanjst-install)
 ### [Configurations](/hanjst/hanjst-config)
-#### Debugging
+#### [Debugging](/hanjst/hanjst-debug)
 ### Misc.
 
 # Hanjst for Templates Designers
@@ -42,7 +42,7 @@
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NjMwMzU1MywyMzk1NDQxMjcsMTcwNj
-UyMzcwLDY5OTUzNjk4NiwxNzUxODg5OTE5LDExMjQ1MDc5Mzks
-NDA3MDc4NjUzLDExNjE2MzU1ODIsNDQ4NDcwMzMxXX0=
+eyJoaXN0b3J5IjpbLTIwNTU5ODQ3MjgsMjM5NTQ0MTI3LDE3MD
+Y1MjM3MCw2OTk1MzY5ODYsMTc1MTg4OTkxOSwxMTI0NTA3OTM5
+LDQwNzA3ODY1MywxMTYxNjM1NTgyLDQ0ODQ3MDMzMV19
 -->
