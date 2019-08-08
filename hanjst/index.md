@@ -10,7 +10,7 @@
 
 ## Get Started
 ### [What is Hanjst and Why?](/hanjst/what-is-hanjst)
-### [Installation](/hanjst/install)
+### [Installation](/hanjst/hanjst-install)
 ### Configurations
 #### Debugging
 ### Misc.
@@ -42,7 +42,7 @@
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDE3OTc0MywxNzUxODg5OTE5LDExMj
-Q1MDc5MzksNDA3MDc4NjUzLDExNjE2MzU1ODIsNDQ4NDcwMzMx
-XX0=
+eyJoaXN0b3J5IjpbNjk5NTM2OTg2LDE3NTE4ODk5MTksMTEyND
+UwNzkzOSw0MDcwNzg2NTMsMTE2MTYzNTU4Miw0NDg0NzAzMzFd
+fQ==
 -->
