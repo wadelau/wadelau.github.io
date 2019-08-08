@@ -44,7 +44,11 @@ There are a few of type of log messages. Basically, information, warnings and er
 
 
 3. Errors
-
+>Hanjst template code exec failed.
+>{“stack”:”ReferenceError: \$myAds2 is not defined\n at eval (eval at renderTemplate (http://example.com/view/default/js/Hanjst.js?v=201906171103:468:15), :405:1)\n at renderTemplate (http://example.com//view/default/js/Hanjst.js?v=201906171103:468:39)\n at _callRender (http://example.com//view/default/js/Hanjst.js?v=201906171103:679:9)\n at http://example.com//view/default/js/Hanjst.js?v=201906171103:698:9\n at http://example.com//view/default/js/Hanjst.js?v=201906171103:701:3″,”message”:”\$myAds2 is not defined”}
+>Line 404:
+>Line 405: if( $myAds2[‘sadplace’]==’homepage_up_right’){
+>Line 406: tpl2js.push(” <a href=\””);
 
 ---
 #### Related works
@@ -58,5 +62,5 @@ There are a few of type of log messages. Basically, information, warnings and er
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3NTk0OV19
+eyJoaXN0b3J5IjpbLTEyNTM4NzM1NzBdfQ==
 -->
