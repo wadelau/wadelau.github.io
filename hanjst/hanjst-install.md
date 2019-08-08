@@ -32,7 +32,8 @@ Please pay attention to BODY element, Hanjst need it to be its parent node.
 ### Run-time
 
 #### Related works
-1. []
+1. [Hanjst in -GitHub]([https://github.com/wadelau/Hanjst](https://github.com/wadelau/Hanjst))
+
 
 ----
 [Back to top](/hanjst/hanjst-install)
@@ -42,6 +43,6 @@ Please pay attention to BODY element, Hanjst need it to be its parent node.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjI2MjgwOSwxNTYwMjIzNTgzLDE4Mj
+eyJoaXN0b3J5IjpbMTA5NzI3MTc4MCwxNTYwMjIzNTgzLDE4Mj
 gyODg4OTddfQ==
 -->
