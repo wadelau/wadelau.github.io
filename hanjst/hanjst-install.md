@@ -10,6 +10,7 @@ So the simplest way to install Hanjst is to [download a copy of Hanjst.js](https
 <html>
 ....
 <body>
+
 ....
 <div id="Hanjstjsondata">
 	{"copyright_year": 2018}
@@ -43,6 +44,6 @@ Please pay attention to BODY element, Hanjst need it to be its parent node.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzI3MTc4MCwxNTYwMjIzNTgzLDE4Mj
+eyJoaXN0b3J5IjpbMTAzNjAzODQxOCwxNTYwMjIzNTgzLDE4Mj
 gyODg4OTddfQ==
 -->
