@@ -10,11 +10,15 @@ Han JavaScript Template Language and Engine.
 
 Hanjst is a template language aiming at present a page of Web contents.
 
-Hanjst is a template engine which parse the pages written in Hanjst template language.
+Hanjst is a template engine which parses the pages written in Hanjst template language.
 
 Han is the surname of my wife, and one of the given names of my daughter and son.
 
 Han is also Chinese in Pinyin, Hànrén (汉人).
+
+Design this template language and engine from the perspective of a linguist,
+The procedural expression of grammar and semantics is realized by the engineer's thinking.
+This is the Hanjst template language and engine.
 
 Hanjst is intentionally designed to stop further "Reinventing the wheel" for HTML template engines though it sounds ridiculous.
 
@@ -72,7 +76,8 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDM2NDc0MCw1MzUxNTIyMDAsLTg0MT
-UyMjk1OCwxNTI0MDI4OCwtNDc1MjYxODgxLDEyMDk2Nzc4ODUs
-ODAyMDg1ODM0LC02OTg1MDE4NzYsLTkzMzMwNDQzM119
+eyJoaXN0b3J5IjpbNzEyMDY1MzA5LC0yMzQzNjQ3NDAsNTM1MT
+UyMjAwLC04NDE1MjI5NTgsMTUyNDAyODgsLTQ3NTI2MTg4MSwx
+MjA5Njc3ODg1LDgwMjA4NTgzNCwtNjk4NTAxODc2LC05MzMzMD
+Q0MzNdfQ==
 -->
