@@ -11,8 +11,8 @@ To enable the debug mode, just set "IsDebug=true" before invoking the main templ
 </script>
 ```
 
-The 
-
+The template parse engine will output verbose message in current browser's console log or via window.alert.
+Be careful，debug mode will consume extra computing 
  
 
 ### Debugging Output
@@ -30,5 +30,5 @@ The
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Mzc5OTUwOV19
+eyJoaXN0b3J5IjpbLTExMjgxNzA5OV19
 -->
