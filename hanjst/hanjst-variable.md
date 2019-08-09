@@ -24,7 +24,7 @@ jsonData = "<div id=\"Hanjstjsondata\">"+jsonData+"</div>";
 out.println(jsonData);
 ```
 
-Hopefully, this will output an HTML as below.
+Hopefully, this codes will output an HTML as below.
 
 ```html
 <div id="Hanjstjsondata">
@@ -36,6 +36,13 @@ After Hanjst has been triggered by **window.onload**,  the key,  "userName", wil
 ```javascript
 $userName = 'Alice';
 ```
+
+Therefore, suppose we have the following Hanjst template file:
+
+```html
+<p>Hello, {$userName}! You are welcome.</p>
+```
+
 
 
 
@@ -58,6 +65,6 @@ $userName = 'Alice';
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDMzMjY5NTAsMTMxNDEzNTQ2NCw4NT
-EwNDg2MTNdfQ==
+eyJoaXN0b3J5IjpbMTIzMzI2NzcxNywxMzE0MTM1NDY0LDg1MT
+A0ODYxM119
 -->
