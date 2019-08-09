@@ -27,7 +27,9 @@ Hello World!
 </body>
 </html>
 ```
-Inside the box
+Inside the box of Hanjst, it read template data from the element identified by "Hanjstjsondata", and read template sentence from the element of BODY.
+
+If these steps
 
 
 ### Variables
@@ -46,5 +48,5 @@ Inside the box
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDkyMjUwMjZdfQ==
+eyJoaXN0b3J5IjpbLTkwNjI4NTA4MF19
 -->
