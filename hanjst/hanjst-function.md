@@ -12,7 +12,10 @@ The `{for}` `{forelse}` tag is used to create simple loops. `for` is also the re
 
 `{forelse}` is executed when the loop is not iterated.
 
+Here is an example of `for`:
+
 ```html
+{$myArr=[1,2,3]}
 <ul>
 {for $i in $myArr}
 	<li>{$i}</li>
@@ -21,6 +24,12 @@ The `{for}` `{forelse}` tag is used to create simple loops. `for` is also the re
 {/for}
 </ul>
 ```
+The template lines will output as below.
+
+```html
+
+```
+
 
 
 3. {foreach}...{foreachelse}
@@ -45,5 +54,5 @@ The `{for}` `{forelse}` tag is used to create simple loops. `for` is also the re
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3MDE4NTU0LC0xMDc3MDgwOTIwXX0=
+eyJoaXN0b3J5IjpbOTA2MTE0NTAyLC0xMDc3MDgwOTIwXX0=
 -->
