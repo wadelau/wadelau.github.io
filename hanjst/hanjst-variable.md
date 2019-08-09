@@ -118,8 +118,14 @@ Call it in HTML written in Hanjst template language:
 ### Modifiers Chain
 
 JavaScript allow function chain, so it is easy to use for Hanjst modifiers.
+Here is an example to show the chain.
 
-
+```html
+{$a=3}
+{$b=5}
+{$myFunc($myFunc($a, $b), $myFunc($a, $b))}
+《》
+```
 
 
 #### Related works
@@ -135,7 +141,7 @@ JavaScript allow function chain, so it is easy to use for Hanjst modifiers.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjEwOTM3MDgsMTY1NTc2NDI3MSwxMz
-M4NDY5NTI2LC03MjY4NDYxNTQsMTMxNDEzNTQ2NCw4NTEwNDg2
-MTNdfQ==
+eyJoaXN0b3J5IjpbMTg3NDU2MjM3NywxNjU1NzY0MjcxLDEzMz
+g0Njk1MjYsLTcyNjg0NjE1NCwxMzE0MTM1NDY0LDg1MTA0ODYx
+M119
 -->
