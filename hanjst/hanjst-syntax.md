@@ -27,7 +27,7 @@ Hello World!
 </body>
 </html>
 ```
-
+Inside the box
 
 
 ### Variables
@@ -39,7 +39,12 @@ Hello World!
 #### Custom Functions
 
 
+----
+[Back to Top](/hanjst/hanjst-syntax)
 
+[Previous](./hanjst-debug) ... [Next](./)
+
+[Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODg3MzYyOThdfQ==
+eyJoaXN0b3J5IjpbLTIwNDkyMjUwMjZdfQ==
 -->
