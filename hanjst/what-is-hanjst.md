@@ -28,6 +28,8 @@ Hanjst is intentionally designed to stop further "Reinventing the wheel" for HTM
 ---
 ### Why Template?
 
+A _template engine_ enables us to use static template files in an application. At runtime, the template engine replaces variables in a template file with actual values, and transforms the template into an HTML file sent to the client. This approach makes it easier to design an HTML page.
+
 MVC separation, see  [ASP.NET MVC Pattern](https://dotnet.microsoft.com/apps/aspnet/mvc) .
 
 Clear and clean codes, see [Why would I use Smarty](https://www.smarty.net/why_use) .
@@ -108,10 +110,10 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODc2Njk3NiwxOTM3MzY1NTk3LC0xMD
-YwMDM1NDc0LC03NDk2NzcxMTcsLTE4MDE2NTMyNDEsLTQ2MTM5
-ODA0MSwxODM1MjI3MDEwLDcxMjA2NTMwOSwtMjM0MzY0NzQwLD
-UzNTE1MjIwMCwtODQxNTIyOTU4LDE1MjQwMjg4LC00NzUyNjE4
-ODEsMTIwOTY3Nzg4NSw4MDIwODU4MzQsLTY5ODUwMTg3NiwtOT
-MzMzA0NDMzXX0=
+eyJoaXN0b3J5IjpbLTEwODgxNDY5MywxMjA4NzY2OTc2LDE5Mz
+czNjU1OTcsLTEwNjAwMzU0NzQsLTc0OTY3NzExNywtMTgwMTY1
+MzI0MSwtNDYxMzk4MDQxLDE4MzUyMjcwMTAsNzEyMDY1MzA5LC
+0yMzQzNjQ3NDAsNTM1MTUyMjAwLC04NDE1MjI5NTgsMTUyNDAy
+ODgsLTQ3NTI2MTg4MSwxMjA5Njc3ODg1LDgwMjA4NTgzNCwtNj
+k4NTAxODc2LC05MzMzMDQ0MzNdfQ==
 -->
