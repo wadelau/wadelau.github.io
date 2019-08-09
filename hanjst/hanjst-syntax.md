@@ -109,11 +109,12 @@ function foo(x, y){
 ```
 Call it in HTML written in Hanjst template language:
 ```html
-<!-- display a custom function result -->
+<!-- define variables -->
 {$a=3}
 {$b=5}
-
-
+<!-- display a custom function result -->
+{$foo($a, $b)}
+<!-- output: 8 -->
 ```
 
 
@@ -125,5 +126,5 @@ Call it in HTML written in Hanjst template language:
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzY0NDg2Ml19
+eyJoaXN0b3J5IjpbMjAzNjgzMTIxMV19
 -->
