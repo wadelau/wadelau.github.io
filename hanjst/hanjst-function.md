@@ -13,7 +13,13 @@ The `{for}` `{forelse}` tag is used to create simple loops. `for` is also the re
 `{forelse}` is executed when the loop is not iterated.
 
 ```html
-{}
+<ul>
+{for $i in $myArr}
+	<li>{$i}</li>
+{forelse}
+	<li>No data.<li>
+{/for}
+</ul>
 ```
 
 
@@ -39,5 +45,5 @@ The `{for}` `{forelse}` tag is used to create simple loops. `for` is also the re
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDcwMTQ4NCwtMTA3NzA4MDkyMF19
+eyJoaXN0b3J5IjpbNjU3MDE4NTU0LC0xMDc3MDgwOTIwXX0=
 -->
