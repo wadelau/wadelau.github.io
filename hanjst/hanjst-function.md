@@ -42,6 +42,7 @@ Another example use `for` as `for` in pure JavaScript:
 {/for}
 </ul>
 ```
+---
 
 2. `{foreach}`...`{foreachelse}`
 
@@ -66,7 +67,7 @@ Another more complicated data structure is used to demonstrate its powerful expr
 {foreach $newsList as $p}
 	<li>
 	{foreach $newsList[$p] as $pd}
-		<dt>{$newsList[$p][]}</dt>
+		<dt>{$newsList[$p][$pd]}</dt>
 	{/foreach}
 	</li>
 {foreachelse}
@@ -75,9 +76,10 @@ Another more complicated data structure is used to demonstrate its powerful expr
 </ul>
 ```
 
-
+---
 
 3. `{if}`...`{else if}`...`{else}`
+
 
 
 4. `{while}`...`{whileelse}`
@@ -100,5 +102,6 @@ Another more complicated data structure is used to demonstrate its powerful expr
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzM5MDE2NiwtMTA3NzA4MDkyMF19
+eyJoaXN0b3J5IjpbLTE2NjU1NjE5OTgsLTEwNzcwODA5MjBdfQ
+==
 -->
