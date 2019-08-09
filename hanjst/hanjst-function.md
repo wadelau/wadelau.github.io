@@ -97,6 +97,8 @@ This template lines will output pure HTML lines as below.
 	</li>
 </ul>
 ```
+According to our statistics from projects, 
+
 
 ---
 
@@ -136,7 +138,7 @@ Let's show it in an example.
 
 ```html
 {$user['feedback']=2}
-<span {if $user['feedback'] lt 3 } class="cls2"{else} class="cls3"{/if}>
+<span {if $user['feedback'] lt 3} class="cls2"{else} class="cls3"{/if}>
 	This is A SPAN with embedded Tpl sentence.
 </span>
 ```
@@ -173,6 +175,6 @@ This template lines will yield an output as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDM4NTA1OSw3MjI1NjQ3MDEsLTQ5OD
-k4OTk5NywtMTMxNzE1ODQwNiwtMTA3NzA4MDkyMF19
+eyJoaXN0b3J5IjpbLTEwMjI1ODEyODUsNzIyNTY0NzAxLC00OT
+g5ODk5OTcsLTEzMTcxNTg0MDYsLTEwNzcwODA5MjBdfQ==
 -->
