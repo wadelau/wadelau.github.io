@@ -28,7 +28,7 @@ Hanjst is intentionally designed to stop further "Reinventing the wheel" for HTM
 ---
 ### Why Template?
 
-A _template engine_ enables us to use static template files in an application. At runtime, the template engine replaces variables in a template file with actual values, and transforms the template into an HTML file sent to the client. This approach makes it easier to design an HTML page.
+A _`template engine`_ enables us to use static template files in an application. At runtime, the template engine replaces variables in a template file with actual values, and transforms the template into an final HTML.
 
 MVC separation, see  [ASP.NET MVC Pattern](https://dotnet.microsoft.com/apps/aspnet/mvc) .
 
@@ -110,7 +110,7 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODgxNDY5MywxMjA4NzY2OTc2LDE5Mz
+eyJoaXN0b3J5IjpbMTAxNTQ0MDAyNSwxMjA4NzY2OTc2LDE5Mz
 czNjU1OTcsLTEwNjAwMzU0NzQsLTc0OTY3NzExNywtMTgwMTY1
 MzI0MSwtNDYxMzk4MDQxLDE4MzUyMjcwMTAsNzEyMDY1MzA5LC
 0yMzQzNjQ3NDAsNTM1MTUyMjAwLC04NDE1MjI5NTgsMTUyNDAy
