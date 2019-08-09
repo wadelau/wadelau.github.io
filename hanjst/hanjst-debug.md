@@ -90,9 +90,10 @@ Hanjst provides lots of compatible remedies for human misspelling or misused wit
 
 Hanjst also strives to behave as Smarty and it can parse many template sentences which are being composed with Smarty syntax, such as the log shows in the above lines.
 
-```javascript
-> foreach $newsContentList as $news
-	> $news['title'];
+```html
+{foreach $newsContentList as $news}
+	{$news['title']}
+{/foreach}
 ```
 The lines will be translated into JavaScript codes as below.
 
@@ -140,7 +141,7 @@ Attention! It is worthy to be noted! Hanjst turns on JavaScript's Strict mode, w
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjYzOTcyMjAsLTEwOTg1Mjc5MDgsLT
-U2NDI4MjQsMzk5OTU4OTEwLC0xMDA0MzQ0NjI2LDIxODcwMTk1
-Niw3NzU4MTQ5MF19
+eyJoaXN0b3J5IjpbMTc4ODg1MzQwNiwtMTUyNjM5NzIyMCwtMT
+A5ODUyNzkwOCwtNTY0MjgyNCwzOTk5NTg5MTAsLTEwMDQzNDQ2
+MjYsMjE4NzAxOTU2LDc3NTgxNDkwXX0=
 -->
