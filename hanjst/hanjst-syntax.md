@@ -119,8 +119,21 @@ Call it in HTML written in Hanjst template language:
 
 ### Comments
 
-Comments in Hanjst
+Comments in Hanjst have two parts.
+For JavaScript part, 
 
+```javascript
+//-- this is a line comment
+/*
+ * these are block comment
+ */
+```
+
+For HTML part,
+
+```html
+
+```
 
 ----
 [Back to Top](/hanjst/hanjst-syntax)
@@ -129,5 +142,5 @@ Comments in Hanjst
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDE4NjIwOV19
+eyJoaXN0b3J5IjpbMTM4NjYxMjk1OF19
 -->
