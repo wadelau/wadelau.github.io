@@ -38,13 +38,19 @@ Another example use `for` as `for` in pure JavaScript:
 ```html
 <ul>
 {for($i=0; $i<10; $i++)}
-	<li>{$i}
+	<li>{$i}</li>
 {/for}
+</ul>
 ```
 
-3. {foreach}...{foreachelse}
-4. {if}...{else if}...{else}
-5. {while}...{whileelse}
+2. `{foreach}`...`{foreachelse}`
+
+
+
+3. `{if}`...`{else if}`...`{else}`
+
+
+4. `{while}`...`{whileelse}`
 
 
 ### Custom Functions
@@ -64,5 +70,5 @@ Another example use `for` as `for` in pure JavaScript:
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODg2MzM5NiwtMTA3NzA4MDkyMF19
+eyJoaXN0b3J5IjpbNzE1ODYwOTExLC0xMDc3MDgwOTIwXX0=
 -->
