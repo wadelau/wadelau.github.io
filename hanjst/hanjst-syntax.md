@@ -49,10 +49,11 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 {$foo['bar']}
 >display the "bar" key value of an array
 
-{$foo.bar}
-{$foo.$bar}
+{\$foo.bar}
+{\$foo.$bar}
 >same as $foo['bar']
 
+{$foo['bar']['']}
 
 ### Functions
 
@@ -68,5 +69,5 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzcwNTEwN119
+eyJoaXN0b3J5IjpbLTEzNTYyMjU0NTZdfQ==
 -->
