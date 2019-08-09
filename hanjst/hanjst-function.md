@@ -97,7 +97,7 @@ This template lines will output pure HTML lines as below.
 	</li>
 </ul>
 ```
-According to our statistics from projects, 
+According to our statistics from projects, `{foreach}` is heavily-used than any other directive functions. Almost every page contains at least one `{foreach}` .
 
 
 ---
@@ -150,11 +150,11 @@ This template lines will yield an output as below.
 </span>
 ```
 
-
 ---
 
 4. `{while}`...`{whileelse}`
 
+`
 
 ---
 
@@ -175,6 +175,6 @@ This template lines will yield an output as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjI1ODEyODUsNzIyNTY0NzAxLC00OT
-g5ODk5OTcsLTEzMTcxNTg0MDYsLTEwNzcwODA5MjBdfQ==
+eyJoaXN0b3J5IjpbMTI1NzA2MTcwMyw3MjI1NjQ3MDEsLTQ5OD
+k4OTk5NywtMTMxNzE1ODQwNiwtMTA3NzA4MDkyMF19
 -->
