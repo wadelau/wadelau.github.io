@@ -159,14 +159,14 @@ This template lines will yield an output as below.
 Just a few lines of examples.
 
 ```html
+{$i=0}
 <ul>
 {while $i<5}
-    <li> line {$i} </li>
+	<li> line {$i} </li>
     {$i++}
 {whileelse}
-        <li>Out of While.</li>
+	<li>Out of While.</li>
 {/while}
-</span>
 </ul>
 ```
 
@@ -190,6 +190,6 @@ Just a few lines of examples.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjA2ODMzMDksNzIyNTY0NzAxLC00OT
-g5ODk5OTcsLTEzMTcxNTg0MDYsLTEwNzcwODA5MjBdfQ==
+eyJoaXN0b3J5IjpbMTY1OTQ0MTQ5Niw3MjI1NjQ3MDEsLTQ5OD
+k4OTk5NywtMTMxNzE1ODQwNiwtMTA3NzA4MDkyMF19
 -->
