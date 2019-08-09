@@ -74,7 +74,7 @@ As shown above, Hanjst will parse all keys in JSON data into variable names in c
 
 For example, the $dollar sign, the single sign is set to a global variable designated into jQuery. If a page loaded both jQuery and Hanjst, potential conflicts may exist.
 
-Bearing this in mind, we have added validation in process of the parsing works. When any conflict raised, an except
+Bearing this in mind, we have added validation in process of the parsing works. When any conflict raised, an exception is being thrown and developers need to fix them before going next.
 
 
 ### Modifiers
@@ -94,6 +94,6 @@ Bearing this in mind, we have added validation in process of the parsing works. 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzYxOTU2NSwxMzE0MTM1NDY0LDg1MT
+eyJoaXN0b3J5IjpbLTcyNjg0NjE1NCwxMzE0MTM1NDY0LDg1MT
 A0ODYxM119
 -->
