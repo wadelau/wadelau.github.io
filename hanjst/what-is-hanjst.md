@@ -28,9 +28,9 @@ Hanjst is intentionally designed to stop further "Reinventing the wheel" for HTM
 ---
 ### Why Template?
 
-MVC separation, see  [ASP.NET MVC Pattern](https://dotnet.microsoft.com/apps/aspnet/mvc) 
+MVC separation, see  [ASP.NET MVC Pattern](https://dotnet.microsoft.com/apps/aspnet/mvc) .
 
-Clear and clean codes, see 
+Clear and clean codes, see Why would I use Smarty .
 
 ---
 ### Why Hanjst?
@@ -108,10 +108,10 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxMzExMTEsMTkzNzM2NTU5NywtMTA2MD
-AzNTQ3NCwtNzQ5Njc3MTE3LC0xODAxNjUzMjQxLC00NjEzOTgw
-NDEsMTgzNTIyNzAxMCw3MTIwNjUzMDksLTIzNDM2NDc0MCw1Mz
-UxNTIyMDAsLTg0MTUyMjk1OCwxNTI0MDI4OCwtNDc1MjYxODgx
-LDEyMDk2Nzc4ODUsODAyMDg1ODM0LC02OTg1MDE4NzYsLTkzMz
-MwNDQzM119
+eyJoaXN0b3J5IjpbLTUwODcyNDk2NiwxOTM3MzY1NTk3LC0xMD
+YwMDM1NDc0LC03NDk2NzcxMTcsLTE4MDE2NTMyNDEsLTQ2MTM5
+ODA0MSwxODM1MjI3MDEwLDcxMjA2NTMwOSwtMjM0MzY0NzQwLD
+UzNTE1MjIwMCwtODQxNTIyOTU4LDE1MjQwMjg4LC00NzUyNjE4
+ODEsMTIwOTY3Nzg4NSw4MDIwODU4MzQsLTY5ODUwMTg3NiwtOT
+MzMzA0NDMzXX0=
 -->
