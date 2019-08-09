@@ -82,7 +82,14 @@ Bearing this in mind, we have added validation in process of the parsing works. 
 #### Modifiers with JavaScript built-in functions
 
 There are so many functions which can be used directly in Hanjst.
+See [Standard built-in objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects) for detailed list.
 
+Examples are demonstrated below.
+
+```html
+
+```
+ 
 
 #### Modifiers with Custom functions
 
@@ -100,6 +107,6 @@ There are so many functions which can be used directly in Hanjst.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODQ2OTUyNiwtNzI2ODQ2MTU0LDEzMT
-QxMzU0NjQsODUxMDQ4NjEzXX0=
+eyJoaXN0b3J5IjpbNDE1NzUzODk1LDEzMzg0Njk1MjYsLTcyNj
+g0NjE1NCwxMzE0MTM1NDY0LDg1MTA0ODYxM119
 -->
