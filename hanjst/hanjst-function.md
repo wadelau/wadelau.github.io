@@ -67,7 +67,7 @@ Another more complicated data structure is used to demonstrate its powerful expr
 {$newsList[0]=new Object()}
 {$newsList[0]['id']=12}
 {$newsList[0]['title']='News-Title-12'}
-{$newsList[0]=new Object()}
+{$newsList[1]=new Object()}
 {$newsList[1]['id']=34}
 {$newsList[1]['title']='News-Title-34'}
 <ul>
@@ -81,6 +81,14 @@ Another more complicated data structure is used to demonstrate its powerful expr
 	<li>No data.<li>
 {/foreach}
 </ul>
+```
+
+This template lines will output pure HTML lines as below.
+
+```html
+<ul>
+	<li>
+		<dt>id: 12</dt>			<dt>title: News-Title-12</dt>		</li>	<li>			<dt>id: 34</dt>			<dt>title: News-Title-34</dt>		</li></ul>
 ```
 
 ---
@@ -109,6 +117,6 @@ Another more complicated data structure is used to demonstrate its powerful expr
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTcxNTg0MDYsLTEwNzcwODA5MjBdfQ
-==
+eyJoaXN0b3J5IjpbMjEzMjA4NTY2NiwtMTMxNzE1ODQwNiwtMT
+A3NzA4MDkyMF19
 -->
