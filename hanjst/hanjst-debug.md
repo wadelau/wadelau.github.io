@@ -99,7 +99,7 @@ The lines will be translated into JavaScript codes as below.
 
 ```javascript
 for(var $news in $newsContentList){
-	$news['title'];
+	$news['title']; //- print 
 }
 ```
 Similar compatible measures include **foreach**, **foreachelse**, **whileelse**. **forelse**. Because these keywords are not built-in keywords in pure JavaScript source codes.
@@ -141,7 +141,7 @@ Attention! It is worthy to be noted! Hanjst turns on JavaScript's Strict mode, w
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODg1MzQwNiwtMTUyNjM5NzIyMCwtMT
-A5ODUyNzkwOCwtNTY0MjgyNCwzOTk5NTg5MTAsLTEwMDQzNDQ2
-MjYsMjE4NzAxOTU2LDc3NTgxNDkwXX0=
+eyJoaXN0b3J5IjpbMzE3Nzg3MDIsLTE1MjYzOTcyMjAsLTEwOT
+g1Mjc5MDgsLTU2NDI4MjQsMzk5OTU4OTEwLC0xMDA0MzQ0NjI2
+LDIxODcwMTk1Niw3NzU4MTQ5MF19
 -->
