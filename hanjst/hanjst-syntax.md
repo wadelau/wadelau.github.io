@@ -78,7 +78,12 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 
 Hanjst functions are all functions of JavaScript. Reversely, all JavaScript functions and objects are all accessible to the current Hanjst.
 
-{$foo}
+{$foo()}
+>display the return of function "foo"
+
+{\$foo($bar)}
+>display the return of function "foo", with a parameter "bar"
+
 
 #### Built-in Functions
 
@@ -92,5 +97,5 @@ Hanjst functions are all functions of JavaScript. Reversely, all JavaScript func
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzNjQzMzkxXX0=
+eyJoaXN0b3J5IjpbNzUwNzAwMjk3XX0=
 -->
