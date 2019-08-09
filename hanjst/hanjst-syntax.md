@@ -29,7 +29,7 @@ Hello World!
 ```
 Inside the box of Hanjst, it read template data from the element identified by "Hanjstjsondata", and read template sentence from the element of BODY.
 
-If these steps
+If these steps work well, Hanjst tries to load template data into current JavaScript run-time by introducing each key of JSON data as a variable 
 
 
 ### Variables
@@ -48,5 +48,5 @@ If these steps
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjI4NTA4MF19
+eyJoaXN0b3J5IjpbLTk3NDQ0NTQ4OV19
 -->
