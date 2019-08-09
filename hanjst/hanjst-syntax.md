@@ -117,6 +117,9 @@ Call it in HTML written in Hanjst template language:
 <!-- output: 8 -->
 ```
 
+### Comments
+
+Comments in Hanjst
 
 
 ----
@@ -126,5 +129,5 @@ Call it in HTML written in Hanjst template language:
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjgzMTIxMV19
+eyJoaXN0b3J5IjpbLTkzMDE4NjIwOV19
 -->
