@@ -99,6 +99,20 @@ See [MDN JavaScript Docs online](https://developer.mozilla.org/en-US/docs/Web/Ja
 
 Besides of so many built-in JavaScript functions, developers are encouraged to make custom objects, classes or functions for specific usages.
 
+An example is attached below.
+
+```javascript
+function foo(x, y){
+	return x = x + y;
+}
+```
+
+```html
+
+```
+
+
+
 ----
 [Back to Top](/hanjst/hanjst-syntax)
 
@@ -106,5 +120,5 @@ Besides of so many built-in JavaScript functions, developers are encouraged to m
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTU4MzUzMDNdfQ==
+eyJoaXN0b3J5IjpbMzAyNTEyNzM5XX0=
 -->
