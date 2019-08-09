@@ -117,8 +117,8 @@ Call it in HTML written in Hanjst template language:
 
 #### Related works
 
-1. [Hanjst Demo Page](https://ufqi.com/dev/hanjst/)
-
+1. [Hanjst Demo Page](https://ufqi.com/dev/hanjst/) .
+2. [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects) .
 
 ----
 [Back to Top](/hanjst/hanjst-variable)
@@ -128,7 +128,7 @@ Call it in HTML written in Hanjst template language:
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDAwMTE1NywxNjU1NzY0MjcxLDEzMz
+eyJoaXN0b3J5IjpbLTU4OTg1NjYzMywxNjU1NzY0MjcxLDEzMz
 g0Njk1MjYsLTcyNjg0NjE1NCwxMzE0MTM1NDY0LDg1MTA0ODYx
 M119
 -->
