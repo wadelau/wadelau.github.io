@@ -81,7 +81,10 @@ Bearing this in mind, we have added validation in process of the parsing works. 
 
 #### Modifiers with JavaScript built-in functions
 
-#### Modifiers with Custom
+There are so many functions which can be used directly in Hanjst.
+
+
+#### Modifiers with Custom functions
 
 
 #### Related works
@@ -97,6 +100,6 @@ Bearing this in mind, we have added validation in process of the parsing works. 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDUyMTMwNSwtNzI2ODQ2MTU0LDEzMT
+eyJoaXN0b3J5IjpbMTMzODQ2OTUyNiwtNzI2ODQ2MTU0LDEzMT
 QxMzU0NjQsODUxMDQ4NjEzXX0=
 -->
