@@ -53,7 +53,11 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 {\$foo.$bar}
 >same as $foo['bar']
 
-{$foo['bar']['']}
+{$foo['bar']['car']}
+{\$foo.bar.car}
+{\$foo.\$bar.\$car}
+>display multiple dimension array
+
 
 ### Functions
 
@@ -69,5 +73,5 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTYyMjU0NTZdfQ==
+eyJoaXN0b3J5IjpbLTMwOTYxMjQzOV19
 -->
