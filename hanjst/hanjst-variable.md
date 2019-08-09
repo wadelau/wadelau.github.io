@@ -4,6 +4,7 @@
 
 Hanjst variables come from JSON data which being generated from its server response via HTTP request.
 
+Variable n
 
 
 ### Modifiers
@@ -23,6 +24,6 @@ Hanjst variables come from JSON data which being generated from its server respo
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTgzOTcyMCwxMzE0MTM1NDY0LDg1MT
-A0ODYxM119
+eyJoaXN0b3J5IjpbLTc2ODIxMjIwLDEzMTQxMzU0NjQsODUxMD
+Q4NjEzXX0=
 -->
