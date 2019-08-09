@@ -54,7 +54,9 @@ A simple variable goes through server-side and client, back-end and front-end li
 
 #### Variables from client-side
 
-It is obvious that a variable  
+It is obvious that a variable  from server-side has a long way to walk through. But a variable from client-side is lucky and has no such a long walk.
+
+Depends on whether a variable is global or local, it can be declared
 
 
 
@@ -75,6 +77,6 @@ It is obvious that a variable
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjkxNzkwMiwxMzE0MTM1NDY0LDg1MT
+eyJoaXN0b3J5IjpbLTc4ODEyMTg0OSwxMzE0MTM1NDY0LDg1MT
 A0ODYxM119
 -->
