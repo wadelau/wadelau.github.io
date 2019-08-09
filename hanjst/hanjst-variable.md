@@ -2,7 +2,7 @@
 ## Variables and Modifiers
 ### Variables
 
-
+#### Variables from Server-side
 Hanjst variables come from JSON data which being generated from its server response via HTTP request.
 
 Variable names are actually the key names in JSON data. Therefore, the main source to define a variable in Hanjst is server-side, that is to say, declaring in server-side what will be output to clients and named as variables.
@@ -52,6 +52,11 @@ The template content will be finally translated into pure HTML sentence.
 This is the travelling of a variable in Hanjst.
 A simple variable goes through server-side and client, back-end and front-end like this way. And any of other variables, like array, object, will also travel in this routing. 
 
+#### Variables from client-side
+
+It is obvious that a variable  
+
+
 
 ### Modifiers
 ....
@@ -70,6 +75,6 @@ A simple variable goes through server-side and client, back-end and front-end li
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMwMTgxMjA2LDEzMTQxMzU0NjQsODUxMD
-Q4NjEzXX0=
+eyJoaXN0b3J5IjpbMTgxMjkxNzkwMiwxMzE0MTM1NDY0LDg1MT
+A0ODYxM119
 -->
