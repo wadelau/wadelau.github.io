@@ -56,7 +56,16 @@ A simple variable goes through server-side and client, back-end and front-end li
 
 It is obvious that a variable  from server-side has a long way to walk through. But a variable from client-side is lucky and has no such a long walk.
 
-Depends on whether a variable is global or local, it can be declared
+Depends on whether a variable is global or local, it can be declared in any place in Hanjst whenever or wherever.
+
+```html
+{$i=0}
+{$myTime=(new Date()).getTime()}
+
+{foreach $newsList as $news}
+	{$news['title']}
+{/foreach}
+```
 
 
 
@@ -77,6 +86,6 @@ Depends on whether a variable is global or local, it can be declared
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODEyMTg0OSwxMzE0MTM1NDY0LDg1MT
-A0ODYxM119
+eyJoaXN0b3J5IjpbLTE0NzM0MzQwMDgsMTMxNDEzNTQ2NCw4NT
+EwNDg2MTNdfQ==
 -->
