@@ -104,6 +104,13 @@ This template lines will output pure HTML lines as below.
 
 `{if}` is very similar with `{if}` in pure JavaScript and both share the same qualifiers to server as comparing operators.
 
+```html
+{$title='Hello Wordl!'}
+<p>
+{if $title.length()}
+</p>
+
+```
 
 ---
 
@@ -129,6 +136,6 @@ This template lines will output pure HTML lines as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODk4OTk5NywtMTMxNzE1ODQwNiwtMT
-A3NzA4MDkyMF19
+eyJoaXN0b3J5IjpbNTM4MzIxMzUsLTQ5ODk4OTk5NywtMTMxNz
+E1ODQwNiwtMTA3NzA4MDkyMF19
 -->
