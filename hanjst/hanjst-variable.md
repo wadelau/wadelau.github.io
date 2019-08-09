@@ -37,12 +37,12 @@ After Hanjst has been triggered by **window.onload**,  the key,  "userName", wil
 $userName = 'Alice';
 ```
 
-Therefore, suppose we have the following Hanjst template file:
+Therefore, suppose we have the following Hanjst template file with a line:
 
 ```html
 <p>Hello, {$userName}! You are welcome.</p>
 ```
-And the template content will be finally translated into pure HTML sentence.
+The template content will be finally translated into pure HTML sentence.
 
 ```html
 <p>Hello, Alice! You are welcome.</p>
@@ -69,6 +69,6 @@ And the template content will be finally translated into pure HTML sentence.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTgzMTc5NCwxMzE0MTM1NDY0LDg1MT
+eyJoaXN0b3J5IjpbMTczODg4MjM1NCwxMzE0MTM1NDY0LDg1MT
 A0ODYxM119
 -->
