@@ -6,7 +6,14 @@ Hanjst variables come from JSON data which being generated from its server respo
 
 Variable names are actually the key names in JSON data. Therefore, the main source to define a variable in Hanjst is server-side, that is to say, declaring in server-side what will be output to clients and named as variables.
 
-Another way to define a variable in Hanjst is client-side, e.g. define a global or local variable just like a common variable in JavaScript.
+Another way to define a variable in Hanjst is client-side, e.g. define a global or local variable just like a common variable in JavaScript. Furthermore, this is the way to define a function, a class or an object.
+
+Define JSON keys in server-side, for instance in Java:
+
+```java
+
+```
+
 
 
 
@@ -27,6 +34,6 @@ Another way to define a variable in Hanjst is client-side, e.g. define a global 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzAyNzc2OSwxMzE0MTM1NDY0LDg1MT
-A0ODYxM119
+eyJoaXN0b3J5IjpbLTIwOTMyNTYyNzUsMTMxNDEzNTQ2NCw4NT
+EwNDg2MTNdfQ==
 -->
