@@ -135,8 +135,15 @@ To figure it out, we designate “lt” (less than) to represent <, so as “gt�
 Let's show it in an example.
 
 ```html
-{$user[]}
+{$user['feedback']=2}
 <span {if $user['feedback'] lt 3 } class="cls2"{else} class="cls3"{/if}>
+	This is A SPAN with embedded Tpl sentence.
+</span>
+```
+This template lines will yield an output as below.
+
+```html
+<span class="cls2">
 	This is A SPAN with embedded Tpl sentence.
 </span>
 ```
@@ -166,6 +173,6 @@ Let's show it in an example.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5ODkwNzczLDcyMjU2NDcwMSwtNDk4OT
-g5OTk3LC0xMzE3MTU4NDA2LC0xMDc3MDgwOTIwXX0=
+eyJoaXN0b3J5IjpbMTg4NDM4NTA1OSw3MjI1NjQ3MDEsLTQ5OD
+k4OTk5NywtMTMxNzE1ODQwNiwtMTA3NzA4MDkyMF19
 -->
