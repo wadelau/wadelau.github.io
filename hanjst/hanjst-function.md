@@ -109,13 +109,23 @@ This template lines will output pure HTML lines as below.
 {$titleLength=$title.length()}
 <p>
 {if $titleLength > 50}
-	{$titleLength} 
-{else if $titleLength() > 10}
+	{$titleLength} is greater than 50!
+{else if $titleLength > 10}
+	{$titleLength} is greater than 10!
 {else}
+	{$titleLength} is less than 10!
 {/if}
 </p>
-
 ```
+
+The template lines will output as below.
+
+```html
+<p>
+	
+</p>
+```
+
 
 ---
 
@@ -141,6 +151,6 @@ This template lines will output pure HTML lines as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDU1MDMxMiwtNDk4OTg5OTk3LC0xMz
-E3MTU4NDA2LC0xMDc3MDgwOTIwXX0=
+eyJoaXN0b3J5IjpbNzIyNTY0NzAxLC00OTg5ODk5OTcsLTEzMT
+cxNTg0MDYsLTEwNzcwODA5MjBdfQ==
 -->
