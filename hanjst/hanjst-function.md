@@ -126,7 +126,11 @@ The template lines will output as below.
 </p>
 ```
 
-Regarding to the comparing operator, custom 
+Regarding to the comparing operator, `<` will be escaped as `lt` and `>` will be escaped into `gt`, so as `=` to `eq`.
+
+Hanjst allows embedded template sentences which can be mixed with a normal HTML element.  
+However it is error-prone that the confusions raised by the chars of < (less than) and > (greater than).  
+To figure it out, we designate “lt” (less than) to represent <, so as “gt” for >. See Hanjst Debugging .
 
 
 ---
@@ -153,6 +157,6 @@ Regarding to the comparing operator, custom
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Mjc4MjY2NSw3MjI1NjQ3MDEsLTQ5OD
+eyJoaXN0b3J5IjpbMjAzODA5MjA3Miw3MjI1NjQ3MDEsLTQ5OD
 k4OTk5NywtMTMxNzE1ODQwNiwtMTA3NzA4MDkyMF19
 -->
