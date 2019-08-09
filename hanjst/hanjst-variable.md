@@ -31,7 +31,7 @@ Hopefully, this codes will output an HTML as below.
 	{"userName": "Alice"}
 </div>
 ```
-After Hanjst has been triggered by **window.onload**,  the key,  "userName", will be parsed as a variable in Hanjst or JavaScript as below.
+After Hanjst engine has been triggered by **window.onload**,  the key,  "userName", will be parsed as a variable in Hanjst or JavaScript as below.
 
 ```javascript
 $userName = 'Alice';
@@ -49,7 +49,7 @@ The template content will be finally translated into pure HTML sentence.
 ```
 
 This is the travelling of a variable in Hanjst.
-
+A simple variable travel thgo
 
 
 ### Modifiers
@@ -69,6 +69,6 @@ This is the travelling of a variable in Hanjst.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3MjQ3NzUwLDEzMTQxMzU0NjQsODUxMD
+eyJoaXN0b3J5IjpbNjQzNjU2NzU3LDEzMTQxMzU0NjQsODUxMD
 Q4NjEzXX0=
 -->
