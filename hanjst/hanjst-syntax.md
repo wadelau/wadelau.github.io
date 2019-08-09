@@ -101,13 +101,18 @@ Besides of so many built-in JavaScript functions, developers are encouraged to m
 
 An example is attached below.
 
+Define the custom function in JavaScript：
 ```javascript
 function foo(x, y){
 	return x = x + y;
 }
 ```
-
+Call it in HTML written in Hanjst template language:
 ```html
+<!-- display a custom function result -->
+{$a=3}
+{$b=5}
+
 
 ```
 
@@ -120,5 +125,5 @@ function foo(x, y){
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyNTEyNzM5XX0=
+eyJoaXN0b3J5IjpbLTUxMzY0NDg2Ml19
 -->
