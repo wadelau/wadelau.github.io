@@ -14,10 +14,10 @@ dddd
 ----
 [Back to Top](/hanjst/hanjst-variable)
 
-[Previous](./hanjst-debug) ... [Next](./hanjst-variable)
+[Previous](./hanjst-syntax) ... [Next](./hanjst-function)
 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDIzNjM0NzIsODUxMDQ4NjEzXX0=
+eyJoaXN0b3J5IjpbMTMxNDEzNTQ2NCw4NTEwNDg2MTNdfQ==
 -->
