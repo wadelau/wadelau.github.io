@@ -126,7 +126,7 @@ The template lines will output as below.
 </p>
 ```
 
-Regarding to the comparing operator, 
+Regarding to the comparing operator, custom 
 
 
 ---
@@ -153,6 +153,6 @@ Regarding to the comparing operator,
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODM0MDgzNCw3MjI1NjQ3MDEsLTQ5OD
+eyJoaXN0b3J5IjpbLTg5Mjc4MjY2NSw3MjI1NjQ3MDEsLTQ5OD
 k4OTk5NywtMTMxNzE1ODQwNiwtMTA3NzA4MDkyMF19
 -->
