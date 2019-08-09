@@ -1,10 +1,13 @@
 # [Hanjst](/hanjst/index)
-## Functions
+## Functions, Part-1
 ### Built-in Functions
 
 As we listed in previous section, there are so many built-in functions in JavaScript and Hanjst. Those various functions almost cover every aspects of programming in template language.
 
 Hanjst has the follow directive built-in functions which consists of basic methods and backbone of the template language and its engine.
+
+
+
 
 ### Custom Functions
 ....
@@ -23,6 +26,5 @@ Hanjst has the follow directive built-in functions which consists of basic metho
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTgzMzU4NzEsLTEwNzcwODA5MjBdfQ
-==
+eyJoaXN0b3J5IjpbNTE3NjgxOTg0LC0xMDc3MDgwOTIwXX0=
 -->
