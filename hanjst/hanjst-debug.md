@@ -136,11 +136,11 @@ Attention! It is worthy to be noted! Hanjst turns on JavaScript's Strict mode, w
 ----
 [Back to Top](/hanjst/hanjst-debug)
 
-[Previous](./hanjst-config) ... [Next](./hanjst)
+[Previous](./hanjst-config) ... [Next](./hanjst-syntax)
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NzU3OTg0NiwtMTA5ODUyNzkwOCwtNT
-Y0MjgyNCwzOTk5NTg5MTAsLTEwMDQzNDQ2MjYsMjE4NzAxOTU2
-LDc3NTgxNDkwXX0=
+eyJoaXN0b3J5IjpbLTE1MjYzOTcyMjAsLTEwOTg1Mjc5MDgsLT
+U2NDI4MjQsMzk5OTU4OTEwLC0xMDA0MzQ0NjI2LDIxODcwMTk1
+Niw3NzU4MTQ5MF19
 -->
