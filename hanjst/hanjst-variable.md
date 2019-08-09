@@ -4,7 +4,7 @@
 
 Hanjst variables come from JSON data which being generated from its server response via HTTP request.
 
-Variable n
+Variable names are actually the key names in JSON data. Therefore, the main source to define a variable in Hanjst is server-side, that is to say, declaring what will be output to clients and d
 
 
 ### Modifiers
@@ -24,6 +24,6 @@ Variable n
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODIxMjIwLDEzMTQxMzU0NjQsODUxMD
-Q4NjEzXX0=
+eyJoaXN0b3J5IjpbLTI0MTczMTY2MCwxMzE0MTM1NDY0LDg1MT
+A0ODYxM119
 -->
