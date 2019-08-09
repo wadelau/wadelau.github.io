@@ -91,7 +91,9 @@ Hanjst functions are all functions of JavaScript. Reversely, all JavaScript func
 
 #### Built-in Functions
 
-As stated above, all built-in functions in JavaScript are accessible in Hanjst template run-time, so ther
+As stated above, all built-in functions in JavaScript are accessible in Hanjst template run-time, so there too many to iterate the list.
+
+See [MDN JavaScript Docs online](https://developer.mozilla.org/en-US/docs/Web/JavaScript) for detailed instructions and references.
 
 #### Custom Functions
 
@@ -103,5 +105,5 @@ As stated above, all built-in functions in JavaScript are accessible in Hanjst t
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1NjI0NzNdfQ==
+eyJoaXN0b3J5IjpbLTcwNTcxMjM3MV19
 -->
