@@ -18,7 +18,7 @@ Here is an example of `for`:
 {$myArr=[1,2,3]}
 <ul>
 {for $i in $myArr}
-	<li>{$i}</li>
+	<li>{$i}: {$myArr[$i]}</li>
 {forelse}
 	<li>No data.<li>
 {/for}
@@ -27,7 +27,11 @@ Here is an example of `for`:
 The template lines will output as below.
 
 ```html
-
+<ul>
+    <li>0: 1</li>
+    <li>1: 2</li>
+    <li>2: 3</li>
+</ul>
 ```
 
 
@@ -54,5 +58,5 @@ The template lines will output as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2MTE0NTAyLC0xMDc3MDgwOTIwXX0=
+eyJoaXN0b3J5IjpbMTY2Njk5MzQ2OSwtMTA3NzA4MDkyMF19
 -->
