@@ -36,9 +36,15 @@ When all of these are ready, computing  and replacements are going on each block
 
 ### Variables
 
-Hanjst template variables start with the **$dollar** sign. They can contain numbers, letters and underscores, just like a variable in [JavaScript](https://www.javascript.com). You can reference arrays by index numerically or non-numerically. Also reference object properties and methods.
+Hanjst template variables start with the **$dollar** sign as default. They can contain numbers, letters and underscores, just like a variable in [JavaScript](https://www.javascript.com). You can reference arrays by index numerically or non-numerically. Also reference object properties and methods.
 
 Some other template languages also defined a variable in this way, e.g. [PHP](php.net) or [Smarty](smarty.net).
+
+{$foo}
+>display a variable
+
+{$foo[1]}
+>display the 2nd element of a zero-indexed array
 
 
 
@@ -57,5 +63,5 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA2NDc1NDldfQ==
+eyJoaXN0b3J5IjpbLTIwMzk3MjM5MzRdfQ==
 -->
