@@ -68,7 +68,7 @@ Depends on whether a variable is global or local, it can be declared in any plac
 	{$news['title']}
 {/foreach}
 ```
-
+#### Conflicts with Third Party
 
 ### Modifiers
 ....
@@ -87,6 +87,6 @@ Depends on whether a variable is global or local, it can be declared in any plac
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQxMjMxNTYsMTMxNDEzNTQ2NCw4NT
-EwNDg2MTNdfQ==
+eyJoaXN0b3J5IjpbOTQ4OTc1ODE2LDEzMTQxMzU0NjQsODUxMD
+Q4NjEzXX0=
 -->
