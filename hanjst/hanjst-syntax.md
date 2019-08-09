@@ -36,7 +36,10 @@ When all of these are ready, computing  and replacements are going on each block
 
 ### Variables
 
-Template variables start with the **$dollar** sign. They can contain numbers, letters and underscores, just like a variable in [JavaScript](https://www.javascript.com). You can reference arrays by index numerically or non-numerically. Also reference object properties and methods.
+Hanjst template variables start with the **$dollar** sign. They can contain numbers, letters and underscores, just like a variable in [JavaScript](https://www.javascript.com). You can reference arrays by index numerically or non-numerically. Also reference object properties and methods.
+
+Some other template languages also defined a variable in this way, e.g. [PHP](php.net) or [Smarty](smarty.net).
+
 
 
 
@@ -54,5 +57,5 @@ Template variables start with the **$dollar** sign. They can contain numbers, le
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3NjcwNDg4XX0=
+eyJoaXN0b3J5IjpbLTIwNDA2NDc1NDldfQ==
 -->
