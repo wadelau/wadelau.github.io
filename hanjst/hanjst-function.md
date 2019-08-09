@@ -170,6 +170,17 @@ Just a few lines of examples.
 </ul>
 ```
 
+The expected output will be list as below.
+
+```html
+<ul>
+	<li> line 0 </li>
+	<li> line 1 </li>
+	<li> line 2 </li>
+	<li> line 3 </li>
+	<li> line 4 </li>
+</ul>
+```
 
 ---
 
@@ -190,6 +201,7 @@ Just a few lines of examples.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTQ0MTQ5Niw3MjI1NjQ3MDEsLTQ5OD
-k4OTk5NywtMTMxNzE1ODQwNiwtMTA3NzA4MDkyMF19
+eyJoaXN0b3J5IjpbLTExMzU2Mjg3NDcsMTY1OTQ0MTQ5Niw3Mj
+I1NjQ3MDEsLTQ5ODk4OTk5NywtMTMxNzE1ODQwNiwtMTA3NzA4
+MDkyMF19
 -->
