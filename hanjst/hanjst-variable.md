@@ -59,14 +59,15 @@ It is obvious that a variable  from server-side has a long way to walk through. 
 Depends on whether a variable is global or local, it can be declared in any place in Hanjst whenever or wherever.
 
 ```html
+<!-- globally -->
 {$i=0}
 {$myTime=(new Date()).getTime()}
 
+<!-- locally -->
 {foreach $newsList as $news}
 	{$news['title']}
 {/foreach}
 ```
-
 
 
 ### Modifiers
@@ -86,6 +87,6 @@ Depends on whether a variable is global or local, it can be declared in any plac
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzM0MzQwMDgsMTMxNDEzNTQ2NCw4NT
+eyJoaXN0b3J5IjpbLTE0NTQxMjMxNTYsMTMxNDEzNTQ2NCw4NT
 EwNDg2MTNdfQ==
 -->
