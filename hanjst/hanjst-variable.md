@@ -18,11 +18,13 @@ map.put("userName", "Alice");
 //- call Hanjst server-side object
 Hanjst hanjst = new Hanjst();
 String jsonData = hanjst.map2Json(map);
+jsonData = "<div id=\"Hanjstjsondata\">"+jsonData+"</div>";
 
 //- append data to output
-out.println()
+out.println(jsonData);
 ```
 
+Hopeful
 
 
 
@@ -43,6 +45,6 @@ out.println()
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyMzIwMjU5LDEzMTQxMzU0NjQsODUxMD
-Q4NjEzXX0=
+eyJoaXN0b3J5IjpbLTE2MDg2OTU0MTQsMTMxNDEzNTQ2NCw4NT
+EwNDg2MTNdfQ==
 -->
