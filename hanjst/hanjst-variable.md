@@ -48,7 +48,7 @@ The template content will be finally translated into pure HTML sentence.
 <p>Hello, Alice! You are welcome.</p>
 ```
 
-
+This is the travelling of a variable in Hanjst.
 
 
 
@@ -69,6 +69,6 @@ The template content will be finally translated into pure HTML sentence.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODg4MjM1NCwxMzE0MTM1NDY0LDg1MT
-A0ODYxM119
+eyJoaXN0b3J5IjpbNzM3MjQ3NzUwLDEzMTQxMzU0NjQsODUxMD
+Q4NjEzXX0=
 -->
