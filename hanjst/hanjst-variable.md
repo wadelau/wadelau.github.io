@@ -87,6 +87,10 @@ See [Standard built-in objects](https://developer.mozilla.org/en-US/docs/Web/Jav
 Examples are demonstrated below.
 
 ```html
+{$str='Hello World!'}
+
+{$str.substring(0,5)}
+{$c}
 
 ```
  
@@ -107,6 +111,6 @@ Examples are demonstrated below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1NzUzODk1LDEzMzg0Njk1MjYsLTcyNj
-g0NjE1NCwxMzE0MTM1NDY0LDg1MTA0ODYxM119
+eyJoaXN0b3J5IjpbLTE5MTc3ODQyMzUsMTMzODQ2OTUyNiwtNz
+I2ODQ2MTU0LDEzMTQxMzU0NjQsODUxMDQ4NjEzXX0=
 -->
