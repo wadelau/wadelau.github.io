@@ -70,11 +70,11 @@ Depends on whether a variable is global or local, it can be declared in any plac
 ```
 #### Conflicts with Third Parties
 
-As shown above, Hanjst will parse all keys in JSON data into current JavaScript run-time. There is possible that too many global variables will make conflicts with third parties.
+As shown above, Hanjst will parse all keys in JSON data into variable names in current JavaScript run-time. There is possible that too many global variables will make conflicts with third parties.
 
 For example, the $dollar sign, the single sign is set to a global variable designated into jQuery. If a page loaded both jQuery and Hanjst, potential conflicts may exist.
 
-
+Bearing this in mind, we have added validation in process of the parsing works. When any conflict raised, an except
 
 
 ### Modifiers
@@ -94,6 +94,6 @@ For example, the $dollar sign, the single sign is set to a global variable desig
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2NTQzNTAwLDEzMTQxMzU0NjQsODUxMD
-Q4NjEzXX0=
+eyJoaXN0b3J5IjpbLTI2MzYxOTU2NSwxMzE0MTM1NDY0LDg1MT
+A0ODYxM119
 -->
