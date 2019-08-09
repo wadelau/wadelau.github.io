@@ -1,4 +1,4 @@
-# Hanjst
+# [Hanjst](/hanjst/index)
 ## Variables and Modifiers
 ### Variables
 dddd
@@ -19,5 +19,6 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDEzNTQ2NCw4NTEwNDg2MTNdfQ==
+eyJoaXN0b3J5IjpbMzEyMTk3NywxMzE0MTM1NDY0LDg1MTA0OD
+YxM119
 -->
