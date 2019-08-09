@@ -53,11 +53,14 @@ Another example use `for` as `for` in pure JavaScript:
 <ul>
 {foreach $myArr as $i}
 	<li>{$i}: {$myArr[$i]}</li>
-{forelse}
+{foreachelse}
 	<li>No data.<li>
-{/for}
+{/foreach}
 </ul>
 ```
+Another more complicated data structure is used to demonstrate its powerful expression.
+
+
 
 
 3. `{if}`...`{else if}`...`{else}`
@@ -83,5 +86,5 @@ Another example use `for` as `for` in pure JavaScript:
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzM5OTgzNywtMTA3NzA4MDkyMF19
+eyJoaXN0b3J5IjpbMTM0NjcxMjM2MywtMTA3NzA4MDkyMF19
 -->
