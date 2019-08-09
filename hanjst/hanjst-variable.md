@@ -24,7 +24,14 @@ jsonData = "<div id=\"Hanjstjsondata\">"+jsonData+"</div>";
 out.println(jsonData);
 ```
 
-Hopeful
+Hopefully, this will output an HTML as below.
+
+```html
+<div id="Hanjstjsondata">
+	{"userName": "Alice"}
+</div>
+```
+After Hanjst has been triggered by window.onload, 
 
 
 
@@ -45,6 +52,6 @@ Hopeful
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg2OTU0MTQsMTMxNDEzNTQ2NCw4NT
+eyJoaXN0b3J5IjpbLTIwOTUzMTM1OTgsMTMxNDEzNTQ2NCw4NT
 EwNDg2MTNdfQ==
 -->
