@@ -124,7 +124,11 @@ Here is an example to show the chain.
 {$a=3}
 {$b=5}
 {$myFunc($myFunc($a, $b), $myFunc($a, $b))}
-《》
+<!-- output: 3*5 * 3*5 = 225 -->
+
+{$str = "Hello World!"}
+{$str.substring(0}
+
 ```
 
 
@@ -141,7 +145,7 @@ Here is an example to show the chain.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDU2MjM3NywxNjU1NzY0MjcxLDEzMz
-g0Njk1MjYsLTcyNjg0NjE1NCwxMzE0MTM1NDY0LDg1MTA0ODYx
-M119
+eyJoaXN0b3J5IjpbLTQ3NTE5NDQ5LDE2NTU3NjQyNzEsMTMzOD
+Q2OTUyNiwtNzI2ODQ2MTU0LDEzMTQxMzU0NjQsODUxMDQ4NjEz
+XX0=
 -->
