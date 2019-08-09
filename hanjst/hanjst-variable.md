@@ -127,10 +127,11 @@ Here is an example to show the chain.
 <!-- output: 3*5 * 3*5 = 225 -->
 
 {$str = "Hello World!"}
-{$str.substring(0}
-
+{$str.substring(0,5).toLowerCase()}
+<!-- output: hello -->
 ```
 
+---
 
 #### Related works
 
@@ -145,7 +146,7 @@ Here is an example to show the chain.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTE5NDQ5LDE2NTU3NjQyNzEsMTMzOD
-Q2OTUyNiwtNzI2ODQ2MTU0LDEzMTQxMzU0NjQsODUxMDQ4NjEz
-XX0=
+eyJoaXN0b3J5IjpbMTkwMjQ5MTQ2MSwxNjU1NzY0MjcxLDEzMz
+g0Njk1MjYsLTcyNjg0NjE1NCwxMzE0MTM1NDY0LDg1MTA0ODYx
+M119
 -->
