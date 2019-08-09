@@ -132,8 +132,14 @@ For JavaScript part,
 For HTML part,
 
 ```html
-
+<!-- this is a line comment in html -->
 ```
+
+#### Related works
+
+1. [Mozilla Developer Network, Web Docs, JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
 
 ----
 [Back to Top](/hanjst/hanjst-syntax)
@@ -142,5 +148,5 @@ For HTML part,
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NjYxMjk1OF19
+eyJoaXN0b3J5IjpbLTEwMjI5Nzc0MTVdfQ==
 -->
