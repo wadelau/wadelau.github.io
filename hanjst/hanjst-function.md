@@ -88,7 +88,14 @@ This template lines will output pure HTML lines as below.
 ```html
 <ul>
 	<li>
-		<dt>id: 12</dt>			<dt>title: News-Title-12</dt>		</li>	<li>			<dt>id: 34</dt>			<dt>title: News-Title-34</dt>		</li></ul>
+		<dt>id: 12</dt>
+		<dt>title: News-Title-12</dt>
+	</li>
+	<li>
+		<dt>id: 34</dt>
+		<dt>title: News-Title-34</dt>
+	</li>
+</ul>
 ```
 
 ---
@@ -117,6 +124,6 @@ This template lines will output pure HTML lines as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjA4NTY2NiwtMTMxNzE1ODQwNiwtMT
+eyJoaXN0b3J5IjpbLTMyMzgyMjg3MiwtMTMxNzE1ODQwNiwtMT
 A3NzA4MDkyMF19
 -->
