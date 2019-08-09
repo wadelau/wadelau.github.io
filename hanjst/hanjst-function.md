@@ -33,6 +33,11 @@ The template lines will output as below.
     <li>2: 3</li>
 </ul>
 ```
+Another example use `for` as `for` in JavaScript:
+
+```html
+{for $i=0; $}
+```
 
 
 
@@ -58,5 +63,6 @@ The template lines will output as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2Njk5MzQ2OSwtMTA3NzA4MDkyMF19
+eyJoaXN0b3J5IjpbLTE4MDczOTY2NDAsLTEwNzcwODA5MjBdfQ
+==
 -->
