@@ -63,6 +63,10 @@ Another more complicated data structure is used to demonstrate its powerful expr
 
 
 ```html
+{$newsList=[]}
+{$newsList[0]=new Object()}
+{$newsList[0]['id']=12}
+{$newsList[0]['t']=12}
 <ul>
 {foreach $newsList as $p}
 	<li>
@@ -102,6 +106,5 @@ Another more complicated data structure is used to demonstrate its powerful expr
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjU1NjE5OTgsLTEwNzcwODA5MjBdfQ
-==
+eyJoaXN0b3J5IjpbOTA5NjcxMjg5LC0xMDc3MDgwOTIwXX0=
 -->
