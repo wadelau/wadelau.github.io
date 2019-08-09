@@ -97,6 +97,7 @@ See [MDN JavaScript Docs online](https://developer.mozilla.org/en-US/docs/Web/Ja
 
 #### Custom Functions
 
+Besides of so many built-in JavaScript functions, developers are encouraged to make custom objects, classes or functions for specific usages.
 
 ----
 [Back to Top](/hanjst/hanjst-syntax)
@@ -105,5 +106,5 @@ See [MDN JavaScript Docs online](https://developer.mozilla.org/en-US/docs/Web/Ja
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTcxMjM3MV19
+eyJoaXN0b3J5IjpbLTE2NTU4MzUzMDNdfQ==
 -->
