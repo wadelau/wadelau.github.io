@@ -33,13 +33,14 @@ The template lines will output as below.
     <li>2: 3</li>
 </ul>
 ```
-Another example use `for` as `for` in JavaScript:
+Another example use `for` as `for` in pure JavaScript:
 
 ```html
-{for $i=0; $}
+<ul>
+{for($i=0; $i<10; $i++)}
+	<li>{$i}
+{/for}
 ```
-
-
 
 3. {foreach}...{foreachelse}
 4. {if}...{else if}...{else}
@@ -63,6 +64,5 @@ Another example use `for` as `for` in JavaScript:
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDczOTY2NDAsLTEwNzcwODA5MjBdfQ
-==
+eyJoaXN0b3J5IjpbLTE1ODg2MzM5NiwtMTA3NzA4MDkyMF19
 -->
