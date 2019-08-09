@@ -6,7 +6,7 @@ As we listed in the previous section, there are so many built-in functions in Ja
 
 Hanjst has the follow directive built-in functions which consists of basic methods and backbone of the template language and its engine.
 
-1. `{for}`
+**1. `{for}`**
 
 The `{for}` `{forelse}` tag is used to create simple loops. `for` is also the reserved key word in JavaScript.
 
@@ -45,7 +45,7 @@ Another example use `for` as `for` in pure JavaScript:
 ```
 ---
 
-2. `{foreach}`...`{foreachelse}`
+**2. `{foreach}`...`{foreachelse}`**
 
 `{foreach}` is being introduced from Smarty or PHP due to that there is no such function in pure JavaScript.
 `{foreach}` empowers the template in almost nearly in nature language. Here are the same example we showed above, but this time we rewrite it with `{foreach}`.
@@ -105,7 +105,7 @@ According to our statistics from projects, `{foreach}` is heavily-used than any 
 
 ---
 
-3. `{if}`...`{else if}`...`{else}`
+**3. `{if}`...`{else if}`...`{else}`**
 
 `{if}` is very similar with `{if}` in pure JavaScript and both share the same qualifiers to server as comparing operators.
 
@@ -157,7 +157,7 @@ This template lines will yield an output as below.
 
 ---
 
-4. `{while}`...`{whileelse}`
+**4. `{while}`...`{whileelse}`**
 
 `{while}` is simple and easy to understand and to deploy in template lines.
 
@@ -208,7 +208,7 @@ The expected output will be shown as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTIwNTI5NDMsMTY1OTQ0MTQ5Niw3Mj
-I1NjQ3MDEsLTQ5ODk4OTk5NywtMTMxNzE1ODQwNiwtMTA3NzA4
-MDkyMF19
+eyJoaXN0b3J5IjpbLTE3ODQwMTU4ODcsLTEwOTIwNTI5NDMsMT
+Y1OTQ0MTQ5Niw3MjI1NjQ3MDEsLTQ5ODk4OTk5NywtMTMxNzE1
+ODQwNiwtMTA3NzA4MDkyMF19
 -->
