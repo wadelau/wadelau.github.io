@@ -11,6 +11,9 @@ Another way to define a variable in Hanjst is client-side, e.g. define a global 
 Define JSON keys in server-side, for instance in Java:
 
 ```java
+//- define
+HashMap map = new HashMap();
+map.put("userName", "Alice");
 
 ```
 
@@ -34,6 +37,6 @@ Define JSON keys in server-side, for instance in Java:
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTMyNTYyNzUsMTMxNDEzNTQ2NCw4NT
-EwNDg2MTNdfQ==
+eyJoaXN0b3J5IjpbMTcwNTkzMTQ1MywxMzE0MTM1NDY0LDg1MT
+A0ODYxM119
 -->
