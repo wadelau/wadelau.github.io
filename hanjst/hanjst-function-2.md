@@ -1,6 +1,13 @@
 # [Hanjst](/hanjst/index)
 ## Functions, Part-2
-### Built-in Functions
+### Custom Functions
+
+(Continued...)
+
+1. include
+
+2. literal
+
 
 
 
@@ -17,5 +24,5 @@
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyMTI1MjQzXX0=
+eyJoaXN0b3J5IjpbMTQzNTM3OTUyMF19
 -->
