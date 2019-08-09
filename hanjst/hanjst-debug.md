@@ -125,7 +125,7 @@ When Hanjst encounters a syntax error, it throws a readable exception code descr
 
 Based on these error message specific to the line number, the developers can find the error location and make corrections as fast as possible. As shown above, it is indicated that when the template engine performs parsing, it has been found that a variable such as $myAds2 which is undefined on line 405 is used without being initialized prior to being called, so an error is reported.
 
-Attention! It is worth noting! Hanjst turns on JavaScript's Strict mode, which doesn't allow undefined variables!
+Attention! It is worthy to be noted! Hanjst turns on JavaScript's Strict mode, which doesn't allow undefined variables!
 
 ---
 #### Related works
@@ -140,6 +140,7 @@ Attention! It is worth noting! Hanjst turns on JavaScript's Strict mode, which d
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDI4MjQsMzk5OTU4OTEwLC0xMDA0Mz
-Q0NjI2LDIxODcwMTk1Niw3NzU4MTQ5MF19
+eyJoaXN0b3J5IjpbLTEwOTg1Mjc5MDgsLTU2NDI4MjQsMzk5OT
+U4OTEwLC0xMDA0MzQ0NjI2LDIxODcwMTk1Niw3NzU4MTQ5MF19
+
 -->
