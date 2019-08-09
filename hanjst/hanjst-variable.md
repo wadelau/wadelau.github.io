@@ -99,6 +99,21 @@ Examples are demonstrated below.
  
 #### Modifiers with Custom functions
 
+Define a custom function in JavaScript：
+```javascript
+function myFunc(x, y){
+	return x = x * y;
+}
+```
+Call it in HTML written in Hanjst template language:
+```html
+<!-- define variables -->
+{$a=3}
+{$b=5}
+<!-- display a custom function result -->
+{$myFunc($a, $b)}
+<!-- output: 15 -->
+```
 
 #### Related works
 
@@ -113,7 +128,7 @@ Examples are demonstrated below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTg0ODI2NiwxNjU1NzY0MjcxLDEzMz
+eyJoaXN0b3J5IjpbLTQ5NDAwMTE1NywxNjU1NzY0MjcxLDEzMz
 g0Njk1MjYsLTcyNjg0NjE1NCwxMzE0MTM1NDY0LDg1MTA0ODYx
 M119
 -->
