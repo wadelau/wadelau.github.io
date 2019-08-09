@@ -122,7 +122,7 @@ The template lines will output as below.
 
 ```html
 <p>
-	
+	12 is greater than 10!
 </p>
 ```
 
@@ -151,6 +151,6 @@ The template lines will output as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyNTY0NzAxLC00OTg5ODk5OTcsLTEzMT
-cxNTg0MDYsLTEwNzcwODA5MjBdfQ==
+eyJoaXN0b3J5IjpbLTExNjM1MDUxODcsNzIyNTY0NzAxLC00OT
+g5ODk5OTcsLTEzMTcxNTg0MDYsLTEwNzcwODA5MjBdfQ==
 -->
