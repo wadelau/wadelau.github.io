@@ -90,7 +90,10 @@ Examples are demonstrated below.
 {$str='Hello World!'}
 
 {$str.substring(0,5)}
-{$c}
+<!-- output: Hello -->
+
+{$num=0.1234}
+{$parseFloat}
 
 ```
  
@@ -111,6 +114,6 @@ Examples are demonstrated below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc3ODQyMzUsMTMzODQ2OTUyNiwtNz
-I2ODQ2MTU0LDEzMTQxMzU0NjQsODUxMDQ4NjEzXX0=
+eyJoaXN0b3J5IjpbMTE0NjM3MjcwNCwxMzM4NDY5NTI2LC03Mj
+Y4NDYxNTQsMTMxNDEzNTQ2NCw4NTEwNDg2MTNdfQ==
 -->
