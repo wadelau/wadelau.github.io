@@ -46,7 +46,18 @@ Another example use `for` as `for` in pure JavaScript:
 2. `{foreach}`...`{foreachelse}`
 
 `{foreach}` is being introduced from Smarty or PHP due to that there is no such function in pure JavaScript.
-`{foreach}` empowers the template in almost nearly in nature language. Be
+`{foreach}` empowers the template in almost nearly in nature language. Here are the same example we showed above, but this time we rewrite it with `{foreach}`.
+
+```html
+{$myArr=[1,2,3]}
+<ul>
+{foreach $myArr as $i}
+	<li>{$i}: {$myArr[$i]}</li>
+{forelse}
+	<li>No data.<li>
+{/for}
+</ul>
+```
 
 
 3. `{if}`...`{else if}`...`{else}`
@@ -72,5 +83,5 @@ Another example use `for` as `for` in pure JavaScript:
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3Mjc1Mjc4LC0xMDc3MDgwOTIwXX0=
+eyJoaXN0b3J5IjpbLTgxNzM5OTgzNywtMTA3NzA4MDkyMF19
 -->
