@@ -6,10 +6,14 @@ As we listed in previous section, there are so many built-in functions in JavaSc
 
 Hanjst has the follow directive built-in functions which consists of basic methods and backbone of the template language and its engine.
 
-1. {for}
-2. {foreach}...{foreachelse}
-3. {if}...{else if}...{else}
-4. {while}...{whileelse}
+1. `{for}`
+
+The `{for}` `{forelse}` tag is used to create simple loops.
+
+
+3. {foreach}...{foreachelse}
+4. {if}...{else if}...{else}
+5. {while}...{whileelse}
 
 
 ### Custom Functions
@@ -29,6 +33,5 @@ Hanjst has the follow directive built-in functions which consists of basic metho
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTAyMDgwNTksLTEwNzcwODA5MjBdfQ
-==
+eyJoaXN0b3J5IjpbMTA5MzU4NjkxNywtMTA3NzA4MDkyMF19
 -->
