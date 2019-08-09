@@ -28,7 +28,7 @@ Hanjst is intentionally designed to stop further "Reinventing the wheel" for HTM
 ---
 ### Why Template?
 
-See 
+MVC se
 
 ---
 ### Why Hanjst?
@@ -106,10 +106,10 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3MzAxNTcxLDE5MzczNjU1OTcsLTEwNj
-AwMzU0NzQsLTc0OTY3NzExNywtMTgwMTY1MzI0MSwtNDYxMzk4
-MDQxLDE4MzUyMjcwMTAsNzEyMDY1MzA5LC0yMzQzNjQ3NDAsNT
-M1MTUyMjAwLC04NDE1MjI5NTgsMTUyNDAyODgsLTQ3NTI2MTg4
-MSwxMjA5Njc3ODg1LDgwMjA4NTgzNCwtNjk4NTAxODc2LC05Mz
-MzMDQ0MzNdfQ==
+eyJoaXN0b3J5IjpbMTM3MzU0MTU1MCwxOTM3MzY1NTk3LC0xMD
+YwMDM1NDc0LC03NDk2NzcxMTcsLTE4MDE2NTMyNDEsLTQ2MTM5
+ODA0MSwxODM1MjI3MDEwLDcxMjA2NTMwOSwtMjM0MzY0NzQwLD
+UzNTE1MjIwMCwtODQxNTIyOTU4LDE1MjQwMjg4LC00NzUyNjE4
+ODEsMTIwOTY3Nzg4NSw4MDIwODU4MzQsLTY5ODUwMTg3NiwtOT
+MzMzA0NDMzXX0=
 -->
