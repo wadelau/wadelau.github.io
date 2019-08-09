@@ -102,11 +102,15 @@ This template lines will output pure HTML lines as below.
 
 3. `{if}`...`{else if}`...`{else}`
 
-`{if}` is very similar with `{if}` in pure JavaScript and both share the same qualifiers to server as comparing sig
+`{if}` is very similar with `{if}` in pure JavaScript and both share the same qualifiers to server as comparing operators.
 
+
+---
 
 4. `{while}`...`{whileelse}`
 
+
+---
 
 ### Custom Functions
 ....
@@ -125,6 +129,6 @@ This template lines will output pure HTML lines as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzI3NTQ4MDksLTEzMTcxNTg0MDYsLT
-EwNzcwODA5MjBdfQ==
+eyJoaXN0b3J5IjpbLTQ5ODk4OTk5NywtMTMxNzE1ODQwNiwtMT
+A3NzA4MDkyMF19
 -->
