@@ -30,7 +30,7 @@ Hanjst is intentionally designed to stop further "Reinventing the wheel" for HTM
 
 MVC separation, see  [ASP.NET MVC Pattern](https://dotnet.microsoft.com/apps/aspnet/mvc) .
 
-Clear and clean codes, see Why would I use Smarty .
+Clear and clean codes, see [Why would I use Smarty](https://www.smarty.net/why_use) .
 
 ---
 ### Why Hanjst?
@@ -75,7 +75,7 @@ From the point of view of [GWA2](/gwa2/index), we would need a template engine t
 
 That's to say, we cannot use Smarty for GWA2 in PHP and Velocity for GWA2 in Java.
 
-There do have a few of template languages and engines which meet the desirable requirements, but there are all proprietary software sets and cannot be used in open source as GWA2.
+There do have a few of template languages and engines which meet the desirable requirements, but most of them are proprietary software sets and cannot be used in open source as GWA2.
 
 Therefore, the searching space left for us is limited and an encouraged option is to create a new template language and engine.     
  
@@ -108,7 +108,7 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODcyNDk2NiwxOTM3MzY1NTk3LC0xMD
+eyJoaXN0b3J5IjpbMTIwODc2Njk3NiwxOTM3MzY1NTk3LC0xMD
 YwMDM1NDc0LC03NDk2NzcxMTcsLTE4MDE2NTMyNDEsLTQ2MTM5
 ODA0MSwxODM1MjI3MDEwLDcxMjA2NTMwOSwtMjM0MzY0NzQwLD
 UzNTE1MjIwMCwtODQxNTIyOTU4LDE1MjQwMjg4LC00NzUyNjE4
