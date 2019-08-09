@@ -40,8 +40,8 @@ Hanjst template variables start with the **$dollar** sign as default. They can c
 
 Some other template languages also defined a variable in this way, e.g. [PHP](php.net) or [Smarty](smarty.net).
 
-1. Displaying
 ---
+1. Displaying
 {$foo}
 >display a variable
 
@@ -60,8 +60,9 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 {\$foo.\$bar.\$car}
 >display multiple dimension array
 
-2. Declaring
 ---
+2. Declaring
+
 {\$i=0}
 {\$s='abc'}
 >define a variable
@@ -70,10 +71,13 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 >define an array
 
 {$myList=new Object()}
-
+>define an object
 
 
 ### Functions
+
+Hanjst functions are all functions of JavaScript. Reversely, all JavaScript functions and objects are all accessible to current Hanjst.
+
 
 #### Built-in Functions
 
@@ -87,5 +91,5 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTU4OTQ4M119
+eyJoaXN0b3J5IjpbLTQ5OTg2NjQ2MV19
 -->
