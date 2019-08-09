@@ -154,7 +154,22 @@ This template lines will yield an output as below.
 
 4. `{while}`...`{whileelse}`
 
-`
+`{while}` is simple and easy to understand and to deploy in template lines.
+
+Just a few lines of examples.
+
+```html
+<ul>
+{while $i<5}
+    <li> line {$i} </li>
+    {$i++}
+{whileelse}
+        <li>Out of While.</li>
+{/while}
+</span>
+</ul>
+```
+
 
 ---
 
@@ -175,6 +190,6 @@ This template lines will yield an output as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NzA2MTcwMyw3MjI1NjQ3MDEsLTQ5OD
-k4OTk5NywtMTMxNzE1ODQwNiwtMTA3NzA4MDkyMF19
+eyJoaXN0b3J5IjpbLTE2MjA2ODMzMDksNzIyNTY0NzAxLC00OT
+g5ODk5OTcsLTEzMTcxNTg0MDYsLTEwNzcwODA5MjBdfQ==
 -->
