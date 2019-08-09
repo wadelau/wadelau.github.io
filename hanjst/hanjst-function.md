@@ -2,7 +2,7 @@
 ## Functions, Part-1
 ### Built-in Functions
 
-As we listed in previous section, there are so many built-in functions in JavaScript and Hanjst. Those various functions almost cover every single aspect of programming in template language.
+As we listed in the previous section, there are so many built-in functions in JavaScript and Hanjst. Those various functions almost cover every single aspect of programming in template language.
 
 Hanjst has the follow directive built-in functions which consists of basic methods and backbone of the template language and its engine.
 
@@ -170,7 +170,7 @@ Just a few lines of examples.
 </ul>
 ```
 
-The expected output will be list as below.
+The expected output will be shown as below.
 
 ```html
 <ul>
@@ -185,7 +185,8 @@ The expected output will be list as below.
 ---
 
 ### Custom Functions
-....
+
+(To be continued...)
 
 
 #### Related works
@@ -196,12 +197,12 @@ The expected output will be list as below.
 ----
 [Back to Top](/hanjst/hanjst-function)
 
-[Previous](./hanjst-variable) ... [Next](./)
+[Previous](./hanjst-variable) ... [Next](./hanjst-function-2)
 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzU2Mjg3NDcsMTY1OTQ0MTQ5Niw3Mj
+eyJoaXN0b3J5IjpbLTE4ODgwMTU4NTksMTY1OTQ0MTQ5Niw3Mj
 I1NjQ3MDEsLTQ5ODk4OTk5NywtMTMxNzE1ODQwNiwtMTA3NzA4
 MDkyMF19
 -->
