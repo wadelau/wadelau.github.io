@@ -115,6 +115,13 @@ Call it in HTML written in Hanjst template language:
 <!-- output: 15 -->
 ```
 
+### Modifiers Chain
+
+JavaScript allow function chain, so it is easy to use for Hanjst modifiers.
+
+
+
+
 #### Related works
 
 1. [Hanjst Demo Page](https://ufqi.com/dev/hanjst/) .
@@ -128,7 +135,7 @@ Call it in HTML written in Hanjst template language:
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTg1NjYzMywxNjU1NzY0MjcxLDEzMz
-g0Njk1MjYsLTcyNjg0NjE1NCwxMzE0MTM1NDY0LDg1MTA0ODYx
-M119
+eyJoaXN0b3J5IjpbLTEyNjEwOTM3MDgsMTY1NTc2NDI3MSwxMz
+M4NDY5NTI2LC03MjY4NDYxNTQsMTMxNDEzNTQ2NCw4NTEwNDg2
+MTNdfQ==
 -->
