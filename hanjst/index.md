@@ -18,7 +18,7 @@
 # Hanjst for Templates Designers
 ## [Basic Syntax](/hanjst/hanjst-syntax)
 ## [Variables and Modifiers](/hanjst/hanjst-variable)
-## Functions
+## [Functions](/hanjst/hanjst-function)
 ### Built-in Functions
 ### Custom Functions
 
@@ -42,5 +42,5 @@
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxMDQ4NjEzXX0=
+eyJoaXN0b3J5IjpbMTc1MTE0MzQzNSw4NTEwNDg2MTNdfQ==
 -->
