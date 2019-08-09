@@ -42,7 +42,7 @@ Han JavaScript Template.
 ![Hanjst Logo](http://ufqi.com/blog/wp-content/uploads/2019/06/hanjst-logo.201901.jpg)
 
 ### [Hanjst Overview](/hanjst/what-is-hanjst)
-### Hanjst for Template Designers
+### [Hanjst for Template Designers](/hanjst/hanjst-syntax)
 ### Hanjst for Back-end Developers
 
 
@@ -53,9 +53,9 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6ICdHV0EyLCBnTUlTIGFuZC
 BIYW5qc3QnXG5hdXRob3I6ICdYZW54aW4sIFdhZGVsYXUnXG50
 YWdzOiAnR1dBMiwgZ01JUywgSGFuanN0LCDlkInlqIPlhZQsIO
 WQieWvhuaWrywg5rGJ5ZCJ5pav54m5J1xuZGF0ZTogJzIwMTkt
-MDgtMDgnXG4iLCJoaXN0b3J5IjpbMTMwMTkwOTcyMiwyMTQ3ND
-kzNzYsLTE1OTIxOTE0MzIsLTUyNzU4MjQzMSwtMTQxODU4NDc3
-NSwtMTI0MzA1OTAwNCw1MzYwMjM1MCw5ODg0MTQyMTAsLTQ1Mj
-M1ODUxNCwtMTUwODg5NzQzMCwtNjEzNDExNjc0LDEyNzU3MzUx
-NDldfQ==
+MDgtMDgnXG4iLCJoaXN0b3J5IjpbLTU2MDczNDU5NywxMzAxOT
+A5NzIyLDIxNDc0OTM3NiwtMTU5MjE5MTQzMiwtNTI3NTgyNDMx
+LC0xNDE4NTg0Nzc1LC0xMjQzMDU5MDA0LDUzNjAyMzUwLDk4OD
+QxNDIxMCwtNDUyMzU4NTE0LC0xNTA4ODk3NDMwLC02MTM0MTE2
+NzQsMTI3NTczNTE0OV19
 -->
