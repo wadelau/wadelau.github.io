@@ -2,6 +2,12 @@
 ## Basic Syntax
 ### Hello World
 
+Let's make a start with "Hello World".
+
+```html
+```
+
+
 ### Variables
 
 ### Functions
@@ -13,5 +19,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5MTMwMzY3XX0=
+eyJoaXN0b3J5IjpbMjU2NzcyMjc2XX0=
 -->
