@@ -1,8 +1,17 @@
 # [Hanjst](/hanjst/index)
-## Basic
-### IsDebug Directive
+## Basic Syntax
+### Hello World
+
+### Variables
+
+### Functions
+
+#### Built-in Functions
+
+#### Custom Functions
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzQ0NTEzXX0=
+eyJoaXN0b3J5IjpbOTM5MTMwMzY3XX0=
 -->
