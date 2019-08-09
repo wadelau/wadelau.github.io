@@ -2,13 +2,19 @@
 ## Functions, Part-1
 ### Built-in Functions
 
-As we listed in previous section, there are so many built-in functions in JavaScript and Hanjst. Those various functions almost cover every aspects of programming in template language.
+As we listed in previous section, there are so many built-in functions in JavaScript and Hanjst. Those various functions almost cover every single aspect of programming in template language.
 
 Hanjst has the follow directive built-in functions which consists of basic methods and backbone of the template language and its engine.
 
 1. `{for}`
 
-The `{for}` `{forelse}` tag is used to create simple loops.
+The `{for}` `{forelse}` tag is used to create simple loops. `for` is also the reserved key word in JavaScript.
+
+`{forelse}` is executed when the loop is not iterated.
+
+```html
+{}
+```
 
 
 3. {foreach}...{foreachelse}
@@ -33,5 +39,5 @@ The `{for}` `{forelse}` tag is used to create simple loops.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzU4NjkxNywtMTA3NzA4MDkyMF19
+eyJoaXN0b3J5IjpbMTgwNDcwMTQ4NCwtMTA3NzA4MDkyMF19
 -->
