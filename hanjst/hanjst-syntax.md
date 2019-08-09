@@ -62,8 +62,15 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 
 2. Declaring
 ---
-{$i=0}
-{$s='abc'}
+{\$i=0}
+{\$s='abc'}
+>define a variable
+
+{\$myArr=[]}
+>define an array
+
+{$myList=new Object()}
+
 
 
 ### Functions
@@ -80,5 +87,5 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MzU2MDA0NV19
+eyJoaXN0b3J5IjpbMTQ3NTU4OTQ4M119
 -->
