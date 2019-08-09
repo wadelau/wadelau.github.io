@@ -16,6 +16,7 @@ Here is an example of `for`:
 
 ```html
 {$myArr=[1,2,3]}
+
 <ul>
 {for $i in $myArr}
 	<li>{$i}: {$myArr[$i]}</li>
@@ -51,6 +52,7 @@ Another example use `for` as `for` in pure JavaScript:
 
 ```html
 {$myArr=[1,2,3]}
+
 <ul>
 {foreach $myArr as $i}
 	<li>{$i}: {$myArr[$i]}</li>
@@ -70,6 +72,7 @@ Another more complicated data structure is used to demonstrate its powerful expr
 {$newsList[1]=new Object()}
 {$newsList[1]['id']=34}
 {$newsList[1]['title']='News-Title-34'}
+
 <ul>
 {foreach $newsList as $p}
 	<li>
@@ -109,6 +112,7 @@ According to our statistics from projects, `{foreach}` is heavily-used than any 
 ```html
 {$title='Hello Wordl!'}
 {$titleLength=$title.length()}
+
 <p>
 {if $titleLength > 50}
 	{$titleLength} is greater than 50!
@@ -138,6 +142,7 @@ Let's show it in an example.
 
 ```html
 {$user['feedback']=2}
+
 <span {if $user['feedback'] lt 3} class="cls2"{else} class="cls3"{/if}>
 	This is A SPAN with embedded Tpl sentence.
 </span>
@@ -160,6 +165,7 @@ Just a few lines of examples.
 
 ```html
 {$i=0}
+
 <ul>
 {while $i<5}
 	<li> line {$i} </li>
@@ -202,7 +208,7 @@ The expected output will be shown as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODgwMTU4NTksMTY1OTQ0MTQ5Niw3Mj
+eyJoaXN0b3J5IjpbLTEwOTIwNTI5NDMsMTY1OTQ0MTQ5Niw3Mj
 I1NjQ3MDEsLTQ5ODk4OTk5NywtMTMxNzE1ODQwNiwtMTA3NzA4
 MDkyMF19
 -->
