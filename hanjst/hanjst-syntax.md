@@ -27,14 +27,16 @@ Hello World!
 </body>
 </html>
 ```
-Inside the box of Hanjst, it read template data from the element identified by "Hanjstjsondata", and read template sentence from the element of BODY.
+Inside the box of Hanjst, it read template data from the element identified by "**Hanjstjsondata**", and read template sentence from the element of BODY.
 
 If these steps work well, Hanjst tries to load template data into current JavaScript run-time by introducing each key of JSON data as a variable. And Hanjst find each pair of lines enclosed with {...}.
 
-When all of these are ready, replacements and computing are going on each group of   
+When all of these are ready, computing  and replacements are going on each block of codes step by step.   
 
 
 ### Variables
+
+Template variables start with the **$dollar** sign. They can contain numbers, letters and underscores, much like a [PHP variable](http://php.net/language.variables). You can reference arrays by index numerically or non-numerically. Also reference object properties and methods.
 
 ### Functions
 
@@ -50,5 +52,5 @@ When all of these are ready, replacements and computing are going on each group 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzgwNjM5M119
+eyJoaXN0b3J5IjpbLTQ1OTI5NzY4Nl19
 -->
