@@ -31,7 +31,13 @@ Hopefully, this will output an HTML as below.
 	{"userName": "Alice"}
 </div>
 ```
-After Hanjst has been triggered by window.onload, 
+After Hanjst has been triggered by **window.onload**,  the key,  "userName", will be parsed as a variable in Hanjst or JavaScript as below.
+
+```javascript
+$userName = 'Alice';
+```
+
+
 
 
 
@@ -52,6 +58,6 @@ After Hanjst has been triggered by window.onload,
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTUzMTM1OTgsMTMxNDEzNTQ2NCw4NT
+eyJoaXN0b3J5IjpbLTE0NDMzMjY5NTAsMTMxNDEzNTQ2NCw4NT
 EwNDg2MTNdfQ==
 -->
