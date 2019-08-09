@@ -2,7 +2,9 @@
 ## Variables and Modifiers
 ### Variables
 
-Hanjst variables com
+Hanjst variables come from JSON data which being generated from its server response via HTTP request.
+
+
 
 ### Modifiers
 ....
@@ -21,6 +23,6 @@ Hanjst variables com
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzY5NzY4OSwxMzE0MTM1NDY0LDg1MT
+eyJoaXN0b3J5IjpbLTQ1OTgzOTcyMCwxMzE0MTM1NDY0LDg1MT
 A0ODYxM119
 -->
