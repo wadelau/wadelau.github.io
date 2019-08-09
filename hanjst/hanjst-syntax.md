@@ -139,15 +139,15 @@ For HTML part,
 #### Related works
 
 1. [Mozilla Developer Network, Web Docs, JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
+2. [Hanjst Demo Page](https://ufqi.com/dev/hanjst/)
 
 
 ----
 [Back to Top](/hanjst/hanjst-syntax)
 
-[Previous](./hanjst-debug) ... [Next](./)
+[Previous](./hanjst-debug) ... [Next](./hanjst-variable)
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzMxNjA0M119
+eyJoaXN0b3J5IjpbLTIwMDgyODUwMTJdfQ==
 -->
