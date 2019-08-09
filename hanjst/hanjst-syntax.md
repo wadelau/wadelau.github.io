@@ -68,7 +68,8 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 >define a variable
 
 {\$i++}
-{
+{\$i+=2}
+>add 1, or 2 to variable i
 
 {\$myArr=[]}
 >define an array
@@ -100,5 +101,5 @@ Hanjst functions are all functions of JavaScript. Reversely, all JavaScript func
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4OTc2ODU1XX0=
+eyJoaXN0b3J5IjpbNzEyODE4NzgwXX0=
 -->
