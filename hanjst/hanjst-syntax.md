@@ -42,6 +42,7 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 
 ---
 **1. Displaying**
+
 {$foo}
 >display a variable
 
@@ -148,5 +149,5 @@ For HTML part,
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjI5Nzc0MTVdfQ==
+eyJoaXN0b3J5IjpbMTIxNzMxNjA0M119
 -->
