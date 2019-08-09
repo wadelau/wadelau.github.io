@@ -106,8 +106,13 @@ This template lines will output pure HTML lines as below.
 
 ```html
 {$title='Hello Wordl!'}
+{$titleLength=$title.length()}
 <p>
-{if $title.length()}
+{if $titleLength > 50}
+	{$titleLength} 
+{else if $titleLength() > 10}
+{else}
+{/if}
 </p>
 
 ```
@@ -136,6 +141,6 @@ This template lines will output pure HTML lines as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4MzIxMzUsLTQ5ODk4OTk5NywtMTMxNz
-E1ODQwNiwtMTA3NzA4MDkyMF19
+eyJoaXN0b3J5IjpbLTUzNDU1MDMxMiwtNDk4OTg5OTk3LC0xMz
+E3MTU4NDA2LC0xMDc3MDgwOTIwXX0=
 -->
