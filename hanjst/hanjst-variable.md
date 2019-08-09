@@ -42,7 +42,11 @@ Therefore, suppose we have the following Hanjst template file:
 ```html
 <p>Hello, {$userName}! You are welcome.</p>
 ```
+And the template content will be finally translated into pure HTML sentence.
 
+```html
+<p>Hello, Alice! You are welcome.</p>
+```
 
 
 
@@ -65,6 +69,6 @@ Therefore, suppose we have the following Hanjst template file:
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzI2NzcxNywxMzE0MTM1NDY0LDg1MT
+eyJoaXN0b3J5IjpbLTkwNTgzMTc5NCwxMzE0MTM1NDY0LDg1MT
 A0ODYxM119
 -->
