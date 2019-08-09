@@ -88,17 +88,15 @@ Examples are demonstrated below.
 
 ```html
 {$str='Hello World!'}
-
 {$str.substring(0,5)}
 <!-- output: Hello -->
 
-{$num=0.1234}
-{$parseFloat($num)}
-<!-- output: -->
+{$num=123.4}
+{$parseInt($num)}
+<!-- output: 123 -->
 
 ```
  
-
 #### Modifiers with Custom functions
 
 
@@ -115,6 +113,7 @@ Examples are demonstrated below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTc2NDI3MSwxMzM4NDY5NTI2LC03Mj
-Y4NDYxNTQsMTMxNDEzNTQ2NCw4NTEwNDg2MTNdfQ==
+eyJoaXN0b3J5IjpbLTExNTg0ODI2NiwxNjU1NzY0MjcxLDEzMz
+g0Njk1MjYsLTcyNjg0NjE1NCwxMzE0MTM1NDY0LDg1MTA0ODYx
+M119
 -->
