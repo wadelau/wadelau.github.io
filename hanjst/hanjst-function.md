@@ -1,6 +1,7 @@
-# Hanjst
+# [Hanjst](/hanjst/index)
 ## Functions
 ### Built-in Functions
+
 dddd
 ### Custom Functions
 ....
@@ -19,5 +20,5 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxMTQwOTA3XX0=
+eyJoaXN0b3J5IjpbLTEwNzcwODA5MjBdfQ==
 -->
