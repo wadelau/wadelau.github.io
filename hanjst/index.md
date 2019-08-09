@@ -19,8 +19,8 @@
 ## [Basic Syntax](/hanjst/hanjst-syntax)
 ## [Variables and Modifiers](/hanjst/hanjst-variable)
 ## [Functions](/hanjst/hanjst-function)
-### Built-in Functions
-### Custom Functions
+### [Built-in Functions](/hanjst/hanjst-function)
+### [Custom Functions](/hanjst/hanjst-function-2)
 
 # Hanjst for Back-end Developers
 ## Hanjst Class 
@@ -42,5 +42,6 @@
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTE0MzQzNSw4NTEwNDg2MTNdfQ==
+eyJoaXN0b3J5IjpbMjEyNDM2MTkwMCwxNzUxMTQzNDM1LDg1MT
+A0ODYxM119
 -->
