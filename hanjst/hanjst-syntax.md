@@ -7,10 +7,10 @@ Let's make a start with "Hello World".
 ```html
 <html>
 <body>
-Hello {$world}!
+Hello {$user}!
 
 <div id="Hanjstjsondata">
-	{"world":"World", "copyright_year": 2019}
+	{"user":"World", "copyright_year": 2019}
 </div>
 <script type="text/javascript" src="Hanjst.js"></script>
 </body>
@@ -41,5 +41,5 @@ Hello World!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTA1MzUwOF19
+eyJoaXN0b3J5IjpbLTE5ODg3MzYyOThdfQ==
 -->
