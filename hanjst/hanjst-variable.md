@@ -49,7 +49,7 @@ The template content will be finally translated into pure HTML sentence.
 ```
 
 This is the travelling of a variable in Hanjst.
-A simple variable travel thgo
+A simple variable goes through server-side and client, back-end and front-end like this. And any of other variable, like array, object, is also 
 
 
 ### Modifiers
@@ -69,6 +69,6 @@ A simple variable travel thgo
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzNjU2NzU3LDEzMTQxMzU0NjQsODUxMD
+eyJoaXN0b3J5IjpbNTQ5OTUyMTA5LDEzMTQxMzU0NjQsODUxMD
 Q4NjEzXX0=
 -->
