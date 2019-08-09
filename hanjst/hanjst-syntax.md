@@ -27,7 +27,7 @@ Hello World!
 </body>
 </html>
 ```
-Inside the box of Hanjst, it read template data from the element identified by "**Hanjstjsondata**", and read template sentence from the element of BODY.
+Inside the box of Hanjst, it reads template data from the element identified by "**Hanjstjsondata**", and reads template sentence from the element of BODY.
 
 If these steps work well, Hanjst tries to load template data into current JavaScript run-time by introducing each key of JSON data as a variable. And Hanjst find each pair of lines enclosed with {...}.
 
@@ -62,6 +62,8 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 
 2. Declaring
 ---
+{$i=0}
+{$s='abc'}
 
 
 ### Functions
@@ -78,5 +80,5 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODg2NjE1N119
+eyJoaXN0b3J5IjpbMTI5MzU2MDA0NV19
 -->
