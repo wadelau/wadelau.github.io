@@ -10,14 +10,23 @@ Let's make a start with "Hello World".
 Hello {$world}!
 
 <div id="Hanjstjsondata">
-	{"world":"World", "copyright_year": 2018}
+	{"world":"World", "copyright_year": 2019}
 </div>
 <script type="text/javascript" src="Hanjst.js"></script>
 </body>
 </html>
 ```
 
-Hanjst will parse this template and generate a final representation of the page as below.
+Hanjst will parse this template and generate a final representation of the HTML page as below.
+
+```html
+<html>
+<body>
+Hello World!
+
+</body>
+</html>
+```
 
 
 
@@ -32,5 +41,5 @@ Hanjst will parse this template and generate a final representation of the page 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1MDEyNTQwXX0=
+eyJoaXN0b3J5IjpbMTc0NTA1MzUwOF19
 -->
