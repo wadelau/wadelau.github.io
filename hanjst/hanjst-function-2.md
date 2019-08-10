@@ -52,7 +52,17 @@ These extra resources needs to be handled paths and load-order. That is to say, 
 
 2. `{literal}`
 
-`{literal}` allows a block of template lines to be taken literally. This is rare for designers except that we would like to explain Hanjst in details.
+`{literal}` allows a block of template lines to be taken literally. This is rare for designers except that we would like to explain Hanjst in detail with examples.
+
+```html
+<!-- try literal -->
+<div>
+{literal}
+    {if $user['feedback'] == 2}
+        {$user['age']}
+    {/if}
+{/literal}
+```
 
 
 
@@ -72,6 +82,6 @@ These extra resources needs to be handled paths and load-order. That is to say, 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTY4OTMyMzcsLTg4NDU0ODIzLC0yND
-YyMDY2ODddfQ==
+eyJoaXN0b3J5IjpbMjAzNjkwNDQyLC04ODQ1NDgyMywtMjQ2Mj
+A2Njg3XX0=
 -->
