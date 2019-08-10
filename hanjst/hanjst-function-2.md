@@ -10,6 +10,8 @@
 
 The `{include}` tag must have the _`file`_ attribute which contains the template contents, not an actual resource  file path.
 
+`{include}` allows multiple layers in depth, which 
+
 The usage of `{include}` looks like as below.
 
 ```html
@@ -48,7 +50,9 @@ These extra resources needs to be handled paths and load-order. That is to say, 
 
 ---
 
-2. literal
+2. `{literal}`
+
+dd
 
 
 
@@ -56,7 +60,7 @@ These extra resources needs to be handled paths and load-order. That is to say, 
 #### Related works
 
 1. [Hanjst Demo Page](https://ufqi.com/dev/hanjst/)
-
+2. [Hanjst Improvements on JavaScript Run-time](https://ufqi.com/blog/hanjst-javascript-runtime/)
 
 ----
 [Back to Top](/hanjst/hanjst-function)
@@ -66,6 +70,6 @@ These extra resources needs to be handled paths and load-order. That is to say, 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5ODU3NSwtODg0NTQ4MjMsLTI0NjIwNj
-Y4N119
+eyJoaXN0b3J5IjpbNzgzODAxODU2LC04ODQ1NDgyMywtMjQ2Mj
+A2Njg3XX0=
 -->
