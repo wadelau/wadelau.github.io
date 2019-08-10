@@ -77,12 +77,10 @@ These template lines will be shown as original form in final purl HTML elements.
 </div>
 ```
 
+In common and daily usage, `{literal}...{/literal}` tags are normally not necessary.
 
 
-
-
-
-
+---
 
 #### Related works
 
@@ -90,13 +88,13 @@ These template lines will be shown as original form in final purl HTML elements.
 2. [Hanjst Improvements on JavaScript Run-time](https://ufqi.com/blog/hanjst-javascript-runtime/)
 
 ----
-[Back to Top](/hanjst/hanjst-function)
+[Back to Top](/hanjst/hanjst-function-2)
 
-[Previous](./hanjst-variable) ... [Next](./)
+[Previous](./hanjst-function) ... [Next](./)
 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjY4MjE3LC04ODQ1NDgyMywtMjQ2Mj
-A2Njg3XX0=
+eyJoaXN0b3J5IjpbLTE2NDY1OTY3MzYsLTg4NDU0ODIzLC0yND
+YyMDY2ODddfQ==
 -->
