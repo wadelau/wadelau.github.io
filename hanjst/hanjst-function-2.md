@@ -15,6 +15,12 @@ The usage of `{include}` looks like as below.
 ```
 This is an emulator for including templates in the current template. The parameter "file" is pointing to a variable of Hanjst or JavaScript.
 
+A simple example shows this process.
+
+```html
+{$innerTpl='<header class="navi"><a href="#">Homepa</a></header>'}
+```
+
 
 
 ---
@@ -37,5 +43,5 @@ This is an emulator for including templates in the current template. The paramet
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzU2ODQzOSwtMjQ2MjA2Njg3XX0=
+eyJoaXN0b3J5IjpbLTExNjQ1NDIwMTMsLTI0NjIwNjY4N119
 -->
