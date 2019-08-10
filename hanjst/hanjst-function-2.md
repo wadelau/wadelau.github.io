@@ -28,7 +28,18 @@ A simple example shows this process.
 </div>
 ```
 
+These template lines will be parsed into pure HTML contents as below.
 
+```html
+
+<div id="top">
+<header class="navi"><a href="/">Homepage</a></header>
+<div class="main">
+	This is main content.
+</div>
+</div>
+
+```
 
 
 
@@ -52,5 +63,5 @@ A simple example shows this process.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4ODU5MDQzLC0yNDYyMDY2ODddfQ==
+eyJoaXN0b3J5IjpbLTM4MDI4MjYyMSwtMjQ2MjA2Njg3XX0=
 -->
