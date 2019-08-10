@@ -42,7 +42,7 @@ These template lines will be parsed into pure HTML contents as below.
 </div>
 
 ```
-In real and production environments, it is quite sophisticated that there are lots of  
+In real and production environments, it is quite sophisticated that there are lots of key points to be considered. As stated above, it is straightforward to include pure template contents into current template. However, it is not easy to include some c 
 
 
 ---
@@ -65,5 +65,5 @@ In real and production environments, it is quite sophisticated that there are lo
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzUxMjk4NCwtMjQ2MjA2Njg3XX0=
+eyJoaXN0b3J5IjpbLTc2ODI4MDA5NiwtMjQ2MjA2Njg3XX0=
 -->
