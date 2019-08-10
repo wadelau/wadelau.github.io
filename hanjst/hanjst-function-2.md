@@ -15,7 +15,7 @@ The usage of `{include}` looks like as below.
 ```html
 {include file="$innerTemplate"}
 ```
-This is an emulator for including templates in the current template. The parameter "file" is pointing to a variable of Hanjst or JavaScript.
+This is an emulator for including templates in the current template. The parameter "file" is pointing to a variable of Hanjst or JavaScript. Usually, the contents will be organized in server-side and sent to client via HTTP requests.
 
 A simple example shows this process.
 
@@ -44,7 +44,9 @@ These template lines will be parsed into pure HTML contents as below.
 ```
 In real and production environments, it is quite sophisticated that there are lots of key points to be considered. As stated above, it is straightforward to include pure template contents into current template. However, it is not easy to include some contents with extra resources, images, css and JavaScript.
 
-Thes
+These extra resources needs to be handled paths and load-order.
+
+
  
 
 
@@ -68,5 +70,5 @@ Thes
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM0NTUxMDEsLTI0NjIwNjY4N119
+eyJoaXN0b3J5IjpbLTg4NDU0ODIzLC0yNDYyMDY2ODddfQ==
 -->
