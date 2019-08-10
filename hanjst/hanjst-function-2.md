@@ -10,7 +10,7 @@
 
 The `{include}` tag must have the _`file`_ attribute which contains the template contents, not an actual resource  file path.
 
-`{include}` allows multiple layers in depth, which help designers organize template contents in a architectur mode. 
+`{include}` allows multiple layers in depth, which help designers organize template contents in a top-down mode. 
 
 The usage of `{include}` looks like as below.
 
@@ -44,7 +44,7 @@ These template lines will be parsed into pure HTML contents as below.
 </div>
 
 ```
-In real and production environments, it is quite sophisticated that there are lots of key points to be considered. As stated above, it is straightforward to include pure template contents into current template. However, it is not easy to include some contents with extra resources, images, css and JavaScript.
+It is quite sophisticated that there are lots of key points to be considered  in real and production environments. As stated above, it is straightforward to include pure template contents into current template. However, it is not easy to include some contents with extra resources, images, CSS and JavaScript.
 
 These extra resources needs to be handled paths and load-order. That is to say, including here is not only to load pure contents but also to pull all extra resources it points to into the current template.
 
@@ -70,6 +70,6 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyOTcwMzY1LC04ODQ1NDgyMywtMjQ2Mj
-A2Njg3XX0=
+eyJoaXN0b3J5IjpbLTE3MDc2NTg0MTMsLTg4NDU0ODIzLC0yND
+YyMDY2ODddfQ==
 -->
