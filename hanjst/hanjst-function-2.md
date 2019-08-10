@@ -10,7 +10,7 @@
 
 The `{include}` tag must have the _`file`_ attribute which contains the template contents, not an actual resource  file path.
 
-`{include}` allows multiple layers in depth, which 
+`{include}` allows multiple layers in depth, which help designers organize template contents in a architectur mode. 
 
 The usage of `{include}` looks like as below.
 
@@ -70,6 +70,6 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzODAxODU2LC04ODQ1NDgyMywtMjQ2Mj
+eyJoaXN0b3J5IjpbNzAyOTcwMzY1LC04ODQ1NDgyMywtMjQ2Mj
 A2Njg3XX0=
 -->
