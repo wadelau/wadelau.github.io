@@ -6,7 +6,7 @@
 
 1. `{include}`
 
-`{include}` all
+`{include}` allows Hanjst to embed one template file or part of another template into the other template.  That is to say, `{include}` are used for including other template(s) in the current template. Any variables available in the current template are also available within the included template.
 
 
 ---
@@ -29,5 +29,5 @@
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5NDY3MjE0LC0yNDYyMDY2ODddfQ==
+eyJoaXN0b3J5IjpbMTExMDAxNzk5NCwtMjQ2MjA2Njg3XX0=
 -->
