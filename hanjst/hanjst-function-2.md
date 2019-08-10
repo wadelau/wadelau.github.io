@@ -11,8 +11,10 @@
 The usage of `{include}` looks like as below.
 
 ```html
-{include file="$embeddedTemplate"}
+{include file="$innerTemplate"}
 ```
+This is an emulator 
+
 
 
 ---
@@ -35,5 +37,5 @@ The usage of `{include}` looks like as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjE4MDcwNiwtMjQ2MjA2Njg3XX0=
+eyJoaXN0b3J5IjpbMTM3Njc5MDk1NiwtMjQ2MjA2Njg3XX0=
 -->
