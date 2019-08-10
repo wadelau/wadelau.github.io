@@ -56,13 +56,26 @@ These extra resources needs to be handled paths and load-order. That is to say, 
 
 ```html
 <!-- try literal -->
-<div>
+<div class="literal">
 {literal}
     {if $user['feedback'] == 2}
         {$user['age']}
     {/if}
 {/literal}
+</div>
 ```
+These template lines will be shown as original form in final purl HTML elements.
+
+```html
+<!-- try literal -->
+<div class="literal">
+    {if $user['feedback'] == 2}
+        {$user['age']}
+    {/if}
+</div>
+```
+
+
 
 
 
@@ -82,6 +95,6 @@ These extra resources needs to be handled paths and load-order. That is to say, 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjkwNDQyLC04ODQ1NDgyMywtMjQ2Mj
+eyJoaXN0b3J5IjpbODYzMjExNDU5LC04ODQ1NDgyMywtMjQ2Mj
 A2Njg3XX0=
 -->
