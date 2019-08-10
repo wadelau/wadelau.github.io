@@ -44,11 +44,7 @@ These template lines will be parsed into pure HTML contents as below.
 ```
 In real and production environments, it is quite sophisticated that there are lots of key points to be considered. As stated above, it is straightforward to include pure template contents into current template. However, it is not easy to include some contents with extra resources, images, css and JavaScript.
 
-These extra resources needs to be handled paths and load-order. That is to say, including here
-
-
- 
-
+These extra resources needs to be handled paths and load-order. That is to say, including here is not only to load pure contents but also to pull all extra resources it points to into the current template.
 
 ---
 
@@ -70,6 +66,6 @@ These extra resources needs to be handled paths and load-order. That is to say, 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA3OTA5OCwtODg0NTQ4MjMsLTI0Nj
-IwNjY4N119
+eyJoaXN0b3J5IjpbNDI5ODU3NSwtODg0NTQ4MjMsLTI0NjIwNj
+Y4N119
 -->
