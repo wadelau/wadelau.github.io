@@ -18,8 +18,17 @@ This is an emulator for including templates in the current template. The paramet
 A simple example shows this process.
 
 ```html
-{$innerTpl='<header class="navi"><a href="#">Homepa</a></header>'}
+{$innerTpl='<header class="navi"><a href="/">Homepage</a></header>'}
+
+<div id="top">
+{include file="$innerTpl"}
+<div class="main">
+	This is main content.
+</div>
+</div>
 ```
+
+
 
 
 
@@ -43,5 +52,5 @@ A simple example shows this process.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ1NDIwMTMsLTI0NjIwNjY4N119
+eyJoaXN0b3J5IjpbODA4ODU5MDQzLC0yNDYyMDY2ODddfQ==
 -->
