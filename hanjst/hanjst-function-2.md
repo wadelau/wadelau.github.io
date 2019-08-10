@@ -6,7 +6,7 @@
 
 1. `{include}`
 
-`{include}` allows Hanjst to embed one template file or part of another template into the other template.  That is to say, `{include}` are used for including other template(s) in the current template. All variables available in the current template are also available within the included template(s).
+`{include}` allows Hanjst to embed one template file or part of another template into the other template.  That is to say, `{include}` are used for including other template(s) in the current template. All global variables available in the current template are also available within the included template(s).
 
 The `{include}` tag must have the _`file`_ attribute which contains the template contents, not an actual resource  file path.
 
@@ -44,7 +44,7 @@ These template lines will be parsed into pure HTML contents as below.
 ```
 In real and production environments, it is quite sophisticated that there are lots of key points to be considered. As stated above, it is straightforward to include pure template contents into current template. However, it is not easy to include some contents with extra resources, images, css and JavaScript.
 
-These extra resources needs to be handled paths and load-order.
+These extra resources needs to be handled paths and load-order. That is to say, including here
 
 
  
@@ -70,5 +70,6 @@ These extra resources needs to be handled paths and load-order.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDU0ODIzLC0yNDYyMDY2ODddfQ==
+eyJoaXN0b3J5IjpbLTEzMzA3OTA5OCwtODg0NTQ4MjMsLTI0Nj
+IwNjY4N119
 -->
