@@ -8,6 +8,8 @@
 
 `{include}` allows Hanjst to embed one template file or part of another template into the other template.  That is to say, `{include}` are used for including other template(s) in the current template. All variables available in the current template are also available within the included template(s).
 
+The `{include}` tag must have the _`file`_ attribute which contains the template contents, not an actual resource  file path.
+
 The usage of `{include}` looks like as below.
 
 ```html
@@ -63,5 +65,5 @@ These template lines will be parsed into pure HTML contents as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDI4MjYyMSwtMjQ2MjA2Njg3XX0=
+eyJoaXN0b3J5IjpbLTE1MjAxODI4MjQsLTI0NjIwNjY4N119
 -->
