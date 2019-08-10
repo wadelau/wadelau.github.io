@@ -54,6 +54,8 @@ These extra resources needs to be handled paths and load-order. That is to say, 
 
 `{literal}` allows a block of template lines to be taken literally. This is rare for designers except that we would like to explain Hanjst in detail with examples.
 
+Anything within the block of `{literal}...{/literal}`  is not interpreted by Hanjst, but displayed as it is in plain text in the form of Hanjst syntax.
+
 ```html
 <!-- try literal -->
 <div class="literal">
@@ -95,6 +97,6 @@ These template lines will be shown as original form in final purl HTML elements.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzMjExNDU5LC04ODQ1NDgyMywtMjQ2Mj
+eyJoaXN0b3J5IjpbLTUwNjY4MjE3LC04ODQ1NDgyMywtMjQ2Mj
 A2Njg3XX0=
 -->
