@@ -4,9 +4,10 @@
 
 (Continued...)
 
-1. include
+1. `{include}`
 
-dd
+`{include}` all
+
 
 ---
 
@@ -28,5 +29,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjIwNjY4N119
+eyJoaXN0b3J5IjpbNzQ5NDY3MjE0LC0yNDYyMDY2ODddfQ==
 -->
