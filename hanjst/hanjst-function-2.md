@@ -52,7 +52,9 @@ These extra resources needs to be handled paths and load-order. That is to say, 
 
 2. `{literal}`
 
-dd
+`{literal}` allows a block of template lines to be taken literally. This is rare for designers except that we would like to explain Hanjst in details.
+
+
 
 
 
@@ -70,6 +72,6 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDc2NTg0MTMsLTg4NDU0ODIzLC0yND
+eyJoaXN0b3J5IjpbLTExMTY4OTMyMzcsLTg4NDU0ODIzLC0yND
 YyMDY2ODddfQ==
 -->
