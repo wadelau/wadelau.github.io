@@ -29,11 +29,35 @@ The following example shows that we place an placeholder in the position where w
 </body>
 </html>
 ```
+
 Here `HANJST_JSON_DATA` is the placeholder where Hanjst will replace it with actual JSON data in server-side. This can be seen in eg08111105 in previous section.
 
 This is the very first or raw form of Hanjst template file which has not yet handled by Hanjst server-side. It will present another look after the template file has been replaced several times in server-side.
 
-For instance, the template contents (eg08111146)
+For instance, the template contents (eg08111146) in server-side will be replaced as below and sent to the client-side, that is to say, what we see in client-side. (eg08111149)
+
+```html
+<html>
+....
+<body>
+...
+<!-- Hanjst codes bgn-->
+<div id="Hanjstjsondata" style="display:none;">
+	HANJST_JSON_DATA
+</div>
+<script type="text/javascript">
+    window.Hanjst = {
+	    'JsonDataId':'Hanjstjsondata','IsDebug': false
+    }; // optional
+</script>
+<script type="text/javascript" 
+	src="js/Hanjst.js?v=201906171103"></script>
+<noscript>JavaScript Required for Hanjst.</noscript>
+<!-- Hanjst codes end -->
+</body>
+</html>
+```
+
 
 
   
@@ -65,6 +89,6 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzMzMjIwLDE1NjY4MTA3MTcsLTgyNj
-YxNzA3NF19
+eyJoaXN0b3J5IjpbLTE0NTI5NzA4MDksMTU2NjgxMDcxNywtOD
+I2NjE3MDc0XX0=
 -->
