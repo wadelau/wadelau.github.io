@@ -132,7 +132,9 @@ Therefore, the template lines in (eg08111220) will be further replaced with actu
 
 ### Other Replacements
 ---
-Hanjst template files maybe needs to be replaced some other placeholders with specific
+Hanjst template files maybe needs to be replaced some other placeholders with specific keywords, e.g., for SEO considerations, a pages's title needs to be replaced with actual title for current page.
+
+This will be investigated with great details in following sections, i.e., [Search Engine Optimization]
 
 ---
 
@@ -151,6 +153,6 @@ Hanjst template files maybe needs to be replaced some other placeholders with sp
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTcyNzE4MzksNzUxNDcyMjE4LDQ2MD
-U4MjA2MywxNTY2ODEwNzE3LC04MjY2MTcwNzRdfQ==
+eyJoaXN0b3J5IjpbMTkyMDY5NTgwNSw3NTE0NzIyMTgsNDYwNT
+gyMDYzLDE1NjY4MTA3MTcsLTgyNjYxNzA3NF19
 -->
