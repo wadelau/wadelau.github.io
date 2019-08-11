@@ -9,7 +9,7 @@ Variable names are actually the key names in JSON data. Therefore, the main sour
 
 Another way to define a variable in Hanjst is client-side, e.g. define a global or local variable just like a common variable in JavaScript. Furthermore, this is the way to define a function, a class or an object.
 
-Define JSON keys in server-side, for instance in Java:
+Define JSON keys in server-side, for instance in Java as below. (eg08101128)
 
 ```java
 //- define a map
@@ -56,7 +56,7 @@ A simple variable goes through server-side and client, back-end and front-end li
 
 It is obvious that a variable  from server-side has a long way to walk through. But a variable from client-side is lucky and has no such a long walk.
 
-Depends on whether a variable is global or local, it can be declared in any place in Hanjst whenever or wherever.
+Depends on whether a variable is global or local, it can be declared in any place in Hanjst whenever or wherever. (eg08101129)
 
 ```html
 <!-- globally -->
@@ -147,7 +147,7 @@ Here is an example to show the chain.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDc2OTQzLDE2NTU3NjQyNzEsMTMzOD
-Q2OTUyNiwtNzI2ODQ2MTU0LDEzMTQxMzU0NjQsODUxMDQ4NjEz
-XX0=
+eyJoaXN0b3J5IjpbNzE0ODkwMTU3LDE2MjQ3Njk0MywxNjU1Nz
+Y0MjcxLDEzMzg0Njk1MjYsLTcyNjg0NjE1NCwxMzE0MTM1NDY0
+LDg1MTA0ODYxM119
 -->
