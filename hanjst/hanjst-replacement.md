@@ -1,8 +1,14 @@
 # [Hanjst](/hanjst/index)
 ## Hanjst Server-side Replacements
-### Te
+### Templates Directory
+---
+ddd
+
+
+### Multiple Versions
 ---
 
+dd
 
 ---
 
@@ -16,10 +22,10 @@
 
 [Back to Top](/hanjst/hanjst-function-replacement)
 
-[Previous](./hanjst-function-class) ... [Next](./)
+[Previous](./hanjst-class) ... [Next](./)
 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwMTUwNjcwXX0=
+eyJoaXN0b3J5IjpbLTgzMzQwNDY3MV19
 -->
