@@ -33,16 +33,20 @@ Hanjst will replace the static and relative path of the image with `viewdir` whe
 
 ### Scripts
 ---
-ddd
+Functions....
+Before or after,....
 
 #### Third-party library
 ---
-dsd
+Conflicts....
+Async....
 
 
 ### Images
 ---
-Images are recommended in innerTpl, not in main template file as the template contents firstly will be rendered by current browser itself. This will cause `404` errors due to that the paths of images are not well-organized before Hanjst is being
+Images are recommended in innerTpl, not in main template file as the template contents firstly will be rendered by current browser itself. This will cause `404` errors due to that the paths of images are not well-organized before Hanjst is being executed.
+
+
 
 
 
@@ -61,6 +65,6 @@ Images are recommended in innerTpl, not in main template file as the template co
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTY4OTg3MTAsMTk5ODAxMTc0NywtMT
+eyJoaXN0b3J5IjpbLTEyNjg3OTkyNTIsMTk5ODAxMTc0NywtMT
 c1NzQ4MTcxOV19
 -->
