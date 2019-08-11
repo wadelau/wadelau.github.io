@@ -1,3 +1,9 @@
+# [Hanjst](/hanjst/index)
+## Hanjst Server-side Replacements
+### Te
+---
+
+
 ---
 
 #### Related works
@@ -8,12 +14,12 @@
 
 ---
 
-[Back to Top](/hanjst/hanjst-function-class)
+[Back to Top](/hanjst/hanjst-function-replacement)
 
-[Previous](./hanjst-function-class) ... [Next](./hanjst-replacemen)
+[Previous](./hanjst-function-class) ... [Next](./)
 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTEyMTk2MF19
+eyJoaXN0b3J5IjpbOTYwMTUwNjcwXX0=
 -->
