@@ -11,7 +11,9 @@ As described in [JSON homepage](http://json.org),
 >
 >JSON is a text format that is completely language independent but uses conventions that are familiar to programmers of the C-family of languages, including C, C++, C#, Java, JavaScript, Perl, Python, and many others. These properties make JSON an ideal data-interchange language.
 
-Therefore JSON is an ideal data structure for GWA2 with Java, PHP, Perl, Python and Aspx. From a engineer's
+Therefore JSON is an ideal data structure for GWA2 with Java, PHP, Perl, Python and Aspx. From a engineer's perspective, JSON is also easily-understood and clear, clean and concise textual representation.
+
+According to 
 
 
 ### Friendly with JavaScript
@@ -36,5 +38,5 @@ ddddd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzM0NzcyMiwxMzU1MzcwMjM2XX0=
+eyJoaXN0b3J5IjpbLTY2NDI1NTUzNywxMzU1MzcwMjM2XX0=
 -->
