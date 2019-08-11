@@ -76,7 +76,7 @@ For example, the $dollar sign, the single sign is set to a global variable desig
 
 Bearing this in mind, we have added validation in process of the parsing works. When any conflict raised, an exception is being thrown and developers need to fix them before continuing next.
 
-
+---
 ### Modifiers
 
 #### Modifiers with JavaScript built-in functions
@@ -146,7 +146,7 @@ Here is an example to show the chain.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjQ5MTQ2MSwxNjU1NzY0MjcxLDEzMz
-g0Njk1MjYsLTcyNjg0NjE1NCwxMzE0MTM1NDY0LDg1MTA0ODYx
-M119
+eyJoaXN0b3J5IjpbLTI1MzMzNjQ2LDE2NTU3NjQyNzEsMTMzOD
+Q2OTUyNiwtNzI2ODQ2MTU0LDEzMTQxMzU0NjQsODUxMDQ4NjEz
+XX0=
 -->
