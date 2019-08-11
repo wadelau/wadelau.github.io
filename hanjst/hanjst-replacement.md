@@ -112,8 +112,15 @@ The raw template lines will be replaced in server-side with actual paths of the 
 
 ### Multiple Template Versions
 ---
+Furthermore, we have multiple versions for the web application, e.g. desktop version, mobile phone version, mobile pad version, android app or iOS app, etc.
 
-Furthermore, we have multiple versions for the web application, e.g. desktop version, mobile phone version, mobile pad version, android app or iOS app. 
+If so, we have to set every sub directory for each version of the web application.
+
+`view/desktop`
+`view/mobile`
+`view/pad`
+`view/android`
+`` 
 
 ---
 
@@ -132,6 +139,6 @@ Furthermore, we have multiple versions for the web application, e.g. desktop ver
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTc3NzEzMiw0NjA1ODIwNjMsMTU2Nj
+eyJoaXN0b3J5IjpbLTg3ODcwMTM4Niw0NjA1ODIwNjMsMTU2Nj
 gxMDcxNywtODI2NjE3MDc0XX0=
 -->
