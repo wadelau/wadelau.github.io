@@ -110,7 +110,7 @@ out.println(templateContent);
 
 ```
 
-All of these codes can be found in GWA2 in Java in GitHub.
+All of these codes can be found in [GWA2 in Java in GitHub](https://github.com/wadelau/GWA2/blob/master/java/comm/footer.inc.jsp).
 
 A simple flow chat shows the process here.
 
@@ -138,6 +138,6 @@ A simple flow chat shows the process here.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjYwOTg3Nyw3MjU4NDA1OCwxNzA5MT
+eyJoaXN0b3J5IjpbMTExOTI1ODI0MSw3MjU4NDA1OCwxNzA5MT
 MyMTk0LC0xMjU4NzQ5NzI3LDE3MjA1NDY0OTZdfQ==
 -->
