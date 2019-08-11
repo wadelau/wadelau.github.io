@@ -1,5 +1,9 @@
 # [Hanjst](/hanjst/index)
 ## Hanjst Server-side Replacements
+### JSON Data Placeholder
+---
+ddd
+
 ### Templates Directory
 ---
 ddd
@@ -27,5 +31,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzQwNDY3MV19
+eyJoaXN0b3J5IjpbLTgyNjYxNzA3NF19
 -->
