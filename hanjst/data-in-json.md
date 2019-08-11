@@ -11,11 +11,11 @@ As described in [JSON homepage](http://json.org),
 >
 >JSON is a text format that is completely language independent but uses conventions that are familiar to programmers of the C-family of languages, including C, C++, C#, Java, JavaScript, Perl, Python, and many others. These properties make JSON an ideal data-interchange language.
 
-Therefore JSON is an ideal data structure for GWA2 with Java, PHP, Perl, Python and Aspx. From a engineer's perspective, JSON is also easily-understood and clear, clean and concise textual representation.
+Therefore JSON is an ideal data structure for [GWA2](https://ufqi.com/dev/gwa2/) with Java, PHP, Perl, Python and Aspx. From a engineer's perspective, JSON is also easily-understood and clear, clean and concise textual representation.
 
 Even out of GWA2, Hanjst can work well with any other unlisted languages in back-end.
 
-According to JSON homepage, almost every language has available and open source library to transform data in its own structure  
+According to JSON homepage, almost every language has at least one available and open source library to transform data in its own structure from and to JSON. 
 
 
 ### Friendly with JavaScript
@@ -40,5 +40,5 @@ ddddd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjYwODI3NywxMzU1MzcwMjM2XX0=
+eyJoaXN0b3J5IjpbLTE3MzEwNzU0NCwxMzU1MzcwMjM2XX0=
 -->
