@@ -21,12 +21,15 @@ The following example shows that we place an placeholder in the position where w
     'JsonDataId':'Hanjstjsondata','IsDebug': false
     }; // optional
 </script>
-<script type="text/javascript" src="js/Hanjst.js?v=201906171103"></script>
+<script type="text/javascript" 
+	src="js/Hanjst.js?v=201906171103"></script>
 <noscript>JavaScript Required for Hanjst.</noscript>
 <!-- Hanjst codes end -->
 </body>
 </html>
 ```
+Here `HANJST_JSON_DATA` is the placeholder where Hanjst will replace it with actual JSON data fro 
+
   
 
 ### Templates Directory
@@ -56,6 +59,6 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3Nzc3MDA1LDE1NjY4MTA3MTcsLTgyNj
-YxNzA3NF19
+eyJoaXN0b3J5IjpbMTQ2Njg4MDU3NCwxNTY2ODEwNzE3LC04Mj
+Y2MTcwNzRdfQ==
 -->
