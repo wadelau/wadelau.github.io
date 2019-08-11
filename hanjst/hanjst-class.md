@@ -56,7 +56,7 @@ A template file looks like this. (eg08111103)
 
 ```
 
-If all of these work well, we finally generate a pure HTML like this. (eg)
+If all of these work well, we finally generate a pure HTML like this. (eg08111104)
 
 ```html
 ...
@@ -87,7 +87,7 @@ So for each back-end language, it is mandatory to create a class of methods for 
 
 Generally the class has a container, e.g., HashMap, Associative Array, to hold all variables which need to be output at the end of this request.
 
-For instance, in GWA2 Java, a news reader may look like this.
+For instance, in GWA2 Java, a news reader may look like this. (eg08111105)
 
 ```java
 
@@ -110,6 +110,13 @@ out.println(templateContent);
 
 ```
 
+All of these codes can be found in GWA2 in Java in GitHub.
+
+A simple flow chat shows the process here.
+
+
+
+
 
 ---
 
@@ -128,6 +135,6 @@ out.println(templateContent);
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjAwMTYwMzksNzI1ODQwNTgsMTcwOT
-EzMjE5NCwtMTI1ODc0OTcyNywxNzIwNTQ2NDk2XX0=
+eyJoaXN0b3J5IjpbLTI3MTIwMTk3Nyw3MjU4NDA1OCwxNzA5MT
+MyMTk0LC0xMjU4NzQ5NzI3LDE3MjA1NDY0OTZdfQ==
 -->
