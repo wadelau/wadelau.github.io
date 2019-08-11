@@ -3,6 +3,7 @@
 ### Cross Languages of Back-end
 ---
 Hanjst uses JSON for data transition from back-end to front-end.
+
 JSON is **JSON** (JavaScript Object Notation).
 
 As described in [JSON homepage](http://json.org), 
@@ -10,7 +11,7 @@ As described in [JSON homepage](http://json.org),
 >
 >JSON is a text format that is completely language independent but uses conventions that are familiar to programmers of the C-family of languages, including C, C++, C#, Java, JavaScript, Perl, Python, and many others. These properties make JSON an ideal data-interchange language.
 
-
+Therefore JSON is an ideal data structure for GWA2 with Java, PHP, Perl, Python and Aspx. From a engineer's
 
 
 ### Friendly with JavaScript
@@ -35,5 +36,5 @@ ddddd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDE0ODg0OTEsMTM1NTM3MDIzNl19
+eyJoaXN0b3J5IjpbMTIzNzM0NzcyMiwxMzU1MzcwMjM2XX0=
 -->
