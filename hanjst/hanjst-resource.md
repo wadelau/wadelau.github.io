@@ -25,9 +25,11 @@ Given that we have an embedded template lines looks like as below.
 {$innerTpl}
 ```
 
-Hanjst will replace the static and relative path of the image with `viewdir` when parsing the template
+Hanjst will replace the static and relative path of the image with `viewdir` when parsing the $innerTpl. After that, the template lines looks like as below.
 
-
+```html
+<img src="/path-to/view/images/myfav.png" alt=""/>
+```
 
 ### Scripts
 ---
@@ -40,7 +42,7 @@ dsd
 
 ### Images
 ---
-Images are recommended in innerTpl, not in main template file.
+Images are recommended in innerTpl, not in main template file as th
 
 
 
@@ -59,6 +61,6 @@ Images are recommended in innerTpl, not in main template file.
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzgwODI0MTcsMTk5ODAxMTc0NywtMT
-c1NzQ4MTcxOV19
+eyJoaXN0b3J5IjpbODg4Mzc1NDE4LDE5OTgwMTE3NDcsLTE3NT
+c0ODE3MTldfQ==
 -->
