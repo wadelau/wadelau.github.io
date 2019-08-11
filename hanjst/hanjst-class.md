@@ -114,8 +114,10 @@ All of these codes can be found in GWA2 in Java in GitHub.
 
 A simple flow chat shows the process here.
 
-Hanjst server-side (eg08111105)  
-	--> Raw HTML (eg08111102 + 
+**Hanjst server-side** (eg08111105)  
+	--> Raw HTML (eg08111102 + eg08111103)
+	--> **Hanjst client-side**
+	--> Final HTML (eg08111104)
 
 
 
@@ -136,6 +138,6 @@ Hanjst server-side (eg08111105)
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDgxNjE2LDcyNTg0MDU4LDE3MDkxMz
-IxOTQsLTEyNTg3NDk3MjcsMTcyMDU0NjQ5Nl19
+eyJoaXN0b3J5IjpbMTg3NjYwOTg3Nyw3MjU4NDA1OCwxNzA5MT
+MyMTk0LC0xMjU4NzQ5NzI3LDE3MjA1NDY0OTZdfQ==
 -->
