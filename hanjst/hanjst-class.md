@@ -39,6 +39,11 @@ Here we have an example of this kind of JSON.
 
 A template file looks like this.
 
+```html
+...
+<!-- news list sta -->
+{$innerTpl}
+
 ```
 
 
@@ -66,5 +71,5 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDc2MTAzMywxNzIwNTQ2NDk2XX0=
+eyJoaXN0b3J5IjpbNjM4NjYyOTAyLDE3MjA1NDY0OTZdfQ==
 -->
