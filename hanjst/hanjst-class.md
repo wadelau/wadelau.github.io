@@ -2,7 +2,9 @@
 ## Hanjst Class
 ### Backend Overview
 ---
-dddd
+We have switch our default template engine from Smarty to Hanjst.
+
+
 
 
 
@@ -29,5 +31,5 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njk1NTQ2MjhdfQ==
+eyJoaXN0b3J5IjpbMTcyMDU0NjQ5Nl19
 -->
