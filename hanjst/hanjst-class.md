@@ -14,7 +14,7 @@ So we have committed to make this switch happen. Hanjst will be our default temp
 
 Regarding to backend or  server-side for Hanjst, it is only one task to do. The task in server-side is to output a group of key-value pairs in JSON format to client-side.
 
-This preparation for JSON
+This preparation work of JSON can be split into two parts: one is to read all server-side data for business, and the other is to read other embedded template files and 
 
 ### Hanjst Class for Server-side
 ---
@@ -39,5 +39,5 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjcyNTIxMTYsMTcyMDU0NjQ5Nl19
+eyJoaXN0b3J5IjpbLTE0NjI3NzQyNzEsMTcyMDU0NjQ5Nl19
 -->
