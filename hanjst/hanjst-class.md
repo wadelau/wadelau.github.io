@@ -25,14 +25,22 @@ Here we have an example of this kind of JSON.
 "newsList":[
 	{
 		"title":"News-Title-1019",
-		"id":1
+		"id":1019
+	},
+	{
+		"title":"News-Title-2019",
+		"id":2019
 	}
 ],
 "mod":"news",
 "act":"list"
 }
+```
+
+A template file looks like this.
 
 ```
+
 
 
 ### Hanjst Class for Server-side
@@ -58,5 +66,5 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzE3MDE3MSwxNzIwNTQ2NDk2XX0=
+eyJoaXN0b3J5IjpbMTg2NDc2MTAzMywxNzIwNTQ2NDk2XX0=
 -->
