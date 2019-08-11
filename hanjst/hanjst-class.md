@@ -12,7 +12,7 @@ Unfortunately, Smarty4J is a version of about 7-8 years ago, and has not been up
 
 So we have committed to make this switch happen. Hanjst will be our default template engine in GWA2 ecosystem.
 
-Regarding to  
+Regarding to backend or  server-side for Hanjst, it is only one task to do. The task in server-side is tooutput a JSON data
 
 
 ### Hanjst Class for Server-side
@@ -38,5 +38,5 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTQ2MDcwLDE3MjA1NDY0OTZdfQ==
+eyJoaXN0b3J5IjpbMTQ1OTM2MTYyLDE3MjA1NDY0OTZdfQ==
 -->
