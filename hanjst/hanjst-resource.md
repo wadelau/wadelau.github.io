@@ -29,11 +29,11 @@ dsd
 
 ---
 
-[Back to Top](/hanjst/data-in-json)
+[Back to Top](/hanjst/hanjst-resource)
 
-[Previous](./hanjst-replacement) ... [Next](./)
+[Previous](./data-in-json) ... [Next](./)
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc0ODE3MTldfQ==
+eyJoaXN0b3J5IjpbMTk5ODAxMTc0NywtMTc1NzQ4MTcxOV19
 -->
