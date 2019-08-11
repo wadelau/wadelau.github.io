@@ -18,7 +18,7 @@ This preparation work of JSON can be split into two parts: one is to read all se
 
 Here we have an example of this kind of JSON.
 
-
+```javascript
 
 
 
@@ -45,5 +45,5 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NDQ5MTYsMTcyMDU0NjQ5Nl19
+eyJoaXN0b3J5IjpbMzI3NTI1MDExLDE3MjA1NDY0OTZdfQ==
 -->
