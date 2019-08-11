@@ -2,6 +2,7 @@
 ## Data in JSON
 ### Cross Languages of Back-end
 ---
+Hanjst uses JSON for data transition from back-end to front-end.
 
 
 
@@ -28,5 +29,5 @@ ddddd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0NjU1NTI4LDEzNTUzNzAyMzZdfQ==
+eyJoaXN0b3J5IjpbMTIxNDE3MzA2NSwxMzU1MzcwMjM2XX0=
 -->
