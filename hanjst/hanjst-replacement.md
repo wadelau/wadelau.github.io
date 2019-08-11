@@ -30,7 +30,7 @@ The following example shows that we place an placeholder in the position where w
 </html>
 ```
 
-Here `HANJST_JSON_DATA` is the placeholder where Hanjst will replace it with actual JSON data in server-side. This can be seen in eg08111105 in previous section.
+Here `HANJST_JSON_DATA` is the placeholder where Hanjst will replace it with actual JSON data in server-side. This can be seen in [(eg08111105)](./hanjst-class) in previous section.
 
 This is the very first or raw form of Hanjst template file which has not yet handled by Hanjst server-side. It will present another look after the template file has been replaced several times in server-side.
 
@@ -73,7 +73,7 @@ For instance, the template contents (eg08111146) in server-side will be replaced
 </html>
 ```
 
-Hanjst client-side will take the row template contents (eg08111147) and try to parse them into pure and final HTML elements, whi
+Hanjst client-side will take the row template contents (eg08111147) and try to parse them into pure and final HTML elements, which is what we have seen in [(eg08111104)](./hanjst-class) in previous section.
 
 
 
@@ -106,6 +106,6 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODU5ODUxODEsMTU2NjgxMDcxNywtOD
-I2NjE3MDc0XX0=
+eyJoaXN0b3J5IjpbMTQ1MTk5MzM5OSwxNTY2ODEwNzE3LC04Mj
+Y2MTcwNzRdfQ==
 -->
