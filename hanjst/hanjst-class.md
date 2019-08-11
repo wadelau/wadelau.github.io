@@ -92,16 +92,21 @@ For instance, in GWA2 Java, a news reader may look like this.
 ```java
 
 HashMap output = new HashMap();
+
 //- suppose news is initilized
 HashMap newList = news.getList();
 output.put("newsList", newsList);
 output.put("serverTime", Wht.dateFormat((new Date())));
+
 //- suppose hanjst is initilized
 String jsonData = hanjst.map2Json(output);
 String currentTemplateFile = "index.html";
 String jsonDataArea = "HANJST_JSON_DATA";
 String templateContent = hanjst.readTemplate(currentTemplateFile);
 
+//- replacements and display
+templateContent = templateContent.replace(jsonDataArea, jsonData);
+out.println(templateContent);
 
 ```
 
@@ -123,6 +128,6 @@ String templateContent = hanjst.readTemplate(currentTemplateFile);
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5Mjc2NDM3MCw3MjU4NDA1OCwxNzA5MT
+eyJoaXN0b3J5IjpbMTQ3NTIwNDY1NSw3MjU4NDA1OCwxNzA5MT
 MyMTk0LC0xMjU4NzQ5NzI3LDE3MjA1NDY0OTZdfQ==
 -->
