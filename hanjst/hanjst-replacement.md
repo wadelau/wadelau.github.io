@@ -18,7 +18,7 @@ The following example shows that we place an placeholder in the position where w
 </div>
 <script type="text/javascript">
     window.Hanjst = {
-    'JsonDataId':'Hanjstjsondata','IsDebug': false
+	    'JsonDataId':'Hanjstjsondata','IsDebug': false
     }; // optional
 </script>
 <script type="text/javascript" 
@@ -30,6 +30,7 @@ The following example shows that we place an placeholder in the position where w
 ```
 Here `HANJST_JSON_DATA` is the placeholder where Hanjst will replace it with actual JSON data in server-side. This can be seen in eg08111105 in previous section.
 
+This is the very first or raw form of Hanjst template file which has not yet handled by Hanjst server-side.
 
 
   
@@ -61,6 +62,6 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzI4NjcwNjgsMTU2NjgxMDcxNywtOD
+eyJoaXN0b3J5IjpbLTExNDc1ODQ5MDUsMTU2NjgxMDcxNywtOD
 I2NjE3MDc0XX0=
 -->
