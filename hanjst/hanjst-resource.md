@@ -48,8 +48,6 @@ Images are recommended in innerTpl, not in main template file as the template co
 
 
 
-
-
 ---
 
 #### Related works
@@ -65,6 +63,6 @@ Images are recommended in innerTpl, not in main template file as the template co
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg3OTkyNTIsMTk5ODAxMTc0NywtMT
+eyJoaXN0b3J5IjpbLTE2OTg1NDUwODAsMTk5ODAxMTc0NywtMT
 c1NzQ4MTcxOV19
 -->
