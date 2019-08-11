@@ -22,7 +22,14 @@ Here we have an example of this kind of JSON.
 {
 "innerTpl":"<header class=\"navi\"><a href=\"/\">Homepage</a></header>",
 "serverTime":"2019-08-11 01:53:29",
-
+"newsList":[
+	{
+		"title":"News-Title-1019",
+		"id":1
+	}
+],
+"mod":"news",
+"act":"list"
 }
 
 ```
@@ -51,5 +58,5 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDg2NTU1NjUsMTcyMDU0NjQ5Nl19
+eyJoaXN0b3J5IjpbLTY3NzE3MDE3MSwxNzIwNTQ2NDk2XX0=
 -->
