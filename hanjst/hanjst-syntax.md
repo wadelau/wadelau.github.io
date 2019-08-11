@@ -36,11 +36,11 @@ When all of these are ready, computing  and replacements are going on each block
 
 ### Variables
 ---
-Hanjst template variables start with the **$dollar** sign as default. They can contain numbers, letters and underscores, just like a variable in [JavaScript](https://www.javascript.com). You can reference arrays by index numerically or non-numerically. Also reference object properties and methods.
+Hanjst template variables start with the **$dollar** sign as default. They can contain numbers, letters and underscores, just like a variable in [JavaScript](https://www.javascript.com). We can reference arrays by index numerically or non-numerically, and also reference object properties and methods.
 
 Some other template languages also defined a variable in this way, e.g. [PHP](php.net) or [Smarty](smarty.net).
 
-**1. Displaying**
+1. Displaying
 ---
 
 {$foo}
@@ -61,7 +61,7 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 {\$foo.\$bar.\$car}
 >display a multiple dimension array
 
-**2. Declaring**
+*2. Declaring**
 ---
 {\$i=0}
 {\$s='abc'}
@@ -77,8 +77,9 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 {$myList=new Object()}
 >define an object
 
-
+---
 ### Functions
+
 Hanjst functions are all functions of JavaScript. Reversely, all JavaScript functions and objects are all accessible to the current Hanjst.
 
 {$foo()}
@@ -95,6 +96,7 @@ As stated above, all built-in functions in JavaScript are accessible in Hanjst t
 See [MDN JavaScript Docs online](https://developer.mozilla.org/en-US/docs/Web/JavaScript) for detailed instructions and references.
 
 #### Custom Functions
+---
 
 Besides of so many built-in JavaScript functions, developers are encouraged to make custom objects, classes or functions for specific usages.
 
@@ -115,7 +117,7 @@ Call it in HTML written in Hanjst template language:
 {$foo($a, $b)}
 <!-- output: 8 -->
 ```
-
+---
 ### Comments
 
 Comments in Hanjst have two parts.
@@ -134,6 +136,7 @@ For HTML part,
 <!-- this is a line comment in html -->
 ```
 
+---
 #### Related works
 
 1. [Mozilla Developer Network, Web Docs, JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -147,6 +150,5 @@ For HTML part,
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU4MzYyMzQsLTIwMDgyODUwMTJdfQ
-==
+eyJoaXN0b3J5IjpbMTc3MDI4Nzc5NiwtMjAwODI4NTAxMl19
 -->
