@@ -98,7 +98,10 @@ output.put("newsList", newsList);
 output.put("serverTime", Wht.dateFormat((new Date())));
 //- suppose hanjst is initilized
 String jsonData = hanjst.map2Json(output);
-String templateContent = hanjst.readTemplate();
+String currentTemplateFile = "index.html";
+String jsonDataArea = "HANJST_JSON_DATA";
+String templateContent = hanjst.readTemplate(currentTemplateFile);
+
 
 ```
 
@@ -120,6 +123,6 @@ String templateContent = hanjst.readTemplate();
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzcyODMwMTgsNzI1ODQwNTgsMTcwOT
-EzMjE5NCwtMTI1ODc0OTcyNywxNzIwNTQ2NDk2XX0=
+eyJoaXN0b3J5IjpbLTY5Mjc2NDM3MCw3MjU4NDA1OCwxNzA5MT
+MyMTk0LC0xMjU4NzQ5NzI3LDE3MjA1NDY0OTZdfQ==
 -->
