@@ -8,7 +8,7 @@ Regarding to backend or server-side for Hanjst, it is only one task to do. The t
 
 This preparation work of JSON can be split into two parts: one is to read all server-side data for business, and the other is to read other embedded template files and output them as common key-value pairs.
 
-Here we have an example of this kind of JSON from server-side.
+Here we have an example of this kind of JSON from server-side. (eg08111102)
 
 ```javascript
 {
@@ -29,7 +29,7 @@ Here we have an example of this kind of JSON from server-side.
 }
 ```
 
-A template file looks like this.
+A template file looks like this. (eg08111103)
 
 ```html
 ...
@@ -56,7 +56,7 @@ A template file looks like this.
 
 ```
 
-If all of these work well, we finally generate a pure HTML like this.
+If all of these work well, we finally generate a pure HTML like this. (eg)
 
 ```html
 ...
@@ -128,6 +128,6 @@ out.println(templateContent);
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTIwNDY1NSw3MjU4NDA1OCwxNzA5MT
-MyMTk0LC0xMjU4NzQ5NzI3LDE3MjA1NDY0OTZdfQ==
+eyJoaXN0b3J5IjpbLTE4NjAwMTYwMzksNzI1ODQwNTgsMTcwOT
+EzMjE5NCwtMTI1ODc0OTcyNywxNzIwNTQ2NDk2XX0=
 -->
