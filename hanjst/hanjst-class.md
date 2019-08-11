@@ -69,14 +69,13 @@ If all of these work well, we finally generate a pure HTML like this.
 ```html
 ...
 <!-- header -->
-{$innerTpl}
+<header class="navi"><a href="/">Homepage</a></header>
 <!-- header,end -->
 <!-- news list -->
 <ul>
-{foreach $newsList as $n}
 	<li>
-	{foreach $newsList[$n] as $p}
-		<span>{$p}: {$newsList[$n][$p]}</span>
+		<span>id: 1019</span>
+		<span>
 	{/foreach}
 	</li>
 {foreachelse}
@@ -114,5 +113,5 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjY5NjAwOSwxNzIwNTQ2NDk2XX0=
+eyJoaXN0b3J5IjpbMTM0ODkxNTc4NiwxNzIwNTQ2NDk2XX0=
 -->
