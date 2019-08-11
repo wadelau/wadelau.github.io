@@ -96,8 +96,9 @@ HashMap output = new HashMap();
 HashMap newList = news.getList();
 output.put("newsList", newsList);
 output.put("serverTime", Wht.dateFormat((new Date())));
-//- suppose map2json is initilized
-String jsonData = map2json.toJSON(output);
+//- suppose hanjst is initilized
+String jsonData = hanjst.map2Json(output);
+String templateContent = hanjst.readTemplate();
 
 ```
 
@@ -119,6 +120,6 @@ String jsonData = map2json.toJSON(output);
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjE5Nzk5OCw3MjU4NDA1OCwxNzA5MT
-MyMTk0LC0xMjU4NzQ5NzI3LDE3MjA1NDY0OTZdfQ==
+eyJoaXN0b3J5IjpbLTE2NzcyODMwMTgsNzI1ODQwNTgsMTcwOT
+EzMjE5NCwtMTI1ODc0OTcyNywxNzIwNTQ2NDk2XX0=
 -->
