@@ -18,7 +18,7 @@ Even out of GWA2, Hanjst can work well with any other unlisted languages in back
 According to JSON homepage, almost every language has at least one available and open source library to transform data in its own structure from and to JSON. 
 
 
-### Friendly with JavaScript
+### Friendly with JavaScript in Front-end
 ---
 
 ddddd
@@ -40,5 +40,6 @@ ddddd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzEwNzU0NCwxMzU1MzcwMjM2XX0=
+eyJoaXN0b3J5IjpbNzY5NzYzMjUwLC0xNzMxMDc1NDQsMTM1NT
+M3MDIzNl19
 -->
