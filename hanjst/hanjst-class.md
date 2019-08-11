@@ -90,7 +90,10 @@ Generally the class has a container, e.g., HashMap, Associative Array, to hold a
 For instance, in GWA2 Java, a news reader may look like this.
 
 ```java
-HashMap 
+
+HashMap output = new HashMap();
+//- suppose news is initilized
+HashMap newList = news.getBy("id, title", "istate=1", null
 ```
 
 
@@ -111,6 +114,6 @@ HashMap
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTgwMzI3Niw3MjU4NDA1OCwxNzA5MT
-MyMTk0LC0xMjU4NzQ5NzI3LDE3MjA1NDY0OTZdfQ==
+eyJoaXN0b3J5IjpbLTIxNDA3OTcyNTcsNzI1ODQwNTgsMTcwOT
+EzMjE5NCwtMTI1ODc0OTcyNywxNzIwNTQ2NDk2XX0=
 -->
