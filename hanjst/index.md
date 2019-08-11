@@ -27,8 +27,8 @@
 ## [Server-side Replacements](/hanjst/hanjst-replacement)
 ## [Data in JSON](/hanjst/data-in-json)
 ## [Resources](/hanjst/hanjst-resource)
-### Paths
-### Scripts
+### [Paths](/hanjst/hanjst-resource)
+### [Scripts](/hanjst/hanjst-resource)
 #### Third-party Libraries
 ### Images
 ## Caching
@@ -44,6 +44,6 @@
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDMxNTE4MCwtMjA3MDczNjMyOSwyMT
-I0MzYxOTAwLDE3NTExNDM0MzUsODUxMDQ4NjEzXX0=
+eyJoaXN0b3J5IjpbLTUyNzAxNTA2LC0yMDcwNzM2MzI5LDIxMj
+QzNjE5MDAsMTc1MTE0MzQzNSw4NTEwNDg2MTNdfQ==
 -->
