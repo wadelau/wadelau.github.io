@@ -30,7 +30,7 @@
 ### [Paths](/hanjst/hanjst-resource)
 ### [Scripts](/hanjst/hanjst-resource)
 #### Third-party Libraries
-### Images
+### [Images](/hanjst/hanjst-resource)
 ## Caching
 ## A Ready-to-go
 ## Search Engine Optimization
@@ -44,6 +44,6 @@
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzAxNTA2LC0yMDcwNzM2MzI5LDIxMj
+eyJoaXN0b3J5IjpbMTQ3MDk0NzM4LC0yMDcwNzM2MzI5LDIxMj
 QzNjE5MDAsMTc1MTE0MzQzNSw4NTEwNDg2MTNdfQ==
 -->
