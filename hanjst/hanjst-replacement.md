@@ -2,7 +2,7 @@
 ## Hanjst Server-side Replacements
 ### JSON Data Placeholder
 ---
-We have seen lots of examples written in Hanjst template language till now. And it is c
+We have seen lots of examples written in Hanjst template language till now. But most of them are codes snippets or fragments due to that they are written a  
 
 ### Templates Directory
 ---
@@ -31,5 +31,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjk0MzI5OSwtODI2NjE3MDc0XX0=
+eyJoaXN0b3J5IjpbLTE2MjE0ODkwMDUsLTgyNjYxNzA3NF19
 -->
