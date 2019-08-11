@@ -35,13 +35,13 @@ When all of these are ready, computing  and replacements are going on each block
 
 
 ### Variables
-
+---
 Hanjst template variables start with the **$dollar** sign as default. They can contain numbers, letters and underscores, just like a variable in [JavaScript](https://www.javascript.com). You can reference arrays by index numerically or non-numerically. Also reference object properties and methods.
 
 Some other template languages also defined a variable in this way, e.g. [PHP](php.net) or [Smarty](smarty.net).
 
----
 **1. Displaying**
+---
 
 {$foo}
 >display a variable
@@ -61,9 +61,8 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 {\$foo.\$bar.\$car}
 >display a multiple dimension array
 
----
 **2. Declaring**
-
+---
 {\$i=0}
 {\$s='abc'}
 >define a variable
@@ -80,7 +79,6 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 
 
 ### Functions
-
 Hanjst functions are all functions of JavaScript. Reversely, all JavaScript functions and objects are all accessible to the current Hanjst.
 
 {$foo()}
@@ -89,7 +87,7 @@ Hanjst functions are all functions of JavaScript. Reversely, all JavaScript func
 {\$foo($bar)}
 >display the return of function "foo", with a parameter "bar"
 
-
+---
 #### Built-in Functions
 
 As stated above, all built-in functions in JavaScript are accessible in Hanjst template run-time, so there too many to iterate the list.
@@ -149,5 +147,6 @@ For HTML part,
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDgyODUwMTJdfQ==
+eyJoaXN0b3J5IjpbLTEwOTU4MzYyMzQsLTIwMDgyODUwMTJdfQ
+==
 -->
