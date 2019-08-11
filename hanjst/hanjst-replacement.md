@@ -13,9 +13,13 @@ The following example shows that we place an placeholder in the position where w
 <body>
 ...
 <!-- Hanjst codes bgn-->
-<div id="Hanjstjsondata" style="display:none;">HANJST_JSON_DATA</div>
+<div id="Hanjstjsondata" style="display:none;">
+	HANJST_JSON_DATA
+</div>
 <script type="text/javascript">
-    window.Hanjst = {'JsonDataId':'Hanjstjsondata', 'LoadingLayerId':'Hanjstloading', 'IsDebug': false}; // optional
+    window.Hanjst = {
+    'JsonDataId':'Hanjstjsondata','IsDebug': false
+    }; // optional
 </script>
 <script type="text/javascript" src="js/Hanjst.js?v=201906171103"></script>
 <noscript>JavaScript Required for Hanjst.</noscript>
@@ -52,6 +56,6 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDg4OTE0MDcsMTU2NjgxMDcxNywtOD
-I2NjE3MDc0XX0=
+eyJoaXN0b3J5IjpbOTE3Nzc3MDA1LDE1NjY4MTA3MTcsLTgyNj
+YxNzA3NF19
 -->
