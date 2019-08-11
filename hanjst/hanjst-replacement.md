@@ -82,7 +82,7 @@ Hanjst client-side will take the raw template contents (eg08111147) and try to p
 
 ### Templates Directory
 ---
-ddd
+In a common implementation of Web application which depl
 
 
 ### Multiple Template Versions
@@ -107,6 +107,6 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA4OTc1MDUsNDYwNTgyMDYzLDE1Nj
-Y4MTA3MTcsLTgyNjYxNzA3NF19
+eyJoaXN0b3J5IjpbLTI1MTYxNTI0Myw0NjA1ODIwNjMsMTU2Nj
+gxMDcxNywtODI2NjE3MDc0XX0=
 -->
