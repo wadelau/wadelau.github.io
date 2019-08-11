@@ -23,7 +23,7 @@
 ### [Custom Functions](/hanjst/hanjst-function-2)
 
 # Hanjst for Back-end Developers
-## Hanjst Class 
+## [Hanjst Class](/hanjst/hanjst-class) 
 ## Server-side Replacements
 ## Data in JSON
 ## Resources
@@ -42,6 +42,6 @@
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDM2MTkwMCwxNzUxMTQzNDM1LDg1MT
-A0ODYxM119
+eyJoaXN0b3J5IjpbMjA4MTMwNzE0NCwyMTI0MzYxOTAwLDE3NT
+ExNDM0MzUsODUxMDQ4NjEzXX0=
 -->
