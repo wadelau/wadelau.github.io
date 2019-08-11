@@ -83,7 +83,9 @@ If all of these work well, we finally generate a pure HTML like this.
 
 ### Hanjst Class for Server-side
 ---
-So for each back-end language, it is mandatory to create a class of methods to cope with JSON data in s
+So for each back-end language, it is mandatory to create a class of methods for Hanjst to cope with JSON data in server-side.
+
+Generally the class has a container, e.g., HashMap, to hold all variables which need to be ou
 
 
 
@@ -104,6 +106,6 @@ So for each back-end language, it is mandatory to create a class of methods to c
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExNzM0ODg2LC0xMjU4NzQ5NzI3LDE3Mj
-A1NDY0OTZdfQ==
+eyJoaXN0b3J5IjpbLTIyOTkyMjI1OCwtMTI1ODc0OTcyNywxNz
+IwNTQ2NDk2XX0=
 -->
