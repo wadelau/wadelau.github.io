@@ -93,7 +93,9 @@ For instance, in GWA2 Java, a news reader may look like this.
 
 HashMap output = new HashMap();
 //- suppose news is initilized
-HashMap newList = news.getBy("id, title", "istate=1", null
+HashMap newList = news.getList();
+output.put("newsList", newsList);
+output.put("serve
 ```
 
 
@@ -114,6 +116,6 @@ HashMap newList = news.getBy("id, title", "istate=1", null
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDA3OTcyNTcsNzI1ODQwNTgsMTcwOT
+eyJoaXN0b3J5IjpbLTE2MDk4MzMzNjcsNzI1ODQwNTgsMTcwOT
 EzMjE5NCwtMTI1ODc0OTcyNywxNzIwNTQ2NDk2XX0=
 -->
