@@ -90,11 +90,11 @@ In common and daily usage, `{literal}...{/literal}` tags are normally not necess
 ----
 [Back to Top](/hanjst/hanjst-function-2)
 
-[Previous](./hanjst-function) ... [Next](./)
+[Previous](./hanjst-function) ... [Next](./hanjst-class)
 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDY1OTY3MzYsLTg4NDU0ODIzLC0yND
-YyMDY2ODddfQ==
+eyJoaXN0b3J5IjpbNjY0MzAxNjYzLC0xNjQ2NTk2NzM2LC04OD
+Q1NDgyMywtMjQ2MjA2Njg3XX0=
 -->
