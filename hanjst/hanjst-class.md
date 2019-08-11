@@ -80,11 +80,10 @@ If all of these work well, we finally generate a pure HTML like this.
 </div>
 ....
 ```
-So for each back-end language, it is
 
 ### Hanjst Class for Server-side
 ---
-dddd
+So for each back-end language, it is mandatory to create a class of methods to cope with JSON data in s
 
 
 
@@ -105,6 +104,6 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODkwNzQ3NCwtMTI1ODc0OTcyNywxNz
-IwNTQ2NDk2XX0=
+eyJoaXN0b3J5IjpbODExNzM0ODg2LC0xMjU4NzQ5NzI3LDE3Mj
+A1NDY0OTZdfQ==
 -->
