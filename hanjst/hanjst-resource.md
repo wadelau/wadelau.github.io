@@ -9,7 +9,10 @@ ddd
 ---
 ddd
 
-#### Third-pary
+#### Third-party library
+---
+dsd
+
 
 ### Images
 ---
@@ -32,5 +35,5 @@ dsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjY1OTU1NF19
+eyJoaXN0b3J5IjpbLTE3NTc0ODE3MTldfQ==
 -->
