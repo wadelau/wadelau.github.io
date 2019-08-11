@@ -20,7 +20,10 @@ Here we have an example of this kind of JSON.
 
 ```javascript
 {
-"innerTpl":"<header class=\"navi\"><a href=\"/\">Homepage</a></header>"
+"innerTpl":"<header class=\"navi\"><a href=\"/\">Homepage</a></header>",
+"serverTime":"2019-08-11 01:53:29",
+
+}
 
 ```
 
@@ -48,5 +51,5 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzk2NTM5NTAsMTcyMDU0NjQ5Nl19
+eyJoaXN0b3J5IjpbLTExMDg2NTU1NjUsMTcyMDU0NjQ5Nl19
 -->
