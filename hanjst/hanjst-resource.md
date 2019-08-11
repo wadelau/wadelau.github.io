@@ -16,7 +16,14 @@ It is also necessary that replacements will be triggered in client-side when Han
 
 This will be done by a global variable in Hanjst. The variable is so-called `viewdir` and it can be see as the relative or absolute path for all resources that need to be loaded with current template.
 
-Given that we have an embedded template lines looks like 
+Given that we have an embedded template lines looks like as below.
+
+```html
+{$innerTpl='<img src="images/myfav.png" alt=""/>'}
+
+...
+{$innerTpl}
+```
 
 
 
@@ -31,7 +38,7 @@ dsd
 
 ### Images
 ---
-dsd
+Images are recommended in innerTP
 
 
 
@@ -50,6 +57,6 @@ dsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcwMjM0MDksMTk5ODAxMTc0NywtMTc1Nz
-Q4MTcxOV19
+eyJoaXN0b3J5IjpbMTQ1NTI1OTMzNywxOTk4MDExNzQ3LC0xNz
+U3NDgxNzE5XX0=
 -->
