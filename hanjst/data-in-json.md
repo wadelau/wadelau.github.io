@@ -3,7 +3,10 @@
 ### Cross Languages of Back-end
 ---
 Hanjst uses JSON for data transition from back-end to front-end.
+JSON is **JSON** (JavaScript Object Notation).
 
+As described in JSON homepage, 
+>is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the [JavaScript](http://javascript.crockford.com/)
 
 
 
@@ -29,5 +32,5 @@ ddddd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDE3MzA2NSwxMzU1MzcwMjM2XX0=
+eyJoaXN0b3J5IjpbLTkyNjEwMTExOCwxMzU1MzcwMjM2XX0=
 -->
