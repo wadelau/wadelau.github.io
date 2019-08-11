@@ -1,12 +1,17 @@
 # [Hanjst](/hanjst/index)
 ## Data in JSON
-### Cross Languages
+### Cross Languages of Back-end
 ---
 ddd
 
 
 
 ### Friendly with JavaScript
+---
+
+ddddd
+
+
 
 ---
 
@@ -17,11 +22,11 @@ ddd
 
 ---
 
-[Back to Top](/hanjst/hanjst-function-replacement)
+[Back to Top](/hanjst/data-in-json)
 
-[Previous](./hanjst-class) ... [Next](./)
+[Previous](./hanjst-replacement) ... [Next](./)
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTQzOTgyMF19
+eyJoaXN0b3J5IjpbMTM1NTM3MDIzNl19
 -->
