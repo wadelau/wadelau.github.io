@@ -2,8 +2,9 @@
 ## Hanjst Resources
 ### Paths
 ---
-A few of paths will be replaced in server-side, which has been shown with examples in previous section, i.e. [Hanjst Replacements](./hanjst-replacement).
+A few of paths in Hanjst will be replaced in server-side, which has been shown with examples in previous section, i.e. [Hanjst Replacements](./hanjst-replacement).
 
+It is also necessary that replacements will be triggered in client-side when Hanjst attempts to load embedded templates which contains several lines of 
 
 
 ### Scripts
@@ -36,6 +37,6 @@ dsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDA5MjIyMiwxOTk4MDExNzQ3LC0xNz
+eyJoaXN0b3J5IjpbMTcyNjg2MDUyNiwxOTk4MDExNzQ3LC0xNz
 U3NDgxNzE5XX0=
 -->
