@@ -102,7 +102,7 @@ The raw template lines will be replaced in server-side with actual paths of the 
 
 ```html
 ...
-<link rel="stylesheet" href="/path-to-view/css/style.css" />
+<link rel="stylesheet" href="/path-to/view/css/style.css" />
 ...
 <img src='/path-to/view/images/myfav.png' alt=""/>
 
@@ -122,7 +122,15 @@ If so, we have to set every sub directory for each version of the web applicatio
 `view/android`
 `view/iphone`
 
-Therefore, the template lines in (eg08111220) will be further replaced with actual v
+Therefore, the template lines in (eg08111220) will be further replaced with actual view directory and its corresponding sub directory.
+
+```html
+...
+<link rel="stylesheet" href="/path-to/view/descktop/css/style.css" />
+...
+<img src='/path-to/view/desktop/images/myfav.png' alt=""/>
+
+```
 
 ---
 
@@ -141,6 +149,6 @@ Therefore, the template lines in (eg08111220) will be further replaced with actu
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwOTMzNjYyLDQ2MDU4MjA2MywxNTY2OD
+eyJoaXN0b3J5IjpbNzUxNDcyMjE4LDQ2MDU4MjA2MywxNTY2OD
 EwNzE3LC04MjY2MTcwNzRdfQ==
 -->
