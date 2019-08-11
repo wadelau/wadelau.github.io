@@ -42,7 +42,7 @@ dsd
 
 ### Images
 ---
-Images are recommended in innerTpl, not in main template file as th
+Images are recommended in innerTpl, not in main template file as the template contents firstly will be rendered by current browser itself. This will cause `404` errors due to that the paths of images are not well-organized before Hanjst is being
 
 
 
@@ -61,6 +61,6 @@ Images are recommended in innerTpl, not in main template file as th
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4Mzc1NDE4LDE5OTgwMTE3NDcsLTE3NT
-c0ODE3MTldfQ==
+eyJoaXN0b3J5IjpbLTE1NTY4OTg3MTAsMTk5ODAxMTc0NywtMT
+c1NzQ4MTcxOV19
 -->
