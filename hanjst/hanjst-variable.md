@@ -115,6 +115,7 @@ Call it in HTML written in Hanjst template language:
 <!-- output: 15 -->
 ```
 
+---
 ### Modifiers Chain
 
 JavaScript allow function chain, so it is easy to use for Hanjst modifiers.
@@ -146,7 +147,7 @@ Here is an example to show the chain.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzMzNjQ2LDE2NTU3NjQyNzEsMTMzOD
+eyJoaXN0b3J5IjpbMTYyNDc2OTQzLDE2NTU3NjQyNzEsMTMzOD
 Q2OTUyNiwtNzI2ODQ2MTU0LDEzMTQxMzU0NjQsODUxMDQ4NjEz
 XX0=
 -->
