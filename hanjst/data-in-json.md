@@ -2,7 +2,7 @@
 ## Data in JSON
 ### Cross Languages of Back-end
 ---
-ddd
+
 
 
 
@@ -28,5 +28,5 @@ ddddd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTM3MDIzNl19
+eyJoaXN0b3J5IjpbMzI0NjU1NTI4LDEzNTUzNzAyMzZdfQ==
 -->
