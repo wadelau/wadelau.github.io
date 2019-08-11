@@ -25,7 +25,9 @@ A simple example shows this process.
 {$innerTpl='<header class="navi"><a href="/">Homepage</a></header>'}
 
 <div id="top">
+<!-- embedded content -->
 {include file="$innerTpl"}
+<!-- embedded content, end -->
 <div class="main">
 	This is main content.
 </div>
@@ -37,7 +39,9 @@ These template lines will be parsed into pure HTML contents as below.
 ```html
 
 <div id="top">
+<!-- embedded content -->
 <header class="navi"><a href="/">Homepage</a></header>
+<!-- embedded content, end -->
 <div class="main">
 	This is main content.
 </div>
@@ -95,6 +99,6 @@ In common and daily usage, `{literal}...{/literal}` tags are normally not necess
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0MzAxNjYzLC0xNjQ2NTk2NzM2LC04OD
-Q1NDgyMywtMjQ2MjA2Njg3XX0=
+eyJoaXN0b3J5IjpbLTkwNTc0NjM1MSwtMTY0NjU5NjczNiwtOD
+g0NTQ4MjMsLTI0NjIwNjY4N119
 -->
