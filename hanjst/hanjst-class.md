@@ -90,7 +90,7 @@ Generally the class has a container, e.g., HashMap, Associative Array, to hold a
 For instance, in GWA2 Java, a news reader may look like this.
 
 ```java
-
+HashMap 
 ```
 
 
@@ -111,6 +111,6 @@ For instance, in GWA2 Java, a news reader may look like this.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1ODQwNTgsMTcwOTEzMjE5NCwtMTI1OD
-c0OTcyNywxNzIwNTQ2NDk2XX0=
+eyJoaXN0b3J5IjpbMTcxMTgwMzI3Niw3MjU4NDA1OCwxNzA5MT
+MyMTk0LC0xMjU4NzQ5NzI3LDE3MjA1NDY0OTZdfQ==
 -->
