@@ -82,7 +82,9 @@ Hanjst client-side will take the raw template contents (eg08111147) and try to p
 
 ### Templates Directory
 ---
-In a common implementation of Web application which depl
+In a common implementation of Web application which deploys MVC-based architecture there will be a sub directory call `view`.
+
+The `view` will hold all template raw files and files would link
 
 
 ### Multiple Template Versions
@@ -107,6 +109,6 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTYxNTI0Myw0NjA1ODIwNjMsMTU2Nj
+eyJoaXN0b3J5IjpbMTc1NzM0MzYzOSw0NjA1ODIwNjMsMTU2Nj
 gxMDcxNywtODI2NjE3MDc0XX0=
 -->
