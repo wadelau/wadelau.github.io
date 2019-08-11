@@ -93,7 +93,7 @@ For instance, in GWA2 Java, a news reader may look like this. (eg08111105)
 
 HashMap output = new HashMap();
 
-//- suppose news is initilized
+//- suppose news is initilized, and Wht
 HashMap newList = news.getList();
 output.put("newsList", newsList);
 output.put("serverTime", Wht.dateFormat((new Date())));
@@ -146,7 +146,7 @@ There is a Hanjst.java or Hanjst.class.jsp for Java, and similarly, Hanjst.class
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQ3NTQ4NTAsNDU0MzQyMTEwLDcyNT
-g0MDU4LDE3MDkxMzIxOTQsLTEyNTg3NDk3MjcsMTcyMDU0NjQ5
-Nl19
+eyJoaXN0b3J5IjpbNTMzNTI1Mjg2LDQ1NDM0MjExMCw3MjU4ND
+A1OCwxNzA5MTMyMTk0LC0xMjU4NzQ5NzI3LDE3MjA1NDY0OTZd
+fQ==
 -->
