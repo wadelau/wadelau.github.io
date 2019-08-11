@@ -65,6 +65,7 @@ Another more complicated data structure is used to demonstrate its powerful expr
 
 
 ```html
+<!-- server-side work -->
 {$newsList=[]}
 {$newsList[0]=new Object()}
 {$newsList[0]['id']=12}
@@ -72,6 +73,7 @@ Another more complicated data structure is used to demonstrate its powerful expr
 {$newsList[1]=new Object()}
 {$newsList[1]['id']=34}
 {$newsList[1]['title']='News-Title-34'}
+<!-- server-side work, end -->
 
 <ul>
 {foreach $newsList as $p}
@@ -89,6 +91,8 @@ Another more complicated data structure is used to demonstrate its powerful expr
 This template lines will output pure HTML lines as below.
 
 ```html
+<!-- server-side work -->
+<!-- server-side work, end -->
 <ul>
 	<li>
 		<dt>id: 12</dt>
@@ -209,7 +213,7 @@ The expected output will be shown as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzAxMzU4MjYsLTE3ODQwMTU4ODcsLT
-EwOTIwNTI5NDMsMTY1OTQ0MTQ5Niw3MjI1NjQ3MDEsLTQ5ODk4
-OTk5NywtMTMxNzE1ODQwNiwtMTA3NzA4MDkyMF19
+eyJoaXN0b3J5IjpbMTg0NTE2MzUyMiwtMTc4NDAxNTg4NywtMT
+A5MjA1Mjk0MywxNjU5NDQxNDk2LDcyMjU2NDcwMSwtNDk4OTg5
+OTk3LC0xMzE3MTU4NDA2LC0xMDc3MDgwOTIwXX0=
 -->
