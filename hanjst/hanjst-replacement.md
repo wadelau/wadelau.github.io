@@ -88,13 +88,19 @@ The `view` will hold all template raw files and files would connect to each othe
 
 It should not be the same if the application directory is not the root directory of a website. So it is inevitable to make replacements to all of this view paths.
 
-Given we have the template lines as below.
+Given we have the template lines as below. (eg08111220)
 
 ```html
+...
+<link rel="stylesheet" href="css/style.css" />
 ...
 <img src='images/myfav.png' alt=""/>
 
 ```
+
+The raw template lines will be replaced in server-side with actual paths of the web application.
+
+
 
 
 ### Multiple Template Versions
@@ -119,6 +125,6 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg2NTg1NDgsNDYwNTgyMDYzLDE1Nj
-Y4MTA3MTcsLTgyNjYxNzA3NF19
+eyJoaXN0b3J5IjpbMjI3ODgxNTgsNDYwNTgyMDYzLDE1NjY4MT
+A3MTcsLTgyNjYxNzA3NF19
 -->
