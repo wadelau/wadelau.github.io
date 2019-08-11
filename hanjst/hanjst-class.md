@@ -58,7 +58,7 @@ A template file looks like this.
 </ul>
 <!-- news list, end -->
 <div>
-	<p>Server Time:{$serverTime}</p>
+	<p>Server Time: {$serverTime}</p>
 </div>
 ....
 
@@ -75,16 +75,16 @@ If all of these work well, we finally generate a pure HTML like this.
 <ul>
 	<li>
 		<span>id: 1019</span>
-		<span>
-	{/foreach}
+		<span>title: News-Title-1019</span>
 	</li>
-{foreachelse}
-	<li>No data.</li>
-{/foreach}
+	<li>
+		<span>id: 2019</span>
+		<span>title: News-Title-2019</span>
+	</li>
 </ul>
 <!-- news list, end -->
 <div>
-	<p>Server Time:{$serverTime}</p>
+	<p>Server Time: 2019-08-11 01:53:29</p>
 </div>
 ....
 ```
@@ -113,5 +113,5 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODkxNTc4NiwxNzIwNTQ2NDk2XX0=
+eyJoaXN0b3J5IjpbLTEyNTg3NDk3MjcsMTcyMDU0NjQ5Nl19
 -->
