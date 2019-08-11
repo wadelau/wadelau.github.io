@@ -8,12 +8,13 @@ Smarty itself is good enough and strong enough to meet the requirements of the p
 
 We have integrated Smarty in GWA2PHP and it works very well. When we have developed GWA2Java, we find that Smarty fans on the Internet had moved Smarty to the Java version, Smarty4J, so we also integrated Smarty4J consequently.
 
-Unfortunately, Smarty4J is a version of about 7-8 years ago, and has not been updated since then, also it is only compatible with the syntax of Smarty 2, which greatly limits the further development of GWA2Java.
+Unfortunately, Smarty4J is a version of about 7-8 years ago, and has not been updated since then, also it is only compatible with the syntax of Smarty 2, which heavily limits the further development of GWA2Java.
 
 So we have committed to make this switch happen. Hanjst will be our default template engine in GWA2 ecosystem.
 
-Regarding to backend or  server-side for Hanjst, it is only one task to do. The task in server-side is tooutput a JSON data
+Regarding to backend or  server-side for Hanjst, it is only one task to do. The task in server-side is to output a group of key-value pairs in JSON format to client-side.
 
+This preparation for JSON
 
 ### Hanjst Class for Server-side
 ---
@@ -38,5 +39,5 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTM2MTYyLDE3MjA1NDY0OTZdfQ==
+eyJoaXN0b3J5IjpbLTE1NjcyNTIxMTYsMTcyMDU0NjQ5Nl19
 -->
