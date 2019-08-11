@@ -4,7 +4,7 @@
 ---
 We have switched our default template engine from Smarty to Hanjst for all versions of GWA2.
 
-Regarding to backend or  server-side for Hanjst, it is only one task to do. The task in server-side is to output a group of key-value pairs in JSON format to client-side.
+Regarding to backend or server-side for Hanjst, it is only one task to do. The task in server-side is to output a group of key-value pairs in JSON format to client-side.
 
 This preparation work of JSON can be split into two parts: one is to read all server-side data for business, and the other is to read other embedded template files and output them as common key-value pairs.
 
@@ -80,7 +80,7 @@ If all of these work well, we finally generate a pure HTML like this.
 </div>
 ....
 ```
-
+So for each back-end language, it is
 
 ### Hanjst Class for Server-side
 ---
@@ -105,6 +105,6 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjMzNjEzMCwtMTI1ODc0OTcyNywxNz
+eyJoaXN0b3J5IjpbMTUzODkwNzQ3NCwtMTI1ODc0OTcyNywxNz
 IwNTQ2NDk2XX0=
 -->
