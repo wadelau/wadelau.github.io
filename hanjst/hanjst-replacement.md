@@ -114,13 +114,15 @@ The raw template lines will be replaced in server-side with actual paths of the 
 ---
 Furthermore, we have multiple versions for the web application, e.g. desktop version, mobile phone version, mobile pad version, android app or iOS app, etc.
 
-If so, we have to set every sub directory for each version of the web application.
+If so, we have to set every sub directory for each version of the web application. (eg08111227)
 
 `view/desktop`
 `view/mobile`
 `view/pad`
 `view/android`
-`` 
+`view/iphone`
+
+Therefore, the template lines in (eg08111220) will be further replaced with actual v
 
 ---
 
@@ -139,6 +141,6 @@ If so, we have to set every sub directory for each version of the web applicatio
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODcwMTM4Niw0NjA1ODIwNjMsMTU2Nj
-gxMDcxNywtODI2NjE3MDc0XX0=
+eyJoaXN0b3J5IjpbODcwOTMzNjYyLDQ2MDU4MjA2MywxNTY2OD
+EwNzE3LC04MjY2MTcwNzRdfQ==
 -->
