@@ -2,7 +2,7 @@
 ## Hanjst Class
 ### Backend Overview
 ---
-We have switch our default template engine from Smarty to Hanjst.
+We have switched our default template engine from Smarty to Hanjst.
 
 Smarty itself is good enough and strong enough to meet the requirements of the production environment, which is one of the reasons Smarty won in our candidates list before. Smarty's concise expression is very close to natural language, making it easy to learn and easy to use. Advanced applications of Smarty keep this simplicity, so the learning curve is not steep.
 
@@ -10,6 +10,9 @@ We have integrated Smarty in GWA2PHP and it works very well. When we have develo
 
 Unfortunately, Smarty4J is a version of about 7-8 years ago, and has not been updated since then, also it is only compatible with the syntax of Smarty 2, which greatly limits the further development of GWA2Java.
 
+So we have committed to make this switch happen. Hanjst will be our default template engine in GWA2 ecosystem.
+
+Regarding to  
 
 
 ### Hanjst Class for Server-side
@@ -35,5 +38,5 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODgzNjUzNCwxNzIwNTQ2NDk2XX0=
+eyJoaXN0b3J5IjpbMTkwNTQ2MDcwLDE3MjA1NDY0OTZdfQ==
 -->
