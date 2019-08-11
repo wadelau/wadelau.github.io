@@ -43,13 +43,23 @@ A template file looks like this.
 ...
 <!-- header -->
 {$innerTpl}
+<!-- header,end -->
 <!-- news list -->
+<ul>
+{foreach $newsList as $n}
+	<li>
+	{foreach $newsList[]}
+	</li>
+{foreachelse}
 
+{/foreach}
+</ul>
 <!-- news list, end -->
 <div>
 	<p>Server Time:{$serverTime}</p>
 </div>
 ....
+
 ```
 
 
@@ -77,5 +87,5 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3MjU3NzE1LDE3MjA1NDY0OTZdfQ==
+eyJoaXN0b3J5IjpbLTUwOTM5MTE5MCwxNzIwNTQ2NDk2XX0=
 -->
