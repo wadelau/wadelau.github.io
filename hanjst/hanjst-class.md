@@ -41,9 +41,15 @@ A template file looks like this.
 
 ```html
 ...
-<!-- news list sta -->
+<!-- header -->
 {$innerTpl}
+<!-- news list -->
 
+<!-- news list, end -->
+<div>
+	<p>Server Time:{$serverTime}</p>
+</div>
+....
 ```
 
 
@@ -71,5 +77,5 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4NjYyOTAyLDE3MjA1NDY0OTZdfQ==
+eyJoaXN0b3J5IjpbODA3MjU3NzE1LDE3MjA1NDY0OTZdfQ==
 -->
