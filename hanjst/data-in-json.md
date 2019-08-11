@@ -20,8 +20,9 @@ According to JSON homepage, almost every language has at least one available and
 
 ### Friendly with JavaScript in Front-end
 ---
+Hanjst reads data in JSON from the client-side page.
 
-ddddd
+JSON is a built-in object in JavaScript which is one of three componenets 
 
 
 
@@ -40,6 +41,6 @@ ddddd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5NzYzMjUwLC0xNzMxMDc1NDQsMTM1NT
-M3MDIzNl19
+eyJoaXN0b3J5IjpbOTAxNzQ5OTI0LDc2OTc2MzI1MCwtMTczMT
+A3NTQ0LDEzNTUzNzAyMzZdfQ==
 -->
