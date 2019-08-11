@@ -114,10 +114,12 @@ All of these codes can be found in [GWA2 in Java in GitHub](https://github.com/w
 
 A simple flow chat shows the process here.
 
-**Hanjst server-side** (eg08111105)  
+End-user request
+	--> Hanjst server-side (eg08111105)  
 	--> Raw HTML (eg08111102 + eg08111103)
-	--> **Hanjst client-side**
+	--> Hanjst client-side
 	--> Final HTML (eg08111104)
+	--> End-user contents
 
 There is a Hanjst.java or Hanjst.class.jsp for Java, and similarly, Hanjst.class.php for PHP, so as to Perl, Python and so on.
  
@@ -139,6 +141,7 @@ There is a Hanjst.java or Hanjst.class.jsp for Java, and similarly, Hanjst.class
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0MzQyMTEwLDcyNTg0MDU4LDE3MDkxMz
-IxOTQsLTEyNTg3NDk3MjcsMTcyMDU0NjQ5Nl19
+eyJoaXN0b3J5IjpbLTgzNDU0MDM4NSw0NTQzNDIxMTAsNzI1OD
+QwNTgsMTcwOTEzMjE5NCwtMTI1ODc0OTcyNywxNzIwNTQ2NDk2
+XX0=
 -->
