@@ -119,7 +119,7 @@ A simple flow chat shows the process here.
 	--> **Hanjst client-side**
 	--> Final HTML (eg08111104)
 
-
+There is a Hanjst.java or Hanjst.class.jsp for Java, and similarly, Hanjst.class.php for PHP, so do 
 
 ---
 
@@ -138,6 +138,6 @@ A simple flow chat shows the process here.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTI1ODI0MSw3MjU4NDA1OCwxNzA5MT
-MyMTk0LC0xMjU4NzQ5NzI3LDE3MjA1NDY0OTZdfQ==
+eyJoaXN0b3J5IjpbLTE0Mzc5ODU1MzIsNzI1ODQwNTgsMTcwOT
+EzMjE5NCwtMTI1ODc0OTcyNywxNzIwNTQ2NDk2XX0=
 -->
