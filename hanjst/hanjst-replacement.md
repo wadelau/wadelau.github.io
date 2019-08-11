@@ -108,8 +108,6 @@ The raw template lines will be replaced in server-side with actual paths of the 
 
 ```
 
-
-
 ### Multiple Template Versions
 ---
 Furthermore, we have multiple versions for the web application, e.g. desktop version, mobile phone version, mobile pad version, android app or iOS app, etc.
@@ -132,6 +130,10 @@ Therefore, the template lines in (eg08111220) will be further replaced with actu
 
 ```
 
+### Other Replacements
+---
+Hanjst template files maybe needs to be replaced some other placeholders with specific
+
 ---
 
 #### Related works
@@ -149,6 +151,6 @@ Therefore, the template lines in (eg08111220) will be further replaced with actu
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNDcyMjE4LDQ2MDU4MjA2MywxNTY2OD
-EwNzE3LC04MjY2MTcwNzRdfQ==
+eyJoaXN0b3J5IjpbLTIxMTcyNzE4MzksNzUxNDcyMjE4LDQ2MD
+U4MjA2MywxNTY2ODEwNzE3LC04MjY2MTcwNzRdfQ==
 -->
