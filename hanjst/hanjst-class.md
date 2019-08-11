@@ -87,7 +87,11 @@ So for each back-end language, it is mandatory to create a class of methods for 
 
 Generally the class has a container, e.g., HashMap, Associative Array, to hold all variables which need to be output at the end of this request.
 
+For instance, in GWA2 Java, a news reader may look like this.
 
+```java
+
+```
 
 
 ---
@@ -107,6 +111,6 @@ Generally the class has a container, e.g., HashMap, Associative Array, to hold a
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTEzMjE5NCwtMTI1ODc0OTcyNywxNz
-IwNTQ2NDk2XX0=
+eyJoaXN0b3J5IjpbNzI1ODQwNTgsMTcwOTEzMjE5NCwtMTI1OD
+c0OTcyNywxNzIwNTQ2NDk2XX0=
 -->
