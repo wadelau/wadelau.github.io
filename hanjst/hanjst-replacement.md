@@ -7,6 +7,7 @@ We have seen lots of examples written in Hanjst template language till now. But 
 In fact, the raw template file looks not so pretty as the examples presented above.
 The following example shows that we place an placeholder in the position where we will put all JSON data from server-side in.
 
+(eg09111146)
 ```html
 <html>
 ....
@@ -30,7 +31,9 @@ The following example shows that we place an placeholder in the position where w
 ```
 Here `HANJST_JSON_DATA` is the placeholder where Hanjst will replace it with actual JSON data in server-side. This can be seen in eg08111105 in previous section.
 
-This is the very first or raw form of Hanjst template file which has not yet handled by Hanjst server-side.
+This is the very first or raw form of Hanjst template file which has not yet handled by Hanjst server-side. It will present another look after the template file has been replaced several times in server-side.
+
+For instance, the template contents (eg08111146)
 
 
   
@@ -62,6 +65,6 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc1ODQ5MDUsMTU2NjgxMDcxNywtOD
-I2NjE3MDc0XX0=
+eyJoaXN0b3J5IjpbMTc4MzMzMjIwLDE1NjY4MTA3MTcsLTgyNj
+YxNzA3NF19
 -->
