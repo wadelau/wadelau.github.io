@@ -113,7 +113,7 @@ The raw template lines will be replaced in server-side with actual paths of the 
 ### Multiple Template Versions
 ---
 
-d
+Furthermore, we have multiple versions for the web application, e.g. desktop version, mobile phone version, mobile pad version, android app or iOS app. 
 
 ---
 
@@ -132,6 +132,6 @@ d
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjAzMTY5MzAsNDYwNTgyMDYzLDE1Nj
-Y4MTA3MTcsLTgyNjYxNzA3NF19
+eyJoaXN0b3J5IjpbMTczNTc3NzEzMiw0NjA1ODIwNjMsMTU2Nj
+gxMDcxNywtODI2NjE3MDc0XX0=
 -->
