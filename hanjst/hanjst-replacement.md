@@ -43,7 +43,7 @@ For instance, the template contents (eg08111146) in server-side will be replaced
 ...
 <!-- Hanjst codes bgn-->
 <div id="Hanjstjsondata" style="display:none;">
-	{
+{
 "innerTpl":"<header class=\"navi\"><a href=\"/\">Homepage</a></header>",
 "serverTime":"2019-08-11 01:53:29",
 "newsList":[
@@ -72,6 +72,8 @@ For instance, the template contents (eg08111146) in server-side will be replaced
 </body>
 </html>
 ```
+
+Hanjst client-side will take the row template contents (eg08111147) and try to parse them into pure and final HTML elements, whi
 
 
 
@@ -104,6 +106,6 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzMDMwMTczLDE1NjY4MTA3MTcsLTgyNj
-YxNzA3NF19
+eyJoaXN0b3J5IjpbLTEyODU5ODUxODEsMTU2NjgxMDcxNywtOD
+I2NjE3MDc0XX0=
 -->
