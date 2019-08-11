@@ -19,7 +19,10 @@ This preparation work of JSON can be split into two parts: one is to read all se
 Here we have an example of this kind of JSON.
 
 ```javascript
+{
+"innerTpl":"<header class=\"navi\"><a href=\"/\">Homepage</a></header>"
 
+```
 
 
 ### Hanjst Class for Server-side
@@ -45,5 +48,5 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI3NTI1MDExLDE3MjA1NDY0OTZdfQ==
+eyJoaXN0b3J5IjpbLTE4Mzk2NTM5NTAsMTcyMDU0NjQ5Nl19
 -->
