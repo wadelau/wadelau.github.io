@@ -97,6 +97,12 @@ Combining all those considerations and  bearing expected features and functions 
 
 All in one, we believe that Hanjst would be the final JavaScript-based template language, and it has all functions which needed in client-side run-time. Also, any further "reinvent of the wheel" in this field would be meaningless. 
 
+We have integrated Smarty in GWA2PHP and it works very well before. When we have developed GWA2Java, we find that Smarty fans on the Internet had moved Smarty to the Java version, Smarty4J, so we also integrated Smarty4J consequently.
+
+Unfortunately, Smarty4J is a version of about 7-8 years ago, and has not been updated since then, also it is only compatible with the syntax of Smarty 2, which heavily limits the further development of GWA2Java.
+
+So we have committed to make this switch happen. Hanjst will be our default template engine in GWA2 ecosystem since then.
+
 ---
 #### Related works
 1. [Hanjst Homepage](https://ufqi.com/dev/hanjst/)
@@ -110,7 +116,7 @@ All in one, we believe that Hanjst would be the final JavaScript-based template 
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTQ0MDAyNSwxMjA4NzY2OTc2LDE5Mz
+eyJoaXN0b3J5IjpbMTkxMTc1MTAyNSwxMjA4NzY2OTc2LDE5Mz
 czNjU1OTcsLTEwNjAwMzU0NzQsLTc0OTY3NzExNywtMTgwMTY1
 MzI0MSwtNDYxMzk4MDQxLDE4MzUyMjcwMTAsNzEyMDY1MzA5LC
 0yMzQzNjQ3NDAsNTM1MTUyMjAwLC04NDE1MjI5NTgsMTUyNDAy
