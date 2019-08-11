@@ -26,7 +26,7 @@
 ## [Hanjst Class](/hanjst/hanjst-class) 
 ## [Server-side Replacements](/hanjst/hanjst-replacement)
 ## [Data in JSON](/hanjst/data-in-json)
-## Resources
+## [Resources](/hanjst/hanjst-resource)
 ### Paths
 ### Scripts
 #### Third-party Libraries
@@ -44,6 +44,6 @@
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU2ODA1NzYsLTIwNzA3MzYzMjksMj
-EyNDM2MTkwMCwxNzUxMTQzNDM1LDg1MTA0ODYxM119
+eyJoaXN0b3J5IjpbLTI3MDMxNTE4MCwtMjA3MDczNjMyOSwyMT
+I0MzYxOTAwLDE3NTExNDM0MzUsODUxMDQ4NjEzXX0=
 -->
