@@ -14,9 +14,9 @@ A few of paths in Hanjst will be replaced in server-side, which has been shown w
 
 It is also necessary that replacements will be triggered in client-side when Hanjst attempts to load embedded templates which contains several lines of extra resources, e.g. images, CSS and JavaScript.
 
-This will be done by a global variable in Hanjst. The variable is so-called `viewdir` and it can be see as the relative or absolute path for all resources that need to be loaded with current template.
+This will be done by a global variable in Hanjst. The variable is so-called `viewdir` and it can be seen as the relative or absolute path for all resources that need to be loaded with current template.
 
-Given that we have an embedded template lines looks like as below.
+Given that we have an embedded template consist of lines as below.
 
 ```html
 {$innerTpl='<img src="images/myfav.png" alt=""/>'}
@@ -63,6 +63,6 @@ Images are recommended in innerTpl, not in main template file as the template co
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTg1NDUwODAsMTk5ODAxMTc0NywtMT
-c1NzQ4MTcxOV19
+eyJoaXN0b3J5IjpbMTE5ODEyOTY3MSwxOTk4MDExNzQ3LC0xNz
+U3NDgxNzE5XX0=
 -->
