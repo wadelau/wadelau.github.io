@@ -13,7 +13,9 @@ As described in [JSON homepage](http://json.org),
 
 Therefore JSON is an ideal data structure for GWA2 with Java, PHP, Perl, Python and Aspx. From a engineer's perspective, JSON is also easily-understood and clear, clean and concise textual representation.
 
-According to 
+Even out of GWA2, Hanjst can work well with any other unlisted languages in back-end.
+
+According to JSON homepage, almost every language has available and open source library to transform data in its own structure  
 
 
 ### Friendly with JavaScript
@@ -38,5 +40,5 @@ ddddd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDI1NTUzNywxMzU1MzcwMjM2XX0=
+eyJoaXN0b3J5IjpbLTc3MjYwODI3NywxMzU1MzcwMjM2XX0=
 -->
