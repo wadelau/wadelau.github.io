@@ -53,17 +53,22 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 >display the "bar" key value of an array
 
 {\$foo.bar}
+
 {\$foo.$bar}
 >same as $foo['bar']
 
 {$foo['bar']['car']}
+
 {\$foo.bar.car}
+
 {\$foo.\$bar.\$car}
 >display a multiple dimension array
+
 
 2. Declaring
 ---
 {\$i=0}
+
 {\$s='abc'}
 >define a variable
 
@@ -150,5 +155,5 @@ For HTML part,
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTA5NTk1MywtMjAwODI4NTAxMl19
+eyJoaXN0b3J5IjpbMTAwNTQyNTI0NSwtMjAwODI4NTAxMl19
 -->
