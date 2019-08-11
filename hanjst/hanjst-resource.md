@@ -2,7 +2,8 @@
 ## Hanjst Resources
 ### Paths
 ---
-ddd
+A few of paths will be replaced in server-side, which has been shown with examples in previous section, i.e. [Hanjst Replacements](./hanjst-replacement).
+
 
 
 ### Scripts
@@ -35,5 +36,6 @@ dsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODAxMTc0NywtMTc1NzQ4MTcxOV19
+eyJoaXN0b3J5IjpbLTM5MDA5MjIyMiwxOTk4MDExNzQ3LC0xNz
+U3NDgxNzE5XX0=
 -->
