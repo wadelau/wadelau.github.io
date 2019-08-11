@@ -25,7 +25,7 @@
 # Hanjst for Back-end Developers
 ## [Hanjst Class](/hanjst/hanjst-class) 
 ## [Server-side Replacements](/hanjst/hanjst-replacement)
-## Data in JSON
+## [Data in JSON](/hanjst/data-in-json)
 ## Resources
 ### Paths
 ### Scripts
@@ -43,6 +43,6 @@
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjE5Mjk5NjMsLTIwNzA3MzYzMjksMj
-EyNDM2MTkwMCwxNzUxMTQzNDM1LDg1MTA0ODYxM119
+eyJoaXN0b3J5IjpbMTk4NzM0MjY1OSwtMjA3MDczNjMyOSwyMT
+I0MzYxOTAwLDE3NTExNDM0MzUsODUxMDQ4NjEzXX0=
 -->
