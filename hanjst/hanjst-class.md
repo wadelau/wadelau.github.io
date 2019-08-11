@@ -16,7 +16,7 @@ Regarding to backend or  server-side for Hanjst, it is only one task to do. The 
 
 This preparation work of JSON can be split into two parts: one is to read all server-side data for business, and the other is to read other embedded template files and output them as common key-value pairs.
 
-Here we have an example of this kind of JSON.
+Here we have an example of this kind of JSON from server-side.
 
 ```javascript
 {
@@ -48,10 +48,12 @@ A template file looks like this.
 <ul>
 {foreach $newsList as $n}
 	<li>
-	{foreach $newsList[]}
+	{foreach $newsList[$n] as $p}
+		<span>{$p}: {$newsList[$n][$p]}</span>
+	{/foreach}
 	</li>
 {foreachelse}
-
+	<li>No data.</li>
 {/foreach}
 </ul>
 <!-- news list, end -->
@@ -61,6 +63,7 @@ A template file looks like this.
 ....
 
 ```
+
 
 
 
@@ -87,5 +90,5 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTM5MTE5MCwxNzIwNTQ2NDk2XX0=
+eyJoaXN0b3J5IjpbLTYyMzA1MzQ5MiwxNzIwNTQ2NDk2XX0=
 -->
