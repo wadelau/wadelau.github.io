@@ -43,7 +43,7 @@ Han JavaScript Template.
 
 ### [Hanjst Overview](/hanjst/what-is-hanjst)
 ### [Hanjst for Template Designers](/hanjst/hanjst-syntax)
-### Hanjst for Back-end Developers
+### [Hanjst for Back-end Developers](/hanjst/hanjst-class)
 
 
 ---
@@ -53,9 +53,9 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6ICdHV0EyLCBnTUlTIGFuZC
 BIYW5qc3QnXG5hdXRob3I6ICdYZW54aW4sIFdhZGVsYXUnXG50
 YWdzOiAnR1dBMiwgZ01JUywgSGFuanN0LCDlkInlqIPlhZQsIO
 WQieWvhuaWrywg5rGJ5ZCJ5pav54m5J1xuZGF0ZTogJzIwMTkt
-MDgtMDgnXG4iLCJoaXN0b3J5IjpbLTU2MDczNDU5NywxMzAxOT
-A5NzIyLDIxNDc0OTM3NiwtMTU5MjE5MTQzMiwtNTI3NTgyNDMx
-LC0xNDE4NTg0Nzc1LC0xMjQzMDU5MDA0LDUzNjAyMzUwLDk4OD
-QxNDIxMCwtNDUyMzU4NTE0LC0xNTA4ODk3NDMwLC02MTM0MTE2
-NzQsMTI3NTczNTE0OV19
+MDgtMDgnXG4iLCJoaXN0b3J5IjpbNjcyODkxNzU3LDEzMDE5MD
+k3MjIsMjE0NzQ5Mzc2LC0xNTkyMTkxNDMyLC01Mjc1ODI0MzEs
+LTE0MTg1ODQ3NzUsLTEyNDMwNTkwMDQsNTM2MDIzNTAsOTg4ND
+E0MjEwLC00NTIzNTg1MTQsLTE1MDg4OTc0MzAsLTYxMzQxMTY3
+NCwxMjc1NzM1MTQ5XX0=
 -->
