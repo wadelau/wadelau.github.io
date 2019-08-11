@@ -22,8 +22,7 @@ According to JSON homepage, almost every language has at least one available and
 ---
 Hanjst reads data in JSON from the client-side page.
 
-JSON is a built-in object in JavaScript which is one of three components of HTML, CSS and JavaScript in front- 
-
+JSON is a built-in object in JavaScript which is one of three components of HTML, CSS and JavaScript in front-end. So it is quite friendly for Hanjst to retrieve data from `Hanjstjsondata`.
 
 
 ---
@@ -41,6 +40,6 @@ JSON is a built-in object in JavaScript which is one of three components of HTML
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDc2MzAxNSw3Njk3NjMyNTAsLTE3Mz
-EwNzU0NCwxMzU1MzcwMjM2XX0=
+eyJoaXN0b3J5IjpbNDM3MjM2MjEyLDc2OTc2MzI1MCwtMTczMT
+A3NTQ0LDEzNTUzNzAyMzZdfQ==
 -->
