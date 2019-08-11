@@ -10,7 +10,7 @@ We have integrated Smarty in GWA2PHP and it works very well. When we have develo
 
 Unfortunately, Smarty4J is a version of about 7-8 years ago, and has not been updated since then, also it is only compatible with the syntax of Smarty 2, which heavily limits the further development of GWA2Java.
 
-So we have committed to make this switch happen. Hanjst will be our default template engine in GWA2 ecosystem.
+So we have committed to make this switch happen. Hanjst will be our default template engine in GWA2 ecosystem since then.
 
 Regarding to backend or  server-side for Hanjst, it is only one task to do. The task in server-side is to output a group of key-value pairs in JSON format to client-side.
 
@@ -64,7 +64,31 @@ A template file looks like this.
 
 ```
 
+If all of these work well, we finally generate a pure HTML like this.
 
+```html
+...
+<!-- header -->
+{$innerTpl}
+<!-- header,end -->
+<!-- news list -->
+<ul>
+{foreach $newsList as $n}
+	<li>
+	{foreach $newsList[$n] as $p}
+		<span>{$p}: {$newsList[$n][$p]}</span>
+	{/foreach}
+	</li>
+{foreachelse}
+	<li>No data.</li>
+{/foreach}
+</ul>
+<!-- news list, end -->
+<div>
+	<p>Server Time:{$serverTime}</p>
+</div>
+....
+```
 
 
 ### Hanjst Class for Server-side
@@ -90,5 +114,5 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzA1MzQ5MiwxNzIwNTQ2NDk2XX0=
+eyJoaXN0b3J5IjpbLTc5MjY5NjAwOSwxNzIwNTQ2NDk2XX0=
 -->
