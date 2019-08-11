@@ -2,7 +2,7 @@
 ## Hanjst Class
 ### Backend Overview
 ---
-We have switched our default template engine from Smarty to Hanjst.
+We have switched our default template engine from Smarty to Hanjst for.
 
 Smarty itself is good enough and strong enough to meet the requirements of the production environment, which is one of the reasons Smarty won in our candidates list before. Smarty's concise expression is very close to natural language, making it easy to learn and easy to use. Advanced applications of Smarty keep this simplicity, so the learning curve is not steep.
 
@@ -113,5 +113,6 @@ dddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTg3NDk3MjcsMTcyMDU0NjQ5Nl19
+eyJoaXN0b3J5IjpbLTI2MTA4MDMxMCwtMTI1ODc0OTcyNywxNz
+IwNTQ2NDk2XX0=
 -->
