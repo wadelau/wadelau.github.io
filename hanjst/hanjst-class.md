@@ -119,7 +119,8 @@ A simple flow chat shows the process here.
 	--> **Hanjst client-side**
 	--> Final HTML (eg08111104)
 
-There is a Hanjst.java or Hanjst.class.jsp for Java, and similarly, Hanjst.class.php for PHP, so do 
+There is a Hanjst.java or Hanjst.class.jsp for Java, and similarly, Hanjst.class.php for PHP, so as to Perl, Python and so on.
+ 
 
 ---
 
@@ -138,6 +139,6 @@ There is a Hanjst.java or Hanjst.class.jsp for Java, and similarly, Hanjst.class
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzc5ODU1MzIsNzI1ODQwNTgsMTcwOT
+eyJoaXN0b3J5IjpbLTEwNjg5MzQ4ODcsNzI1ODQwNTgsMTcwOT
 EzMjE5NCwtMTI1ODc0OTcyNywxNzIwNTQ2NDk2XX0=
 -->
