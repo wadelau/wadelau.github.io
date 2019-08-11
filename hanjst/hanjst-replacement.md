@@ -100,13 +100,20 @@ Given we have the template lines as below. (eg08111220)
 
 The raw template lines will be replaced in server-side with actual paths of the web application.
 
+```html
+...
+<link rel="stylesheet" href="/path-to-view/css/style.css" />
+...
+<img src='/path-to/view/images/myfav.png' alt=""/>
+
+```
 
 
 
 ### Multiple Template Versions
 ---
 
-dd
+d
 
 ---
 
@@ -125,6 +132,6 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3ODgxNTgsNDYwNTgyMDYzLDE1NjY4MT
-A3MTcsLTgyNjYxNzA3NF19
+eyJoaXN0b3J5IjpbLTEzNjAzMTY5MzAsNDYwNTgyMDYzLDE1Nj
+Y4MTA3MTcsLTgyNjYxNzA3NF19
 -->
