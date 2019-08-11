@@ -98,7 +98,7 @@ Given we have the template lines as below. (eg08111220)
 
 ```
 
-The raw template lines will be replaced in server-side with actual paths of the web application.
+The raw template lines will be replaced in server-side with actual paths of the web application. (eg08112313)
 
 ```html
 ...
@@ -153,6 +153,6 @@ This will be investigated with great details in following sections, i.e., [Searc
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTA0MTA0LDc1MTQ3MjIxOCw0NjA1OD
-IwNjMsMTU2NjgxMDcxNywtODI2NjE3MDc0XX0=
+eyJoaXN0b3J5IjpbMTg0NDM3Mjc3OCw3NTE0NzIyMTgsNDYwNT
+gyMDYzLDE1NjY4MTA3MTcsLTgyNjYxNzA3NF19
 -->
