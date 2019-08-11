@@ -28,7 +28,9 @@ The following example shows that we place an placeholder in the position where w
 </body>
 </html>
 ```
-Here `HANJST_JSON_DATA` is the placeholder where Hanjst will replace it with actual JSON data fro 
+Here `HANJST_JSON_DATA` is the placeholder where Hanjst will replace it with actual JSON data in server-side. This can be seen in eg08111105 in previous section.
+
+
 
   
 
@@ -59,6 +61,6 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Njg4MDU3NCwxNTY2ODEwNzE3LC04Mj
-Y2MTcwNzRdfQ==
+eyJoaXN0b3J5IjpbLTE5NzI4NjcwNjgsMTU2NjgxMDcxNywtOD
+I2NjE3MDc0XX0=
 -->
