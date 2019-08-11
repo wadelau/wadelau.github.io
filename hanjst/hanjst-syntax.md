@@ -61,7 +61,7 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 {\$foo.\$bar.\$car}
 >display a multiple dimension array
 
-*2. Declaring**
+2. Declaring
 ---
 {\$i=0}
 {\$s='abc'}
@@ -150,5 +150,5 @@ For HTML part,
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDI4Nzc5NiwtMjAwODI4NTAxMl19
+eyJoaXN0b3J5IjpbLTY5MjI5MzUyNiwtMjAwODI4NTAxMl19
 -->
