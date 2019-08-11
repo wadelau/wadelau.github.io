@@ -2,7 +2,7 @@
 ## Basic Syntax
 ### Hello World
 
-Let's make a start with "Hello World".
+Let's make a start with "Hello World". (eg08092010)
 
 ```html
 <html>
@@ -150,5 +150,5 @@ For HTML part,
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MjI5MzUyNiwtMjAwODI4NTAxMl19
+eyJoaXN0b3J5IjpbLTIyMTA5NTk1MywtMjAwODI4NTAxMl19
 -->
