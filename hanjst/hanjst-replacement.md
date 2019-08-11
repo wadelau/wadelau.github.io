@@ -77,7 +77,7 @@ For instance, the template contents (eg08111146) in server-side will be replaced
 </html>
 ```
 
-Hanjst client-side will take the row template contents (eg08111147) and try to parse them into pure and final HTML elements, which is what we have seen in [(eg08111104)](./hanjst-class) in previous section.
+Hanjst client-side will take the raw template contents (eg08111147) and try to parse them into pure and final HTML elements, which is what we have seen in [(eg08111104)](./hanjst-class) in previous section.
 
 
 
@@ -110,6 +110,6 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwNTgyMDYzLDE1NjY4MTA3MTcsLTgyNj
-YxNzA3NF19
+eyJoaXN0b3J5IjpbMzc5MzE4OTQ1LDQ2MDU4MjA2MywxNTY2OD
+EwNzE3LC04MjY2MTcwNzRdfQ==
 -->
