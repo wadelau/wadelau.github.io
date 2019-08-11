@@ -34,7 +34,7 @@ Here `HANJST_JSON_DATA` is the placeholder where Hanjst will replace it with act
 
 This is the very first or raw form of Hanjst template file which has not yet handled by Hanjst server-side. It will present another look after the template file has been replaced several times in server-side.
 
-For instance, the template contents (eg08111146) in server-side will be replaced as below and sent to the client-side, that is to say, what we see in client-side. (eg08111149)
+For instance, the template contents (eg08111146) in server-side will be replaced as below and sent to the client-side, that is to say, what we see in client-side. (eg08111147)
 
 ```html
 <html>
@@ -43,7 +43,22 @@ For instance, the template contents (eg08111146) in server-side will be replaced
 ...
 <!-- Hanjst codes bgn-->
 <div id="Hanjstjsondata" style="display:none;">
-	HANJST_JSON_DATA
+	{
+"innerTpl":"<header class=\"navi\"><a href=\"/\">Homepage</a></header>",
+"serverTime":"2019-08-11 01:53:29",
+"newsList":[
+	{
+		"title":"News-Title-1019",
+		"id":1019
+	},
+	{
+		"title":"News-Title-2019",
+		"id":2019
+	}
+],
+"mod":"news",
+"act":"list"
+}
 </div>
 <script type="text/javascript">
     window.Hanjst = {
@@ -89,6 +104,6 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTI5NzA4MDksMTU2NjgxMDcxNywtOD
-I2NjE3MDc0XX0=
+eyJoaXN0b3J5IjpbOTMzMDMwMTczLDE1NjY4MTA3MTcsLTgyNj
+YxNzA3NF19
 -->
