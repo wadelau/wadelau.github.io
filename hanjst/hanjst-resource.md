@@ -33,7 +33,16 @@ Hanjst will replace the static and relative path of the image with `viewdir` whe
 
 ### Scripts
 ---
-Functions....
+#### JavaScript Paths
+Scripts paths are same with other resources like images, CSS.
+See the above section for details.
+
+What's needed to be mentioned are JavaScript functions places and the loading of third-party library.
+
+#### Functions Places
+JavaScript functions in Hanjst are different with their places.
+
+A fucnt
 exec Before or after,....
 loaded from innerTpl...
 
@@ -63,6 +72,6 @@ Images are recommended in innerTpl, not in main template file as the template co
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Mjg1NjcxNSwxMTk4MTI5NjcxLDE5OT
-gwMTE3NDcsLTE3NTc0ODE3MTldfQ==
+eyJoaXN0b3J5IjpbLTQxODQ3MjYxOSwtMzYyODU2NzE1LDExOT
+gxMjk2NzEsMTk5ODAxMTc0NywtMTc1NzQ4MTcxOV19
 -->
