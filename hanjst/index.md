@@ -4,7 +4,7 @@
 
 ![Hanjst Logo](http://ufqi.com/blog/wp-content/uploads/2019/06/hanjst-logo.201901.jpg)
 
-**Hanjst** is an **Han** **J**ava**S**cript **T**emplate language and engine for HTML and Web.
+**Hanjst** is an **Han** **J**ava**S**cript **T**emplate   language and engine for HTML and Web.
 
 "**汉吉斯特**" in Chinese.
 
@@ -31,7 +31,7 @@
 ### [Scripts](/hanjst/hanjst-resource)
 #### Third-party Libraries
 ### [Images](/hanjst/hanjst-resource)
-## Caching
+## [Caching](/hanjst/hanjst-cache)
 ## A Ready-to-go
 ## Search Engine Optimization
 ### Title, Description and Keyword
@@ -44,6 +44,6 @@
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDk0NzM4LC0yMDcwNzM2MzI5LDIxMj
-QzNjE5MDAsMTc1MTE0MzQzNSw4NTEwNDg2MTNdfQ==
+eyJoaXN0b3J5IjpbLTU1NzUzMjA1MiwtMjA3MDczNjMyOSwyMT
+I0MzYxOTAwLDE3NTExNDM0MzUsODUxMDQ4NjEzXX0=
 -->
