@@ -77,7 +77,7 @@ From the point of view of [GWA2](/gwa2/index), we would need a template engine t
 
 That's to say, we cannot use Smarty for GWA2 in PHP and Velocity for GWA2 in Java.
 
-There do have a few of template languages and engines which meet the desirable requirements, but most of them are proprietary software sets and cannot be used in open source as GWA2.
+There does have a few of template languages and engines which meet the desirable requirements, but most of them are proprietary software sets and cannot be used in open source as GWA2.
 
 Therefore, the searching space left for us is limited and an encouraged option is to create a new template language and engine.     
  
@@ -95,7 +95,7 @@ Combining all those considerations and  bearing expected features and functions 
     
 -   ....
 
-All in one, we believe that Hanjst would be the final JavaScript-based template language, and it has all functions which needed in client-side run-time. Also, any further "reinvent of the wheel" in this field would be meaningless. 
+All in one, we believe that Hanjst would be the final JavaScript-based template language, and it has all functions which needed in client-side run-time. Also, any further `"reinvent of the wheel"` in this field would be meaningless. 
 
 We have integrated Smarty in GWA2PHP and it works very well before. When we have developed GWA2Java, we find that Smarty fans on the Internet had moved Smarty to the Java version, Smarty4J, so we also integrated Smarty4J consequently.
 
@@ -116,10 +116,10 @@ So we have committed to make this switch happen. Hanjst will be our default temp
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTc1MTAyNSwxMjA4NzY2OTc2LDE5Mz
-czNjU1OTcsLTEwNjAwMzU0NzQsLTc0OTY3NzExNywtMTgwMTY1
-MzI0MSwtNDYxMzk4MDQxLDE4MzUyMjcwMTAsNzEyMDY1MzA5LC
-0yMzQzNjQ3NDAsNTM1MTUyMjAwLC04NDE1MjI5NTgsMTUyNDAy
-ODgsLTQ3NTI2MTg4MSwxMjA5Njc3ODg1LDgwMjA4NTgzNCwtNj
-k4NTAxODc2LC05MzMzMDQ0MzNdfQ==
+eyJoaXN0b3J5IjpbMzY4MTA5OTExLDEyMDg3NjY5NzYsMTkzNz
+M2NTU5NywtMTA2MDAzNTQ3NCwtNzQ5Njc3MTE3LC0xODAxNjUz
+MjQxLC00NjEzOTgwNDEsMTgzNTIyNzAxMCw3MTIwNjUzMDksLT
+IzNDM2NDc0MCw1MzUxNTIyMDAsLTg0MTUyMjk1OCwxNTI0MDI4
+OCwtNDc1MjYxODgxLDEyMDk2Nzc4ODUsODAyMDg1ODM0LC02OT
+g1MDE4NzYsLTkzMzMwNDQzM119
 -->
