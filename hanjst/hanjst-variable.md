@@ -131,7 +131,7 @@ Here is an example to show the chain.
 <!-- output: 3*5 * 3*5 = 225 -->
 
 {$str = "Hello World!"}
-<!-- display a str firstly shortening,  -->
+<!-- display a str firstly shortening, then to lowercase -->
 {$str.substring(0,5).toLowerCase()}
 <!-- output: hello -->
 ```
@@ -151,7 +151,7 @@ Here is an example to show the chain.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzYxNTU1OCw3MTQ4OTAxNTcsMTYyND
-c2OTQzLDE2NTU3NjQyNzEsMTMzODQ2OTUyNiwtNzI2ODQ2MTU0
-LDEzMTQxMzU0NjQsODUxMDQ4NjEzXX0=
+eyJoaXN0b3J5IjpbLTEwMzg4NTEyMDUsNzE0ODkwMTU3LDE2Mj
+Q3Njk0MywxNjU1NzY0MjcxLDEzMzg0Njk1MjYsLTcyNjg0NjE1
+NCwxMzE0MTM1NDY0LDg1MTA0ODYxM119
 -->
