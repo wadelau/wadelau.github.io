@@ -63,9 +63,9 @@ myTime();
 </body>
 </html>
 ```
-In the example, the function myTime will be executed twice as the first time it is called when current browser is rendering this page, and the second time it is called by Hanjst.
+In the example, the function `myTime` will be executed twice as the first time it is called when current browser is rendering this page, and the second time it is called by Hanjst.
 
-However, if we relocate myTime from current place to a place after Hanjst, then myTime will be triggered  only once.  The revised example lists as below. (eg08122043)
+However, if we relocate `myTime` from current place to a place after Hanjst, then myTime will be triggered  only once.  The revised example lists as below. (eg08122043)
 
 ```html
 <html>
@@ -88,17 +88,45 @@ myTime();
 
 It needs be careful to load scripts from inner or embedded templates. The scripts may include pure JavaScript or extra resource JavaScript file.
 
-For the first kind of pure JavaScript, it is easy to impo
+For the first kind of pure JavaScript, it is easy to import as a part of current page.
+
+For the second kind of extra resource JavaScript file, paths remedy work is necessary to make corrections on those extra resource JavaScript files.
+See the very first part of this page for details on paths.
 
 #### Third-party library
 ---
-Conflicts....
-Async....
+Third-party library will work well together with Hanjst. 
+
+There are some practical guides for including or import third-party libraries.
+
+JavaScript codes which will be run only once after Hanjst's work, should be placed below and after Hanjst. And also please keep in mind:
+> `use strict` mode, add comma for each sentence;
+>src of Objects should be loaded in sync mode, e.g. jquery.min.js;
+>invokes with Objects should be loaded in async mode, e.g. project.base.js;
 
 
 ### Images
 ---
 Images are recommended in innerTpl, not in main template file as the template contents firstly will be rendered by current browser itself. This will cause `404` errors due to that the paths of images are not well-organized before Hanjst is being executed.
+
+This example below shows the demo. (eg08122054)
+
+```html
+<html>
+<body>
+...
+<div>
+	<!-- acceptable -->
+	<img src="images/defaultfav.png" alt=""/>
+	<!-- acceptable, but not recommended -->
+	<img src="images/{$userFav}" alt="userFav"/>
+</div>
+....
+<script type="text/javascript" src="Hanjst.js"></script>
+...
+</body>
+</html>
+```
 
 
 ---
@@ -112,10 +140,10 @@ Images are recommended in innerTpl, not in main template file as the template co
 
 [Back to Top](/hanjst/hanjst-resource)
 
-[Previous](./data-in-json) ... [Next](./)
+[Previous](./data-in-json) ... [Next](./hanjst-cache)
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTkwMDk2MSwtMzYyODU2NzE1LDExOT
+eyJoaXN0b3J5IjpbLTY4OTY3MTY0MCwtMzYyODU2NzE1LDExOT
 gxMjk2NzEsMTk5ODAxMTc0NywtMTc1NzQ4MTcxOV19
 -->
