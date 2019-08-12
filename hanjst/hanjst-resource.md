@@ -44,7 +44,7 @@ JavaScript functions in Hanjst are different with their places.
 
 A function defined in the current main template and called before the main function of Hanjst, will be triggered again during the process of Hanjst parsing work. So if the function has been restricted with run-only-once, it is better to place this function after Hanjst main function.
 
-Here comes an example to make clear demo.
+Here comes an example to make clear demo. (eg08122040)
 
 ```html
 <html>
@@ -61,9 +61,9 @@ myTime();
 <script type="text/javascript" src="Hanjst.js"></script>
 ...
 </body>
-<
+</html>
 ```
-
+In the example, the function myTime will be executed twice as the first time is called when current browser red
 
 loaded from innerTpl...
 
@@ -93,6 +93,6 @@ Images are recommended in innerTpl, not in main template file as the template co
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwMzQ4NDA2LC0zNjI4NTY3MTUsMTE5OD
-EyOTY3MSwxOTk4MDExNzQ3LC0xNzU3NDgxNzE5XX0=
+eyJoaXN0b3J5IjpbLTE1MjEyMzAxMjMsLTM2Mjg1NjcxNSwxMT
+k4MTI5NjcxLDE5OTgwMTE3NDcsLTE3NTc0ODE3MTldfQ==
 -->
