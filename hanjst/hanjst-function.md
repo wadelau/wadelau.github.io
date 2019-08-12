@@ -159,6 +159,8 @@ This template lines will yield an output as below.
 </span>
 ```
 
+This feature mainly comes from the idea of some templates working only in server-side. And also i
+
 ---
 
 **4. `{while}`...`{whileelse}`**
@@ -213,7 +215,7 @@ The expected output will be shown as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTE2MzUyMiwtMTc4NDAxNTg4NywtMT
-A5MjA1Mjk0MywxNjU5NDQxNDk2LDcyMjU2NDcwMSwtNDk4OTg5
-OTk3LC0xMzE3MTU4NDA2LC0xMDc3MDgwOTIwXX0=
+eyJoaXN0b3J5IjpbLTEwNjIzNzc2NTcsLTE3ODQwMTU4ODcsLT
+EwOTIwNTI5NDMsMTY1OTQ0MTQ5Niw3MjI1NjQ3MDEsLTQ5ODk4
+OTk5NywtMTMxNzE1ODQwNiwtMTA3NzA4MDkyMF19
 -->
