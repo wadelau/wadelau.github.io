@@ -42,7 +42,7 @@ What's needed to be mentioned are JavaScript functions places and the loading of
 #### Functions Places
 JavaScript functions in Hanjst are different with their places.
 
-A fucnt
+A function defined and called before the main function of Hanjst, will be triggered again during the process of Hanjst parsing work. So if the function has been restricted with run-only-once, the function 
 exec Before or after,....
 loaded from innerTpl...
 
@@ -72,6 +72,6 @@ Images are recommended in innerTpl, not in main template file as the template co
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODQ3MjYxOSwtMzYyODU2NzE1LDExOT
-gxMjk2NzEsMTk5ODAxMTc0NywtMTc1NzQ4MTcxOV19
+eyJoaXN0b3J5IjpbLTI4ODY1NTk3LC0zNjI4NTY3MTUsMTE5OD
+EyOTY3MSwxOTk4MDExNzQ3LC0xNzU3NDgxNzE5XX0=
 -->
