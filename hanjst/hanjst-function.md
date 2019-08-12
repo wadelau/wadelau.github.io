@@ -159,7 +159,7 @@ This template lines will yield an output as below.
 </span>
 ```
 
-This feature mainly comes from the idea of some templates working only in server-side. And also i
+This feature mainly comes from the idea of some templates working only in server-side. And also it advances itself over most of other templates in client-side, i.e., JavaScript-based templates engines. 
 
 ---
 
@@ -215,7 +215,7 @@ The expected output will be shown as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjIzNzc2NTcsLTE3ODQwMTU4ODcsLT
-EwOTIwNTI5NDMsMTY1OTQ0MTQ5Niw3MjI1NjQ3MDEsLTQ5ODk4
-OTk5NywtMTMxNzE1ODQwNiwtMTA3NzA4MDkyMF19
+eyJoaXN0b3J5IjpbNjM2NTg2OTUzLC0xNzg0MDE1ODg3LC0xMD
+kyMDUyOTQzLDE2NTk0NDE0OTYsNzIyNTY0NzAxLC00OTg5ODk5
+OTcsLTEzMTcxNTg0MDYsLTEwNzcwODA5MjBdfQ==
 -->
