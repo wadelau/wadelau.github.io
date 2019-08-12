@@ -52,11 +52,16 @@ Here comes an example to make clear demo.
 <body>
 ....
 <script type="text/javascript">
-function myFunc(){
-	return (().getT);
+function myTime(){
+	return ((new Date()).getTime());
 }
+myTime();
 </script>
-
+....
+<script type="text/javascript" src="Hanjst.js"></script>
+...
+</body>
+<
 ```
 
 
@@ -88,6 +93,6 @@ Images are recommended in innerTpl, not in main template file as the template co
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxOTIwMDYxLC0zNjI4NTY3MTUsMTE5OD
+eyJoaXN0b3J5IjpbNjIwMzQ4NDA2LC0zNjI4NTY3MTUsMTE5OD
 EyOTY3MSwxOTk4MDExNzQ3LC0xNzU3NDgxNzE5XX0=
 -->
