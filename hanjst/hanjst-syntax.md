@@ -73,14 +73,22 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 >define a variable
 
 {\$i++}
+
 {\$i+=2}
 >add 1, or 2 to variable i
 
 {\$myArr=[]}
+
+{\$myArr[0]=1}
 >define an array
+>and set an element
 
 {$myList=new Object()}
+
+{$myList['key']='value'}
 >define an object
+>and set a key
+
 
 ---
 ### Functions
@@ -155,6 +163,6 @@ For HTML part,
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5ODUyMDYyLDEwMDU0MjUyNDUsLTIwMD
-gyODUwMTJdfQ==
+eyJoaXN0b3J5IjpbLTc2NjA3MDI2MSw4Mjk4NTIwNjIsMTAwNT
+QyNTI0NSwtMjAwODI4NTAxMl19
 -->
