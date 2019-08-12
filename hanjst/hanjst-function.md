@@ -159,7 +159,9 @@ This template lines will yield an output as below.
 </span>
 ```
 
-This feature mainly comes from the idea of some templates working only in server-side. And also it advances itself over most of other templates in client-side, i.e., JavaScript-based templates engines. 
+This feature mainly comes from the idea of some templates working only in server-side. And also it out-performance most of other templates in client-side, i.e., JavaScript-based templates engines. 
+
+That is to say, any other JavaScript-based template language which inherits the feature of block-based mode is unable to insert a template expression inside an HTML element.
 
 ---
 
@@ -215,7 +217,7 @@ The expected output will be shown as below.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2NTg2OTUzLC0xNzg0MDE1ODg3LC0xMD
-kyMDUyOTQzLDE2NTk0NDE0OTYsNzIyNTY0NzAxLC00OTg5ODk5
-OTcsLTEzMTcxNTg0MDYsLTEwNzcwODA5MjBdfQ==
+eyJoaXN0b3J5IjpbMTUyMjUxNzUwOSwtMTc4NDAxNTg4NywtMT
+A5MjA1Mjk0MywxNjU5NDQxNDk2LDcyMjU2NDcwMSwtNDk4OTg5
+OTk3LC0xMzE3MTU4NDA2LC0xMDc3MDgwOTIwXX0=
 -->
