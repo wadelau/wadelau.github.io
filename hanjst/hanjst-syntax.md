@@ -40,7 +40,7 @@ Hanjst template variables start with the **$dollar** sign as default. They can c
 
 Some other template languages also defined a variable in this way, e.g. [PHP](php.net) or [Smarty](smarty.net).
 
-1. Displaying
+#### Displaying
 ---
 
 {$foo}
@@ -65,7 +65,7 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 >display a multiple dimension array
 
 
-2. Declaring
+#### Declaring
 ---
 {\$i=0}
 
@@ -155,5 +155,6 @@ For HTML part,
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTQyNTI0NSwtMjAwODI4NTAxMl19
+eyJoaXN0b3J5IjpbODI5ODUyMDYyLDEwMDU0MjUyNDUsLTIwMD
+gyODUwMTJdfQ==
 -->
