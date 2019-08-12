@@ -115,9 +115,13 @@ Furthermore, we have multiple versions for the web application, e.g. desktop ver
 If so, we have to set every sub directory for each version of the web application. (eg08111227)
 
 `view/desktop`
+
 `view/mobile`
+
 `view/pad`
+
 `view/android`
+
 `view/iphone`
 
 Therefore, the template lines in (eg08111220) will be further replaced with actual view directory and its corresponding sub directory.
@@ -148,11 +152,11 @@ This will be investigated with great details in following sections, i.e., [Searc
 
 [Back to Top](/hanjst/hanjst-function-replacement)
 
-[Previous](./hanjst-class) ... [Next](./)
+[Previous](./hanjst-class) ... [Next](./hanjst-resource)
 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NDM3Mjc3OCw3NTE0NzIyMTgsNDYwNT
-gyMDYzLDE1NjY4MTA3MTcsLTgyNjYxNzA3NF19
+eyJoaXN0b3J5IjpbODA0MDAwMDU5LDc1MTQ3MjIxOCw0NjA1OD
+IwNjMsMTU2NjgxMDcxNywtODI2NjE3MDc0XX0=
 -->
