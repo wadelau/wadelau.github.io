@@ -33,7 +33,7 @@ The **copyright_year** will be set dynamically to the current year.
 
 Hanjst allows embedded template sentences which can be mixed with a normal HTML element.
 However it is error-prone that the confusions raised by the chars of < (less than) and > (greater than).
-To figure it out, we designate "lt" (less than) to represent <, so as "gt" for >. 
+To figure it out, we designate "lt" (less than) to represent <, so as "gt" for >, and "eq" for "=". 
 
 >
 >Hanjst includeScript:	if(1==1){.....
@@ -59,7 +59,7 @@ Hanjst records its cost time from the very beginning, then at the end of all wor
 
 In the [demo page of Hanjst]([https://ufqi.com/dev/hanjst/](https://ufqi.com/dev/hanjst/)), the log shows that it has spent 0.017 second to parse all the template sentences, i.e., 17 milliseconds.
 
- It is clear and believable that the parse time should be less and less with the rapid growth of computing in client-side. Therefore, Hanjst follows adhere the trends of grid-computing or edge-computing.  
+ It is clear and believable that the parse time should be less and less with the rapid growth of computing in client-side. Therefore, Hanjst follows adherently the trends of grid-computing or edge-computing.  
 
 
 **2. Warnings**
@@ -104,7 +104,7 @@ for(var $news in $newsContentList){
 ```
 Similar compatible measures include **foreach**, **foreachelse**, **whileelse**. **forelse**. Because these keywords are not built-in keywords in pure JavaScript source codes.
 
-These keywords and their usages will be discussed in detail in following sections. 
+These keywords and their usages will be discussed in detail in the following sections. 
 
 
 **3. Errors**
@@ -124,7 +124,7 @@ These keywords and their usages will be discussed in detail in following section
 
 When Hanjst encounters a syntax error, it throws a readable exception code description to form a traceable error report.
 
-Based on these error message specific to the line number, the developers can find the error location and make corrections as fast as possible. As shown above, it is indicated that when the template engine performs parsing, it has been found that a variable such as $myAds2 which is undefined on line 405 is used without being initialized prior to being called, so an error is reported.
+Based on these error message specific to the line number, the developers can find the error location and make corrections as fast as possible. As shown above, it is indicated that when the template engine performs parsing, it has been found that a variable such as `$myAds2` which is undefined on `line 405` is used without being initialized prior to being called, so an error is reported.
 
 Attention! It is worthy to be noted! Hanjst turns on JavaScript's Strict mode, which doesn't allow undefined variables!
 
@@ -141,7 +141,7 @@ Attention! It is worthy to be noted! Hanjst turns on JavaScript's Strict mode, w
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3Nzg3MDIsLTE1MjYzOTcyMjAsLTEwOT
-g1Mjc5MDgsLTU2NDI4MjQsMzk5OTU4OTEwLC0xMDA0MzQ0NjI2
-LDIxODcwMTk1Niw3NzU4MTQ5MF19
+eyJoaXN0b3J5IjpbLTEwMzkxMjI2NTUsMzE3Nzg3MDIsLTE1Mj
+YzOTcyMjAsLTEwOTg1Mjc5MDgsLTU2NDI4MjQsMzk5OTU4OTEw
+LC0xMDA0MzQ0NjI2LDIxODcwMTk1Niw3NzU4MTQ5MF19
 -->
