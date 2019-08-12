@@ -63,9 +63,29 @@ myTime();
 </body>
 </html>
 ```
-In the example, the function myTime will be executed twice as the first time is called when current browser red
+In the example, the function myTime will be executed twice as the first time it is called when current browser is rendering this page, and the second time it is called by Hanjst.
 
-loaded from innerTpl...
+However, if we relocate myTime from current place to a place after Hanjst, then myTime will be triggered  only once.  The revised example lists as below. (eg08122043)
+
+```html
+<html>
+...
+<body>
+....
+<script type="text/javascript" src="Hanjst.js"></script>
+...
+<script type="text/javascript">
+function myTime(){
+	return ((new Date()).getTime());
+}
+myTime();
+</script>
+</body>
+</html>
+```
+
+#### Scripts from Inner Templates
+
 
 #### Third-party library
 ---
@@ -93,6 +113,6 @@ Images are recommended in innerTpl, not in main template file as the template co
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjEyMzAxMjMsLTM2Mjg1NjcxNSwxMT
-k4MTI5NjcxLDE5OTgwMTE3NDcsLTE3NTc0ODE3MTldfQ==
+eyJoaXN0b3J5IjpbLTUxMzQxOTY0MSwtMzYyODU2NzE1LDExOT
+gxMjk2NzEsMTk5ODAxMTc0NywtMTc1NzQ4MTcxOV19
 -->
