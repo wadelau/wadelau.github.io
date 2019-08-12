@@ -93,7 +93,7 @@ Examples are demonstrated below.
 <!-- output: Hello -->
 
 {$num=123.4}
-<!-- display  -->
+<!-- display a int num -->
 {$parseInt($num)}
 <!-- output: 123 -->
 
@@ -126,10 +126,12 @@ Here is an example to show the chain.
 ```html
 {$a=3}
 {$b=5}
+<!-- display return of func embedded func -->
 {$myFunc($myFunc($a, $b), $myFunc($a, $b))}
 <!-- output: 3*5 * 3*5 = 225 -->
 
 {$str = "Hello World!"}
+<!-- display a str firstly shortening,  -->
 {$str.substring(0,5).toLowerCase()}
 <!-- output: hello -->
 ```
@@ -149,7 +151,7 @@ Here is an example to show the chain.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDMzNjc1MSw3MTQ4OTAxNTcsMTYyND
+eyJoaXN0b3J5IjpbLTYyNzYxNTU1OCw3MTQ4OTAxNTcsMTYyND
 c2OTQzLDE2NTU3NjQyNzEsMTMzODQ2OTUyNiwtNzI2ODQ2MTU0
 LDEzMTQxMzU0NjQsODUxMDQ4NjEzXX0=
 -->
