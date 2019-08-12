@@ -70,7 +70,7 @@ Depends on whether a variable is global or local, it can be declared in any plac
 ```
 #### Conflicts with Third Parties
 
-As shown above, Hanjst will parse all keys in JSON data into variable names in current JavaScript run-time. There is possible that too many global variables will make conflicts with third parties.
+As shown above, Hanjst will parse all keys in JSON data from server-side into variable names in current JavaScript run-time. It is possible that too many global variables will make conflicts with third parties.
 
 For example, the $dollar sign, the single sign is set to a global variable designated into jQuery. If a page loaded both jQuery and Hanjst, potential conflicts may exist.
 
@@ -88,10 +88,12 @@ Examples are demonstrated below.
 
 ```html
 {$str='Hello World!'}
+<!-- display shortening str -->
 {$str.substring(0,5)}
 <!-- output: Hello -->
 
 {$num=123.4}
+<!-- display  -->
 {$parseInt($num)}
 <!-- output: 123 -->
 
@@ -147,7 +149,7 @@ Here is an example to show the chain.
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0ODkwMTU3LDE2MjQ3Njk0MywxNjU1Nz
-Y0MjcxLDEzMzg0Njk1MjYsLTcyNjg0NjE1NCwxMzE0MTM1NDY0
-LDg1MTA0ODYxM119
+eyJoaXN0b3J5IjpbMjEyNDMzNjc1MSw3MTQ4OTAxNTcsMTYyND
+c2OTQzLDE2NTU3NjQyNzEsMTMzODQ2OTUyNiwtNzI2ODQ2MTU0
+LDEzMTQxMzU0NjQsODUxMDQ4NjEzXX0=
 -->
