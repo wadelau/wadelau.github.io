@@ -86,6 +86,9 @@ myTime();
 
 #### Scripts from Inner Templates
 
+It needs be careful to load scripts from inner or embedded templates. The scripts may include pure JavaScript or extra resource JavaScript file.
+
+For the first kind of pure JavaScript, it is easy to impo
 
 #### Third-party library
 ---
@@ -113,6 +116,6 @@ Images are recommended in innerTpl, not in main template file as the template co
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzQxOTY0MSwtMzYyODU2NzE1LDExOT
+eyJoaXN0b3J5IjpbMTk4MTkwMDk2MSwtMzYyODU2NzE1LDExOT
 gxMjk2NzEsMTk5ODAxMTc0NywtMTc1NzQ4MTcxOV19
 -->
