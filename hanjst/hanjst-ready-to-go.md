@@ -52,12 +52,13 @@ $newsList = array(
 	array("id"=>56, "title"=>"Hanjst has outpaced all other jst.")
 );
 array_push($respData, $newsList);
-$jsonData = json_encode($);
+$jsonData = json_encode($respData);
 
 //- template contents
 $tplFile = "news.html";
+$jsonDataPlaceHolder = "HANJST_JSON_DATA";
 $tplContent = file_get_contents($tplFile);
-
+$tplContent = str_replace($jsonDataPlaceHolder, $jsonData, $tp);
 ```
 
 3. Raw Template File
@@ -92,5 +93,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzNTI3NDI2XX0=
+eyJoaXN0b3J5IjpbODkyMjY1MjMyXX0=
 -->
