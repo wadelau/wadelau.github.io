@@ -22,6 +22,8 @@
 ## [Functions](/hanjst/hanjst-function)
 ### [Built-in Functions](/hanjst/hanjst-function)
 ### [Custom Functions](/hanjst/hanjst-function-2)
+## Hanjst Run in Server-side
+### 
 
 # Hanjst for Back-end Developers
 ## [Hanjst Class](/hanjst/hanjst-class) 
@@ -38,6 +40,7 @@
 ### [Title, Description and Keyword](/hanjst/hanjst-seo)
 ### [Links](/hanjst/hanjst-seo)
 
+
 ---
 [Back to top](index)
 
@@ -45,8 +48,8 @@
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzc5MTcwMTgsLTE0MTczNzI3MjcsMj
-A3NDE0OTA3MywtMjY3NjgzNTE1LC01NTc1MzIwNTIsLTIwNzA3
-MzYzMjksMjEyNDM2MTkwMCwxNzUxMTQzNDM1LDg1MTA0ODYxM1
-19
+eyJoaXN0b3J5IjpbLTcxMzY5MTczMCwtMTA3NzkxNzAxOCwtMT
+QxNzM3MjcyNywyMDc0MTQ5MDczLC0yNjc2ODM1MTUsLTU1NzUz
+MjA1MiwtMjA3MDczNjMyOSwyMTI0MzYxOTAwLDE3NTExNDM0Mz
+UsODUxMDQ4NjEzXX0=
 -->
