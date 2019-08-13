@@ -44,7 +44,13 @@ Copy these lines and as a file: news.html .
 2. Hanjst Server-side in PHP
 
 ```php
-$
+//- data preparing
+$newsArr = array(
+	
+);
+//- template contents
+$tplFile = "news.html";
+$tplContent = file_get_contents($tplFile);
 
 ```
 
@@ -80,5 +86,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4MjEzMzIxXX0=
+eyJoaXN0b3J5IjpbLTEwOTU5MTcyMzNdfQ==
 -->
