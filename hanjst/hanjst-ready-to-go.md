@@ -1,10 +1,19 @@
 # [Hanjst](/hanjst/index)
 ## Hanjst Ready-to-go
-### A
+### A Standalone Example
 ---
-djdj
+1. Template File
 
-### 
+2. Hanjst Server-side
+
+3. H
+
+
+### GWA2 in Java
+---
+
+@todo
+
 
 ---
 
@@ -22,5 +31,5 @@ djdj
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzMjQ4Nzk5XX0=
+eyJoaXN0b3J5IjpbODM0NzMzMjk0XX0=
 -->
