@@ -98,7 +98,11 @@ If we make a request to the web host, i.e., http://example.com/path-to-project/n
 </div>
 <div id="Hanjstjsondata" 
 	style="display:hidden;">
-	{"newsList":["0":{"id":12,"title":""}, "1":{}, "2":{}]}
+	{"newsList":[
+		"0":{"id":12,"title":"Hanjst is releasing to pulic."},
+		"1":{"id":34,"title":"Hanjst Ready-to-go."},
+		"2":{"id":56,"title":"Hanjst has outpaced all other jst."}
+	]}
 </div>
 <script type="text/javascript" src="Hanjst.js" async></script>
 <noscript>JavaScript Required for Hanjst.</noscript>
@@ -135,5 +139,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODAzMzE2NDVdfQ==
+eyJoaXN0b3J5IjpbLTIwOTIxMDc1MzhdfQ==
 -->
