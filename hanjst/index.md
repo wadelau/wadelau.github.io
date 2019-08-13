@@ -35,8 +35,8 @@
 ## [Caching](/hanjst/hanjst-cache)
 ## [A Ready-to-go](/hanjst/hanjst-ready-to-go)
 ## [Search Engine Optimization](/hanjst/hanjst-seo)
-### Title, Description and Keyword
-### Links
+### [Title, Description and Keyword](/hanjst/hanjst-seo)
+### [Links](/hanjst/hanjst-seo)
 
 ---
 [Back to top](index)
@@ -45,7 +45,7 @@
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDE3MDcwNTksMjA3NDE0OTA3MywtMj
+eyJoaXN0b3J5IjpbLTE0MTczNzI3MjcsMjA3NDE0OTA3MywtMj
 Y3NjgzNTE1LC01NTc1MzIwNTIsLTIwNzA3MzYzMjksMjEyNDM2
 MTkwMCwxNzUxMTQzNDM1LDg1MTA0ODYxM119
 -->
