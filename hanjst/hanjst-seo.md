@@ -78,7 +78,7 @@ SEO is not a problem any more for Hanjst. By doing so, we have already enhance t
 
 ### Links
 ---
-linkage 
+Linkage is another issue of Java
 
 
 ### Plain Contents
@@ -101,6 +101,6 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODQ1ODc1NywtMTYxMTY3Mzg3MSwtMz
-E4Nzc5ODIzXX0=
+eyJoaXN0b3J5IjpbLTE1NDkyNTExNTgsLTE2MTE2NzM4NzEsLT
+MxODc3OTgyM119
 -->
