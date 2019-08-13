@@ -91,7 +91,21 @@ The first kind of groups URLs look like below. (eg08131545)
 
 The second kind of groups URLs are links that loaded via inner templates. Those links have no clues in current host page and they comes from JSON data and will be appended into current host page via Hanjst.
 
-In order to address this kind of issues, Hanjst suggests to generate redundancy links and put them inside a hidden `DIV` at the end of page. By this means, (eg.
+In order to address this kind of issues, Hanjst suggests to generate redundancy links and put them inside a hidden `DIV` at the end of page. By this means, (eg08131545) will be appended more links.
+
+```html
+...
+<a href="{$url}&mod=news&act=detail&id={$newId}">{$newsTitle}</a>
+<a href="{$url}&mod=news&act=list&page=2">Next Page</a>
+...
+<div style="display:none; z-index:-99;">
+	<a href="{$url}&mod=news&act=detail&id={$newId}">{$newsTitle}</a>
+<a href="{$url}&mod=news&act=list&page=2">Next Page</a>
+</div>
+
+``` 
+
+
 
 ### Plain Contents
 ---
@@ -113,6 +127,6 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTk4NzUzNywtMTYxMTY3Mzg3MSwtMz
+eyJoaXN0b3J5IjpbLTgyMTA5NjE4NywtMTYxMTY3Mzg3MSwtMz
 E4Nzc5ODIzXX0=
 -->
