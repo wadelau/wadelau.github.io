@@ -19,13 +19,18 @@ Here is an example to show the TDK in a template file.
 ```html
 <html>
 <head>
-	
+	<title>Serv_Page_Title</title>
+	<meta name="description" content="Serv_Page_Desc"/>
+    <meta name="keywords" content="Serv_Page_Keyword"/>
 </head>
 <body>
 ....
 </body>
 </html>
 ```
+
+When 
+
 
 
 ### Links
@@ -52,5 +57,5 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODc3OTgyM119
+eyJoaXN0b3J5IjpbLTEwMzU5MDU0MzksLTMxODc3OTgyM119
 -->
