@@ -48,8 +48,11 @@ $jsonDataPlaceHolder = "HANJST_JSON_DATA";
 $tplContent = file_get_contents($tplFile);
 $tplContent = str_replace($, $jsonDataStr, $tplContent);
 
-$tdkPlaceHolders = array("Serv_Page_Title", "Serv_Page_Desc", "Serv_Page_Keyword");
-$tplContent = str_replace($tdkPlaceHolders, $respData['tdkArr'], $tplContent);
+//- tdk replacements
+$tdkPlaceHolders = array("Serv_Page_Title", "Serv_Page_Desc", 
+	"Serv_Page_Keyword");
+$tplContent = str_replace($tdkPlaceHolders, $respData['tdkArr'], 
+	$tplContent);
 
 ```
 
@@ -79,5 +82,5 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3NTAzNTA4LC0zMTg3Nzk4MjNdfQ==
+eyJoaXN0b3J5IjpbLTUzNTQ4NjQ0NSwtMzE4Nzc5ODIzXX0=
 -->
