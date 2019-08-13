@@ -23,7 +23,7 @@
 ### [Built-in Functions](/hanjst/hanjst-function)
 ### [Custom Functions](/hanjst/hanjst-function-2)
 ## Hanjst Run in Server-side
-### [NPM](/hanjst/hanjst-npm)
+### [Node.js](/hanjst/hanjst-npm)
 
 # Hanjst for Back-end Developers
 ## [Hanjst Class](/hanjst/hanjst-class) 
@@ -48,7 +48,7 @@
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTg1Njc1NiwtMTA3NzkxNzAxOCwtMT
+eyJoaXN0b3J5IjpbMTk5MjE4ODczNCwtMTA3NzkxNzAxOCwtMT
 QxNzM3MjcyNywyMDc0MTQ5MDczLC0yNjc2ODM1MTUsLTU1NzUz
 MjA1MiwtMjA3MDczNjMyOSwyMTI0MzYxOTAwLDE3NTExNDM0Mz
 UsODUxMDQ4NjEzXX0=
