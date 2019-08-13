@@ -44,7 +44,9 @@ Copy these lines and as a file: news.html .
 2. Hanjst Server-side in PHP
 
 ```php
+//- resp data container
 $respData = array();
+
 //- data preparing
 $newsList = array(
 	array("id"=>12, "title"=>"Hanjst is releasing to pulic."),
@@ -54,11 +56,14 @@ $newsList = array(
 array_push($respData, $newsList);
 $jsonData = json_encode($respData);
 
-//- template contents
+//- template contents processing
 $tplFile = "news.html";
 $jsonDataPlaceHolder = "HANJST_JSON_DATA";
 $tplContent = file_get_contents($tplFile);
-$tplContent = str_replace($jsonDataPlaceHolder, $jsonData, $tp);
+$tplContent = str_replace($jsonDataPlaceHolder, $jsonData, $tplContent);
+
+//- output
+print($tplContent);
 ```
 
 3. Raw Template File
@@ -93,5 +98,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMjY1MjMyXX0=
+eyJoaXN0b3J5IjpbOTQ4NjEyNjkwXX0=
 -->
