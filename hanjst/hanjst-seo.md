@@ -107,7 +107,7 @@ In order to address this kind of issues, Hanjst suggests to generate redundancy 
 
 ``` 
 
-And it can be even better with pseudo static links as below by introducing an .htaccess file in server-side, which in charge of translating th.
+And it can be even better with pseudo static links as below by introducing an .htaccess file in server-side, which in charge of translating those links into actual dynamic content pages.
 
 ```html
 ...
@@ -144,6 +144,6 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5NDcwMzAyLC0xNjExNjczODcxLC0zMT
-g3Nzk4MjNdfQ==
+eyJoaXN0b3J5IjpbMTYwOTAzNjkyOCwtMTYxMTY3Mzg3MSwtMz
+E4Nzc5ODIzXX0=
 -->
