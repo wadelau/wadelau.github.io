@@ -5,6 +5,7 @@
 Let's rolls up sleeves and have a ready-to-go example to demonstrate what we have just discussed before and validate them from a practical perspective of engineering.
 
 The example blow will show a news items list on a page.
+We have one template file (`news.html`) and one server-side file (`news.php`), and `Hanjst.js` .
 
 1. Original Template File 
 
@@ -182,6 +183,6 @@ Some of codes from GWA2 in Java have been referenced in this document before, su
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1MDI3Mzg1LC0xOTYyMTUxNzQ3LDk2MT
-Y4Njg2MSw5NzEyMTU0NDVdfQ==
+eyJoaXN0b3J5IjpbMjEyOTQwMzY2NCw4ODUwMjczODUsLTE5Nj
+IxNTE3NDcsOTYxNjg2ODYxLDk3MTIxNTQ0NV19
 -->
