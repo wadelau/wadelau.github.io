@@ -26,7 +26,7 @@ public String readTemplate(String mytpl){
 }
 ```  
 
-In the example above, the `enablecache` tells GWA2 core components to try its cache service firstly for the targeted object. This kind of services are also avai
+In the example above, the `enablecache` tells GWA2 core components to try its cache service firstly for the targeted object. This kind of services are also available for database service, session service, etc. 
 
 
 ### Client-side Caching
@@ -38,7 +38,7 @@ In the example above, the `enablecache` tells GWA2 core components to try its ca
 #### Related works
 
 1. [Hanjst Demo Page](https://ufqi.com/dev/hanjst/)
-
+2. [GWA2 in Java](https://github.com/wadelau/GWA2/)
 
 ---
 
@@ -49,6 +49,6 @@ In the example above, the `enablecache` tells GWA2 core components to try its ca
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjE3OTkzOSwtNDU1NzI0MTMsLTEyMD
+eyJoaXN0b3J5IjpbMjExMDg1OTM0MCwtNDU1NzI0MTMsLTEyMD
 g1ODM1MDMsLTg5MjE5MzAyM119
 -->
