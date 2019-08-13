@@ -2,7 +2,7 @@
 ## Hanjst Search Engine Optimization
 ### Title, Description and Keyword
 ---
-dddd
+It is an unexpected and unwelcome drawback for JavaScript-based template engines that they are not friendly to search engines. In other words, search e
 
 ### Links
 ---
@@ -28,5 +28,5 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjMzMjEzNDZdfQ==
+eyJoaXN0b3J5IjpbMjk5NzEyMjM3XX0=
 -->
