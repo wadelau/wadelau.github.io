@@ -8,7 +8,8 @@ Though search engines grows powerful as fast as the speed of Moore's Law, we sti
 
 The goal will soon be reached as we start towards from the two ends that search engines are getting smarter and smarter so they are read and extract correct data from JavaScript and Hanjst is getting better and better to act like it is a purl HTML.
 
-Regarding to the basic tasks of SEO, 
+Regarding to the basic tasks of SEO, Hanjst has some placeholders to meet this requirements.
+Usually, a page's title, description and keyword are variables generated from server-side and passed into client-side by being wrapped into a JSON
 
 ### Links
 ---
@@ -34,5 +35,5 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYwOTM5MjBdfQ==
+eyJoaXN0b3J5IjpbLTcyODc4MjAwNF19
 -->
