@@ -2,7 +2,7 @@
 ## Hanjst Caching
 ### Server-side Caching
 ---
-ddd
+Hanjst server-side components should cache
 
 
 ### Client-side Caching
@@ -25,5 +25,6 @@ ddd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg1ODM1MDMsLTg5MjE5MzAyM119
+eyJoaXN0b3J5IjpbMTk0NDM0ODk1NywtMTIwODU4MzUwMywtOD
+kyMTkzMDIzXX0=
 -->
