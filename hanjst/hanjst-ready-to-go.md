@@ -2,11 +2,15 @@
 ## Hanjst Ready-to-go
 ### A Standalone Example
 ---
-Let's rolls up sleeves and have a ready-to-go example to demonstrate what we have just discussed before
+Let's rolls up sleeves and have a ready-to-go example to demonstrate what we have just discussed before and validate them from a practical perspective of engineering.
+
+The example blow will show a news itm
 
 1. Template File
 
-dd
+```html
+
+```
 
 2. Hanjst Server-side in PHP
 
@@ -44,5 +48,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzYzNDA3N119
+eyJoaXN0b3J5IjpbLTk2MjczNTkzNV19
 -->
