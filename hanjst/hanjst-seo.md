@@ -56,6 +56,7 @@ $tplContent = str_replace($tdkPlaceHolders, $respData['tdkArr'],
 
 ```
 
+So that template contents have been merged with actual values in server-side and its contents looks exactly like a pure HTML which is 
 
 
 ### Links
@@ -82,5 +83,5 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTQ4NjQ0NSwtMzE4Nzc5ODIzXX0=
+eyJoaXN0b3J5IjpbLTE2MTE2NzM4NzEsLTMxODc3OTgyM119
 -->
