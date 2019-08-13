@@ -4,9 +4,11 @@
 ---
 It is an unexpected and unwelcome drawback for JavaScript-based template engines that they are not friendly to search engines. In other words, search engines are unable to extract plain contents from JavaScript as well as from pure HTML.
 
-Though search engines grows powerful as fast as the speed of Moore's Law, we still put search engine optimization under consideration when making design and development of Hanjst language and engine.
+Though search engines grows powerful as fast as the speed of Moore's Law, we still put search engine optimization (SEO) under consideration when making design and development of Hanjst language and engine.
 
-The goal will soon be reached as we starts
+The goal will soon be reached as we start towards from the two ends that search engines are getting smarter and smarter so they are read and extract correct data from JavaScript and Hanjst is getting better and better to act like it is a purl HTML.
+
+Regarding to the basic tasks of SEO, 
 
 ### Links
 ---
@@ -32,5 +34,5 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3OTU4MDk1XX0=
+eyJoaXN0b3J5IjpbLTE0NjYwOTM5MjBdfQ==
 -->
