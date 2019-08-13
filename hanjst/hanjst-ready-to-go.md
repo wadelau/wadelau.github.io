@@ -6,7 +6,9 @@ Let's rolls up sleeves and have a ready-to-go example to demonstrate what we hav
 
 The example blow will show a news items list on a page.
 
-1. Template File (eg08131156)
+1. Template File 
+
+(eg08131156)
 
 ```html
 <html>
@@ -41,7 +43,9 @@ The example blow will show a news items list on a page.
 
 Copy these lines and as a file: `news.html` .
 
-2. Hanjst Server-side in PHP (eg08131157)
+2. Hanjst Server-side in PHP 
+
+(eg08131157)
 
 ```php
 //- resp data container
@@ -54,13 +58,13 @@ $newsList = array(
 	array("id"=>56, "title"=>"Hanjst has outpaced all other jst.")
 );
 array_push($respData, $newsList);
-$jsonData = json_encode($respData);
+$jsonDataStr = json_encode($respData);
 
 //- template contents processing
 $tplFile = "news.html";
 $jsonDataPlaceHolder = "HANJST_JSON_DATA";
 $tplContent = file_get_contents($tplFile);
-$tplContent = str_replace($jsonDataPlaceHolder, $jsonData, $tplContent);
+$tplContent = str_replace($jsonDataPlaceHolder, $jsonDataStr, $tplContent);
 
 //- output
 print($tplContent);
@@ -74,6 +78,8 @@ Copy these lines and save them as a file: `news.php` .  Then upload `news.php` a
 The host web server will execute the `news.php` and the PHP scripts will read the contents of `news.html`, then the news data will be merged into the outputs of the HTTP response.
 
 If we make a request to the web host, i.e., http://example.com/path-to-project/news.php , the scripts will print out a raw template file as below.
+
+(eg08131158)
 
 ```html
 <html>
@@ -109,8 +115,7 @@ If we make a request to the web host, i.e., http://example.com/path-to-project/n
 </body>
 </html>
 ```
-Compared with its raw contents, the only different is that `HANJST_JSON_DATA` has been replaced with actual news data which will be further parsed by Hanjst engine.
-
+Compared with its raw contents (eg08131156), the only difference is that `HANJST_JSON_DATA` has been replaced with actual news data which will be further parsed by Hanjst engine.
 
 
 4. Final Parsed HTML
@@ -141,5 +146,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjIwMzUwNF19
+eyJoaXN0b3J5IjpbODM5MjI2ODE0XX0=
 -->
