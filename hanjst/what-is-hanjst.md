@@ -35,7 +35,7 @@ MVC separation, see  [ASP.NET MVC Pattern](https://dotnet.microsoft.com/apps/asp
 
 Clear and clean codes, see [Why would I use Smarty](https://www.smarty.net/why_use) .
 
-[Why You Should be Using Templating Engine Instead of PHP](http://acmeextension.com/why-use-templating-engine/)
+[Why You Should be Using Templating Engine](http://acmeextension.com/why-use-templating-engine/)
 
 ---
 ### Why Hanjst?
@@ -119,11 +119,11 @@ So we have committed to make this switch happen. Hanjst will be our default temp
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Mjc2MjcwNCwtNzA0MDMyMTUxLDM2OD
-EwOTkxMSwxMjA4NzY2OTc2LDE5MzczNjU1OTcsLTEwNjAwMzU0
-NzQsLTc0OTY3NzExNywtMTgwMTY1MzI0MSwtNDYxMzk4MDQxLD
-E4MzUyMjcwMTAsNzEyMDY1MzA5LC0yMzQzNjQ3NDAsNTM1MTUy
-MjAwLC04NDE1MjI5NTgsMTUyNDAyODgsLTQ3NTI2MTg4MSwxMj
-A5Njc3ODg1LDgwMjA4NTgzNCwtNjk4NTAxODc2LC05MzMzMDQ0
-MzNdfQ==
+eyJoaXN0b3J5IjpbNTE1MjI0NzUzLC03MDQwMzIxNTEsMzY4MT
+A5OTExLDEyMDg3NjY5NzYsMTkzNzM2NTU5NywtMTA2MDAzNTQ3
+NCwtNzQ5Njc3MTE3LC0xODAxNjUzMjQxLC00NjEzOTgwNDEsMT
+gzNTIyNzAxMCw3MTIwNjUzMDksLTIzNDM2NDc0MCw1MzUxNTIy
+MDAsLTg0MTUyMjk1OCwxNTI0MDI4OCwtNDc1MjYxODgxLDEyMD
+k2Nzc4ODUsODAyMDg1ODM0LC02OTg1MDE4NzYsLTkzMzMwNDQz
+M119
 -->
