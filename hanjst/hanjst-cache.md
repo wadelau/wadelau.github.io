@@ -2,6 +2,8 @@
 ## Hanjst Caching
 ### Server-side Caching
 ---
+Caching is used to speed up a call to [`display()`](https://www.smarty.net/docs/en/api.display.tpl "display()") or [`fetch()`](https://www.smarty.net/docs/en/api.fetch.tpl "fetch()") by saving its output to a file. If a cached version of the call is available, that is displayed instead of regenerating the output.
+
 Hanjst server-side components are able to cache their raw contents of template files as so to accelerate the speed of generating outputs for HTTP requests.
 
 Regarding to `GWA2 in Java`, caching service is provided with its core components of WebApp.class, here follows an example. (eg08131113)
@@ -49,6 +51,6 @@ In the example above, the `enablecache` tells GWA2 core components to try its ca
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjY1ODExLC00NTU3MjQxMywtMTIwOD
-U4MzUwMywtODkyMTkzMDIzXX0=
+eyJoaXN0b3J5IjpbMTUwNDcyNDQwOCwtNDU1NzI0MTMsLTEyMD
+g1ODM1MDMsLTg5MjE5MzAyM119
 -->
