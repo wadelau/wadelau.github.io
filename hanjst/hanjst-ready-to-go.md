@@ -177,11 +177,11 @@ Some of codes from GWA2 in Java have been referenced in this document before, su
 
 [Back to Top](/hanjst/hanjst-ready-to-go)
 
-[Previous](./hanst-cache) ... [Next](./hanjst-seo)
+[Previous](./hanjst-cache) ... [Next](./hanjst-seo)
 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjIxNTE3NDcsOTYxNjg2ODYxLDk3MT
-IxNTQ0NV19
+eyJoaXN0b3J5IjpbODg1MDI3Mzg1LC0xOTYyMTUxNzQ3LDk2MT
+Y4Njg2MSw5NzEyMTU0NDVdfQ==
 -->
