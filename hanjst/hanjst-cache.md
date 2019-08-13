@@ -2,7 +2,9 @@
 ## Hanjst Caching
 ### Server-side Caching
 ---
-Hanjst server-side components should cache
+Hanjst server-side components are able to cache their raw contents of template files as so to accelerate the speed of generating outputs for HTTP requests.
+
+ 
 
 
 ### Client-side Caching
@@ -25,6 +27,6 @@ Hanjst server-side components should cache
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDM0ODk1NywtMTIwODU4MzUwMywtOD
-kyMTkzMDIzXX0=
+eyJoaXN0b3J5IjpbLTIxNDA0NzI3MjksLTEyMDg1ODM1MDMsLT
+g5MjE5MzAyM119
 -->
