@@ -6,7 +6,7 @@ Let's rolls up sleeves and have a ready-to-go example to demonstrate what we hav
 
 The example blow will show a news items list on a page.
 
-1. Template File
+1. Template File (eg08131156)
 
 ```html
 <html>
@@ -41,7 +41,7 @@ The example blow will show a news items list on a page.
 
 Copy these lines and as a file: `news.html` .
 
-2. Hanjst Server-side in PHP
+2. Hanjst Server-side in PHP (eg08131157)
 
 ```php
 //- resp data container
@@ -109,6 +109,8 @@ If we make a request to the web host, i.e., http://example.com/path-to-project/n
 </body>
 </html>
 ```
+Compared with its raw contents, the only different is that `HANJST_JSON_DATA` has been replaced with actual news data which will be further parsed by Hanjst engine.
+
 
 
 4. Final Parsed HTML
@@ -139,5 +141,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTIxMDc1MzhdfQ==
+eyJoaXN0b3J5IjpbMTIzMjIwMzUwNF19
 -->
