@@ -2,11 +2,22 @@
 ## Hanjst Ready-to-go
 ### A Standalone Example
 ---
+Just rolls your sleev
+
 1. Template File
+dd
 
-2. Hanjst Server-side
+2. Hanjst Server-side in PHP
+dd
 
-3. H
+3. Raw Template File
+
+dd
+
+4. Final Parsed HTML
+
+dd
+
 
 
 ### GWA2 in Java
@@ -31,5 +42,5 @@
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0NzMzMjk0XX0=
+eyJoaXN0b3J5IjpbMjA3OTE4NDFdfQ==
 -->
