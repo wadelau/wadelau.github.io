@@ -140,25 +140,13 @@ The happy end comes with its final Hanjst-parsed HTML as below. It is the desira
 </div>
 <div id="newsList">
 <ul>
-{foreach $newsList as $n}
 	<li>
-		{foreach $newsList[$n] as $np}
-			<dt>{$np}: {$newsList[$n][$np]}</dt>
-		{/foreach}
+			<dt>12: Hanjst is releasing to pulic.</dt>
+			<dt>34: Hanjst Ready-to-go.</dt>
+			<dt>12: Hanjst has outpaced all other jst.</dt>
 	</li>
-{foreachelse}
-	<li>No data.</li>
-{/foreach}
 </ul>
 </div>
-<div id="Hanjstjsondata" 
-	style="display:hidden;">
-	{"newsList":[
-		"0":{"id":12,"title":"Hanjst is releasing to pulic."},
-		"1":{"id":34,"title":"Hanjst Ready-to-go."},
-		"2":{"id":56,"title":"Hanjst has outpaced all other jst."}
-	]}
-
 </body>
 </html>
 ```
@@ -187,5 +175,5 @@ The happy end comes with its final Hanjst-parsed HTML as below. It is the desira
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDcwMjAzNl19
+eyJoaXN0b3J5IjpbLTQ2MTYyMTc3XX0=
 -->
