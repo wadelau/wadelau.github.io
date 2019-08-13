@@ -73,7 +73,7 @@ The template file (eg08131528) looks like as below from the view of a search eng
 </html>
 ```
 
-
+SEO is not a problem any more for Hanjst. By doing so, we have already enhance the page with desirable title, description and keyword. 
 
 
 ### Links
@@ -100,6 +100,6 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDg2OTI2LC0xNjExNjczODcxLC0zMT
-g3Nzk4MjNdfQ==
+eyJoaXN0b3J5IjpbLTE0NjYxNzczMDcsLTE2MTE2NzM4NzEsLT
+MxODc3OTgyM119
 -->
