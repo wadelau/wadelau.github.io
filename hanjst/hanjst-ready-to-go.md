@@ -2,12 +2,14 @@
 ## Hanjst Ready-to-go
 ### A Standalone Example
 ---
-Just rolls your sleev
+Let's rolls up sleeves and have a ready-to-go example to demonstrate what we have just discussed before
 
 1. Template File
+
 dd
 
 2. Hanjst Server-side in PHP
+
 dd
 
 3. Raw Template File
@@ -42,5 +44,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTE4NDFdfQ==
+eyJoaXN0b3J5IjpbMTI1MzYzNDA3N119
 -->
