@@ -118,9 +118,10 @@ If we make a request to the web host, i.e., http://example.com/path-to-project/n
 Compared with its raw contents (eg08131156), the only difference is that `HANJST_JSON_DATA` has been replaced with actual news data which will be further parsed by Hanjst engine.
 
 
-4. Final Parsed HTML
+4. Final Hanjst-Parsed HTML
 
-dd
+It is show time!
+After the raw 
 
 
 
@@ -146,5 +147,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5MjI2ODE0XX0=
+eyJoaXN0b3J5IjpbMTUwMTkwMzc1Ml19
 -->
