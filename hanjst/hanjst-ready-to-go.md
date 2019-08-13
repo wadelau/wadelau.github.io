@@ -121,7 +121,10 @@ Compared with its raw contents (eg08131156), the only difference is that `HANJST
 4. Final Hanjst-Parsed HTML
 
 It is show time!
-After the raw 
+
+After the raw HTML is loaded, Hanjst will be triggered automatically and try to read all content of the current `BODY`.
+
+
 
 
 
@@ -147,5 +150,5 @@ After the raw
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTkwMzc1Ml19
+eyJoaXN0b3J5IjpbMTg1NTA4MTc3XX0=
 -->
