@@ -89,7 +89,9 @@ The first kind of groups URLs look like below.
 ...
 ``` 
 
-The second kind of groups URLs are links that loaded via inner templates
+The second kind of groups URLs are links that loaded via inner templates. Those links have no clues in current host page and they comes from JSON data and will be appended into current host page via Hanjst.
+
+In order to address this kind of issues, Hanjst suggests to generate 
 
 ### Plain Contents
 ---
@@ -111,6 +113,6 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0NTUyNTcyLC0xNjExNjczODcxLC0zMT
-g3Nzk4MjNdfQ==
+eyJoaXN0b3J5IjpbLTEzNjYyMjM4ODUsLTE2MTE2NzM4NzEsLT
+MxODc3OTgyM119
 -->
