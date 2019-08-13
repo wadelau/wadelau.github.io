@@ -39,7 +39,7 @@ The example blow will show a news items list on a page.
 </html>
 ```
 
-Copy these lines and as a file: news.html .
+Copy these lines and as a file: `news.html` .
 
 2. Hanjst Server-side in PHP
 
@@ -65,6 +65,9 @@ $tplContent = str_replace($jsonDataPlaceHolder, $jsonData, $tplContent);
 //- output
 print($tplContent);
 ```
+
+Copy these lines and save them as a file: news.php .  Then upload news.php and news.html to a folder under a web server which can execute PHP scripts.
+
 
 3. Raw Template File
 
@@ -98,5 +101,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4NjEyNjkwXX0=
+eyJoaXN0b3J5IjpbOTkzNTMyOTYzXX0=
 -->
