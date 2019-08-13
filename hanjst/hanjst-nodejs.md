@@ -11,7 +11,7 @@ Hanjst has potential power to run in server-side with `node.js`.
 
 #### Related works
 
-1. [Node.js]()
+1. [Node.js](//nodejs.org)
 2. [Hanjst Demo Page](https://ufqi.com/dev/hanjst/)
 
 ---
@@ -22,5 +22,5 @@ Hanjst has potential power to run in server-side with `node.js`.
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE5NzIwNzNdfQ==
+eyJoaXN0b3J5IjpbMTA2NTI2MDcyXX0=
 -->
