@@ -7,8 +7,11 @@ Hanjst server-side components are able to cache their raw contents of template f
 Regarding to `GWA2 in Java`, caching service is provided with its core components of WebApp.class, here follows an example.
 
 ```java
-
+//- suppose Hanjst is ready
 Hanjst hanjst = new Hanjst();
+String rawTemplate = hanjst.readTemplate(templateFile);
+//- inside readTemplate to enable cache
+
 
 
 ```  
@@ -34,6 +37,6 @@ Hanjst hanjst = new Hanjst();
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxOTg2NTMzLC0xMjA4NTgzNTAzLC04OT
+eyJoaXN0b3J5IjpbLTQ1NTcyNDEzLC0xMjA4NTgzNTAzLC04OT
 IxOTMwMjNdfQ==
 -->
