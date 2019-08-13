@@ -71,7 +71,39 @@ Copy these lines and save them as a file: `news.php` .  Then upload `news.php` a
 
 3. Raw Template File
 
-The host web server will execute the `news.php` and the PHP scripts will read the contents of `news.html`, then the news data will be merged into the 
+The host web server will execute the `news.php` and the PHP scripts will read the contents of `news.html`, then the news data will be merged into the outputs of the HTTP response.
+
+If we make a request to the web host, i.e., http://example.com/path-to-project/news.php , the scripts will print out a raw template file as below.
+
+<html>
+<head>News List</head>
+<body>
+<div id="Hanjstloading" 
+	style="width:100%;height:100%;z-index:99;opacity:0.92;position:absolute;background-color:#ffffff;"> 
+	Loading... 加载中... 
+</div>
+<div id="newsList">
+<ul>
+{foreach $newsList as $n}
+	<li>
+		{foreach $newsList[$n] as $np}
+			<dt>{$np}: {$newsList[$n][$np]}</dt>
+		{/foreach}
+	</li>
+{foreachelse}
+	<li>No data.</li>
+{/foreach}
+</ul>
+</div>
+<div id="Hanjstjsondata" 
+	style="display:hidden;">
+	HANJST_JSON_DATA
+</div>
+<script type="text/javascript" src="Hanjst.js" async></script>
+<noscript>JavaScript Required for Hanjst.</noscript>
+</body>
+</html>
+
 
 
 4. Final Parsed HTML
@@ -102,5 +134,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTMzODE1XX0=
+eyJoaXN0b3J5IjpbMTk1MDc5OTg4XX0=
 -->
