@@ -39,11 +39,11 @@ That's also another key point which drives us make this commitment to choosing J
 
 [Back to Top](/hanjst/data-in-json)
 
-[Previous](./hanjst-replacement) ... [Next](./)
+[Previous](./hanjst-replacement) ... [Next](./hanjst-resource)
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTE3NjUxMCwtMzU3NDE1NDEsNDM3Mj
+eyJoaXN0b3J5IjpbLTIxNzYyMTAwOSwtMzU3NDE1NDEsNDM3Mj
 M2MjEyLDc2OTc2MzI1MCwtMTczMTA3NTQ0LDEzNTUzNzAyMzZd
 fQ==
 -->
