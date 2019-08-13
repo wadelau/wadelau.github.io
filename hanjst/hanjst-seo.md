@@ -46,8 +46,9 @@ array_push($respData, $tdkArr);
 $tplFile = "news.html";
 $jsonDataPlaceHolder = "HANJST_JSON_DATA";
 $tplContent = file_get_contents($tplFile);
-$tplContent = str_replace($jsonDataPlaceHolder, $jsonDataStr, $tplContent);
+$tplContent = str_replace($, $jsonDataStr, $tplContent);
 
+$tdkPlaceHolders = array("", "", "");
 
 ```
 
@@ -77,5 +78,5 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzQ4NDYxMSwtMzE4Nzc5ODIzXX0=
+eyJoaXN0b3J5IjpbMTU1MzYzMTUwNSwtMzE4Nzc5ODIzXX0=
 -->
