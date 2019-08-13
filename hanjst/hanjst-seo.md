@@ -78,7 +78,7 @@ SEO is not a problem any more for Hanjst. By doing so, we have already enhance t
 
 ### Links
 ---
-dddsd
+linkage 
 
 
 ### Plain Contents
@@ -101,6 +101,6 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjM2MTQ1MywtMTYxMTY3Mzg3MSwtMz
+eyJoaXN0b3J5IjpbLTQ1ODQ1ODc1NywtMTYxMTY3Mzg3MSwtMz
 E4Nzc5ODIzXX0=
 -->
