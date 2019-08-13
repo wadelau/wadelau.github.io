@@ -75,6 +75,7 @@ The host web server will execute the `news.php` and the PHP scripts will read th
 
 If we make a request to the web host, i.e., http://example.com/path-to-project/news.php , the scripts will print out a raw template file as below.
 
+```html
 <html>
 <head>News List</head>
 <body>
@@ -97,13 +98,13 @@ If we make a request to the web host, i.e., http://example.com/path-to-project/n
 </div>
 <div id="Hanjstjsondata" 
 	style="display:hidden;">
-	HANJST_JSON_DATA
+	{"newsList":["0":{"id":12,"title":""}, "1":{}, "2":{}]}
 </div>
 <script type="text/javascript" src="Hanjst.js" async></script>
 <noscript>JavaScript Required for Hanjst.</noscript>
 </body>
 </html>
-
+```
 
 
 4. Final Parsed HTML
@@ -134,5 +135,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDc5OTg4XX0=
+eyJoaXN0b3J5IjpbLTEzODAzMzE2NDVdfQ==
 -->
