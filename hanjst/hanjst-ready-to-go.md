@@ -66,12 +66,13 @@ $tplContent = str_replace($jsonDataPlaceHolder, $jsonData, $tplContent);
 print($tplContent);
 ```
 
-Copy these lines and save them as a file: news.php .  Then upload news.php and news.html to a folder under a web server which can execute PHP scripts.
+Copy these lines and save them as a file: `news.php` .  Then upload `news.php` and `news.html` to a folder under a web server which can execute PHP scripts.
 
 
 3. Raw Template File
 
-dd
+The host web server will execute the `news.php` and the PHP scripts will read the contents of `news.html`, then the news data will be merged into the 
+
 
 4. Final Parsed HTML
 
@@ -101,5 +102,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzNTMyOTYzXX0=
+eyJoaXN0b3J5IjpbMTMyOTMzODE1XX0=
 -->
