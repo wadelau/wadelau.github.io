@@ -35,6 +35,11 @@ When the template is read in server-side the placeholders for TDK will be replac
 
 //- resp data container
 $respData = array();
+$tdkArr = array(
+	"title"=>"Hanjst is so powerful.",
+	"description"=>"Hanjst is a JavaScript-based template e",
+);
+array_push($respData, $tdkArr);
 
 ```
 
@@ -64,5 +69,5 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODIxNzU1NDcsLTMxODc3OTgyM119
+eyJoaXN0b3J5IjpbLTY0MTQ1MDU2NiwtMzE4Nzc5ODIzXX0=
 -->
