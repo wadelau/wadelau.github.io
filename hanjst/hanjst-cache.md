@@ -30,6 +30,9 @@ public String readTemplate(String mytpl){
 
 In the example above, the `enablecache` tells GWA2 core components to try its cache service firstly for the targeted object. This kind of services are also available for database service, session service, etc. 
 
+However, since templates are dynamic, it is important to be careful what we are caching and for how long. 
+For instance, if we are displaying the front page of a website that does not change its content very frequently, it might work well to cache this page for a few hours.
+On the other hand, if you are displaying a page with a timetable containing new information by the minute, it would not make sense to cache this page.
 
 ### Client-side Caching
 ---
@@ -51,6 +54,6 @@ In the example above, the `enablecache` tells GWA2 core components to try its ca
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQxNzA5MjcsLTQ1NTcyNDEzLC0xMj
-A4NTgzNTAzLC04OTIxOTMwMjNdfQ==
+eyJoaXN0b3J5IjpbNTgwMDkxNTYxLC00NTU3MjQxMywtMTIwOD
+U4MzUwMywtODkyMTkzMDIzXX0=
 -->
