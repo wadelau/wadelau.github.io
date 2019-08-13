@@ -58,7 +58,22 @@ $tplContent = str_replace($tdkPlaceHolders, $respData['tdkArr'],
 
 So that template contents have been merged with actual values in server-side and its contents looks exactly like a pure HTML which is welcome to search engines.
 
-The template file (eg08131528) 
+The template file (eg08131528) looks like as below from the view of a search engine.
+
+```html
+<html>
+<head>
+	<title>Hanjst is so powerful.</title>
+	<meta name="description" content="Hanjst is a JavaScript-based template language and engine. It is very powerful and has a few of exciting features as back-end tempalte engines."/>
+    <meta name="keywords" content="Hanjst, 汉吉斯特, template engine, JavaScript"/>
+</head>
+<body>
+....
+</body>
+</html>
+```
+
+
 
 
 ### Links
@@ -85,6 +100,6 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDk4MTQ1OSwtMTYxMTY3Mzg3MSwtMz
-E4Nzc5ODIzXX0=
+eyJoaXN0b3J5IjpbLTgzNDg2OTI2LC0xNjExNjczODcxLC0zMT
+g3Nzk4MjNdfQ==
 -->
