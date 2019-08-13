@@ -31,7 +31,8 @@ That's also another key point which drives us make this commitment to choosing J
 
 #### Related works
 
-1. [Hanjst Demo Page](https://ufqi.com/dev/hanjst/)
+1. [JSON Homepage](//json.org)
+2. [Hanjst Demo Page](https://ufqi.com/dev/hanjst/)
 
 
 ---
@@ -42,6 +43,7 @@ That's also another key point which drives us make this commitment to choosing J
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzQxNTQxLDQzNzIzNjIxMiw3Njk3Nj
-MyNTAsLTE3MzEwNzU0NCwxMzU1MzcwMjM2XX0=
+eyJoaXN0b3J5IjpbMTYxNTE3NjUxMCwtMzU3NDE1NDEsNDM3Mj
+M2MjEyLDc2OTc2MzI1MCwtMTczMTA3NTQ0LDEzNTUzNzAyMzZd
+fQ==
 -->
