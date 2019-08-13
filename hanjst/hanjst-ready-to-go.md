@@ -57,7 +57,7 @@ $newsList = array(
 	array("id"=>34, "title"=>"Hanjst Ready-to-go."),
 	array("id"=>56, "title"=>"Hanjst has outpaced all other jst.")
 );
-array_push($respData, $newsList);
+$respData['newsList'] = $newsList;
 $jsonDataStr = json_encode($respData);
 
 //- template contents processing
@@ -182,6 +182,6 @@ Some of codes from GWA2 in Java have been referenced in this document before, su
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODI4Nzk2NjIsOTYxNjg2ODYxLDk3MT
+eyJoaXN0b3J5IjpbLTE5NjIxNTE3NDcsOTYxNjg2ODYxLDk3MT
 IxNTQ0NV19
 -->
