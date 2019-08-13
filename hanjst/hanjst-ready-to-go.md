@@ -48,7 +48,7 @@ Copy these lines and as a file: news.html .
 $newsArr = array(
 	array("id"=>12, "title"=>"Hanjst is releasing to pulic."),
 	array("id"=>34, "title"=>"Hanjst Ready-to-go."),
-	array("id"=>12, "title"=>"Hanjst is releasing to pulic.")
+	array("id"=>56, "title"=>"Hanjst outpaces all other jst.")
 );
 //- template contents
 $tplFile = "news.html";
@@ -88,5 +88,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTcxODE4MV19
+eyJoaXN0b3J5IjpbMTAyNjIzMjUzOV19
 -->
