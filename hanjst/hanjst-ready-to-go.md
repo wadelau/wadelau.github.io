@@ -153,7 +153,7 @@ The happy end comes with its final Hanjst-parsed HTML as below. It is the desira
 </html>
 ```
 
-This is all, the quick start consists of three files, `news.html`, `news.php` and `Hanjst.js` and presents four stages of the Hanjst template engine, Original template file, Server-side data, Raw template contents and Final pure 
+This is all! The quick start consists of three files, `news.html`, `news.php` and `Hanjst.js` and presents four stages of the Hanjst template engine, Original template file, Server-side data, Raw template contents and Final pure HTML presentation.
 
 
 ### GWA2 in Java
@@ -182,6 +182,6 @@ Some of codes from GWA2 in Java have been referenced in this document before, su
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0ODU3NTMyLDk2MTY4Njg2MSw5NzEyMT
-U0NDVdfQ==
+eyJoaXN0b3J5IjpbLTE4ODI4Nzk2NjIsOTYxNjg2ODYxLDk3MT
+IxNTQ0NV19
 -->
