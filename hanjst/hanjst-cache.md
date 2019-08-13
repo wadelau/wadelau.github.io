@@ -10,8 +10,22 @@ Regarding to `GWA2 in Java`, caching service is provided with its core component
 //- suppose Hanjst is ready
 Hanjst hanjst = new Hanjst();
 String rawTemplate = hanjst.readTemplate(templateFile);
-//- inside readTemplate to enable cache
+//- inside Hanjst.readTemplate to enable cache
+public String readTemplate(String mytpl){
+	String tplcont = "";
+	HashMap hmtmp = this.getBy("file:", null, (new HashMap(){{put("file", tpldir+"/"+mytpl);}}));
 
+if((boolean)hmtmp.get(0)){
+
+tplcont = (String)hmtmp.get(1);
+
+tplcont = this.replacePath(tplcont, viewdir);
+
+}
+
+return tplcont;
+
+}
 
 
 ```  
@@ -37,6 +51,6 @@ String rawTemplate = hanjst.readTemplate(templateFile);
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTcyNDEzLC0xMjA4NTgzNTAzLC04OT
-IxOTMwMjNdfQ==
+eyJoaXN0b3J5IjpbLTExMTAzMjMwMjEsLTQ1NTcyNDEzLC0xMj
+A4NTgzNTAzLC04OTIxOTMwMjNdfQ==
 -->
