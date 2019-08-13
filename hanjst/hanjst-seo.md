@@ -40,7 +40,7 @@ $tdkArr = array(
 	"Hanjst is a JavaScript-based template language and engine. It is very powerful and has a few of exciting features as back-end tempalte engines.",
 	"Hanjst, 汉吉斯特, template engine, JavaScript"
 ); // keys are optional
-array_push($respData, $tdkArr);
+$respData['tdkArr'] = $tdkArr;
 
 //- template contents processing
 $tplFile = "news.html";
@@ -49,7 +49,7 @@ $tplContent = file_get_contents($tplFile);
 $tplContent = str_replace($, $jsonDataStr, $tplContent);
 
 $tdkPlaceHolders = array("Serv_Page_Title", "Serv_Page_Desc", "Serv_Page_Keyword");
-$tplContent = str_rep
+$tplContent = str_replace($tdkPlaceHolders, $respData['tdkArr'], $tplContent);
 
 ```
 
@@ -79,5 +79,5 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTE3OTM4MTUsLTMxODc3OTgyM119
+eyJoaXN0b3J5IjpbNDU3NTAzNTA4LC0zMTg3Nzk4MjNdfQ==
 -->
