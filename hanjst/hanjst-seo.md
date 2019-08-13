@@ -107,6 +107,23 @@ In order to address this kind of issues, Hanjst suggests to generate redundancy 
 
 ``` 
 
+And it can be even better with pseudo static link as below by introducing an .htaccess file in server-side.
+
+```html
+...
+<a href="{$url}&mod=news&act=detail&id={$newId}">{$newsTitle}</a>
+<a href="{$url}&mod=news&act=list&page=2">Next Page</a>
+...
+...
+<!-- for seo only -->
+<div style="display:none; z-index:-99;">
+	<a href="/news-detail-1234">Powerful Hanjst is coming.</a>
+	<a href="/news-page=2">Next Page</a>
+</div>
+
+``` 
+ 
+
 
 
 ### Plain Contents
@@ -129,6 +146,6 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDkzNDYzNywtMTYxMTY3Mzg3MSwtMz
-E4Nzc5ODIzXX0=
+eyJoaXN0b3J5IjpbLTEzNTkwNTQ2MTAsLTE2MTE2NzM4NzEsLT
+MxODc3OTgyM119
 -->
