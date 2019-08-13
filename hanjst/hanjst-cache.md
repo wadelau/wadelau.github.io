@@ -13,7 +13,8 @@ String rawTemplate = hanjst.readTemplate(templateFile);
 //- inside Hanjst.readTemplate to enable cache
 public String readTemplate(String mytpl){
 	String tplcont = "";
-	HashMap hmtmp = this.getBy("file:", null, (new HashMap(){{put("file", tpldir+"/"+mytpl);}}));
+	HashMap hmArgs = Wht.initHashMap("file,")
+	HashMap hmtmp = this.getBy("file:", null, );
 
 if((boolean)hmtmp.get(0)){
 
@@ -51,6 +52,6 @@ return tplcont;
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTAzMjMwMjEsLTQ1NTcyNDEzLC0xMj
+eyJoaXN0b3J5IjpbLTEzMjg0NzEyMjksLTQ1NTcyNDEzLC0xMj
 A4NTgzNTAzLC04OTIxOTMwMjNdfQ==
 -->
