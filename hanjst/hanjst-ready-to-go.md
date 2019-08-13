@@ -158,6 +158,7 @@ The happy end comes with its final Hanjst-parsed HTML as below. It is the desira
 ---
 Hanjst is the default template engine for [GWA2](https://github.com/wadelau/GWA2), so it is easy to have a look at the process of Hanjst in a web application by running a demo for GWA2 in Java.
 
+Developers and designers are welcome to deploy a GWA2 instance to see what we have talked about 
 
 ---
 
@@ -175,5 +176,5 @@ Hanjst is the default template engine for [GWA2](https://github.com/wadelau/GWA2
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODUwMjk3NCw5NzEyMTU0NDVdfQ==
+eyJoaXN0b3J5IjpbMTY4ODY2NjM4OSw5NzEyMTU0NDVdfQ==
 -->
