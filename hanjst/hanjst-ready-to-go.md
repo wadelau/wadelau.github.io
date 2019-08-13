@@ -20,12 +20,18 @@ The example blow will show a news items list on a page.
 <ul>
 {foreach $newsList as $n}
 	<li>
-		{foreach $newsList[]}
+		{foreach $newsList[$n] as $np}
+			<dt>{$np}: {$newsList[$n][$np]}</dt>
+		{/foreach}
 	</li>
 {foreachelse}
 	<li>No data.</li>
 {/foreach}
 </ul>
+</div>
+<div id="Hanjstjsondata" 
+	style="display:hidden;">
+	HANJST_JSON_DATA
 </div>
 </body>
 </html>
@@ -67,5 +73,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTcxOTc3MF19
+eyJoaXN0b3J5IjpbLTkxMTIzMzU0M119
 -->
