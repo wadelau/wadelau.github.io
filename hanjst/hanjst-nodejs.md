@@ -5,6 +5,8 @@
 
 Hanjst has potential power to run in server-side with `node.js`.
 
+Developers from front-end or back-end are encouraged to import Hanjst into npm for convenient and widely usage  
+
 @todo
 
 ---
@@ -22,5 +24,5 @@ Hanjst has potential power to run in server-side with `node.js`.
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTI2MDcyXX0=
+eyJoaXN0b3J5IjpbNzA0MjkwOTUyXX0=
 -->
