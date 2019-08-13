@@ -44,11 +44,11 @@ In the example above, the `enablecache` tells GWA2 core components to try its ca
 
 [Back to Top](/hanjst/hanjst-cache)
 
-[Previous](./data-in-resource) ... [Next](./)
+[Previous](./data-in-resource) ... [Next](./hanst-ready-to-go)
 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDg1OTM0MCwtNDU1NzI0MTMsLTEyMD
-g1ODM1MDMsLTg5MjE5MzAyM119
+eyJoaXN0b3J5IjpbMjkzMDU1OTc3LC00NTU3MjQxMywtMTIwOD
+U4MzUwMywtODkyMTkzMDIzXX0=
 -->
