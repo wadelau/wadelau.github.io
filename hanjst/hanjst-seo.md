@@ -129,7 +129,8 @@ And it can be even better with pseudo static links as below by introducing an .h
 
 It is the same issue that plain contents in Hanjst-based pages are not welcome to search engine. So the resolution is the same one: try to print more plain contents and mimic as a pure HTML. 
 
-All other measures are welcome to be appended and ta
+All other measures are welcome to be appended and talked here.
+
 
 ---
 
@@ -146,6 +147,6 @@ All other measures are welcome to be appended and ta
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5Njk2NDYyLC0xNjExNjczODcxLC0zMT
-g3Nzk4MjNdfQ==
+eyJoaXN0b3J5IjpbMjEyMzc2ODQ0OCwtMTYxMTY3Mzg3MSwtMz
+E4Nzc5ODIzXX0=
 -->
