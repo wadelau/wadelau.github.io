@@ -14,8 +14,10 @@ window.HanjstDefault = {
 	
 	//- inner usage
 	"LogTag": "Hanjst", 
+	
 	//- inner usage
 	"ParseTag": "__JSTPL__", 
+	
 	//- verbose output in console 
 	"IsDebug": false, 
 };
@@ -38,6 +40,6 @@ However it is highly-recommended to keep them untouched due to unexpected or unk
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzYwNjA4NDcsLTE3ODk5MzMyNTEsMj
-EyNTEzNjA0MV19
+eyJoaXN0b3J5IjpbLTM4MjM5MTY0MywtMTc4OTkzMzI1MSwyMT
+I1MTM2MDQxXX0=
 -->
