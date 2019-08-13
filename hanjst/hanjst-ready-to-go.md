@@ -160,7 +160,7 @@ Hanjst is the default template engine for [GWA2](https://github.com/wadelau/GWA2
 
 Developers and designers are welcome to deploy a GWA2 instance to see what we have talked about with Hanjst, its great features and powerful expressions in pure JavaScript.
 
-
+Some of codes from GWA2 in Java have been referenced in this document before. 
 
 ---
 
@@ -178,5 +178,6 @@ Developers and designers are welcome to deploy a GWA2 instance to see what we ha
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxNjg2ODYxLDk3MTIxNTQ0NV19
+eyJoaXN0b3J5IjpbOTkxNzY4MjMwLDk2MTY4Njg2MSw5NzEyMT
+U0NDVdfQ==
 -->
