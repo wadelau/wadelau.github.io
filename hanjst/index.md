@@ -32,7 +32,7 @@
 #### Third-party Libraries
 ### [Images](/hanjst/hanjst-resource)
 ## [Caching](/hanjst/hanjst-cache)
-## A Ready-to-go
+## [A Ready-to-go](/hanjst/hanjst-ready-to-go)
 ## Search Engine Optimization
 ### Title, Description and Keyword
 ### Links
@@ -44,7 +44,7 @@
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NzY4MzUxNSwtNTU3NTMyMDUyLC0yMD
-cwNzM2MzI5LDIxMjQzNjE5MDAsMTc1MTE0MzQzNSw4NTEwNDg2
-MTNdfQ==
+eyJoaXN0b3J5IjpbMjA3NDE0OTA3MywtMjY3NjgzNTE1LC01NT
+c1MzIwNTIsLTIwNzA3MzYzMjksMjEyNDM2MTkwMCwxNzUxMTQz
+NDM1LDg1MTA0ODYxM119
 -->
