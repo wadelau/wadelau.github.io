@@ -4,7 +4,14 @@
 ---
 Hanjst server-side components are able to cache their raw contents of template files as so to accelerate the speed of generating outputs for HTTP requests.
 
- 
+Regarding to `GWA2 in Java`, caching service is provided with its core components of WebApp.class, here follows an example.
+
+```java
+
+Hanjst hanjst = new Hanjst();
+
+
+```  
 
 
 ### Client-side Caching
@@ -27,6 +34,6 @@ Hanjst server-side components are able to cache their raw contents of template f
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDA0NzI3MjksLTEyMDg1ODM1MDMsLT
-g5MjE5MzAyM119
+eyJoaXN0b3J5IjpbMzYxOTg2NTMzLC0xMjA4NTgzNTAzLC04OT
+IxOTMwMjNdfQ==
 -->
