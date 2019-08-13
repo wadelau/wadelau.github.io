@@ -157,8 +157,7 @@ The happy end comes with its final Hanjst-parsed HTML as below. It is the desira
 
 ### GWA2 in Java
 ---
-
-@todo
+Hanjst is the default template engine for GWA2, so it is easy to have a look at the process of Hanjst in a 
 
 
 ---
@@ -177,5 +176,5 @@ The happy end comes with its final Hanjst-parsed HTML as below. It is the desira
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxMjE1NDQ1XX0=
+eyJoaXN0b3J5IjpbLTEzMDY2OTg3NDcsOTcxMjE1NDQ1XX0=
 -->
