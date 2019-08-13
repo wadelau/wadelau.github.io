@@ -29,7 +29,14 @@ Here is an example to show the TDK in a template file.
 </html>
 ```
 
-When 
+When the template is read in server-side the placeholders for TDK will be replaces with actual values.
+
+```php
+
+//- resp data container
+$respData = array();
+
+```
 
 
 
@@ -57,5 +64,5 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU5MDU0MzksLTMxODc3OTgyM119
+eyJoaXN0b3J5IjpbLTEyODIxNzU1NDcsLTMxODc3OTgyM119
 -->
