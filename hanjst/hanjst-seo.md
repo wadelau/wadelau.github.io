@@ -12,7 +12,19 @@ Usually, a page's title, description and keyword (TDK) are variables generated f
 Unfortunately, search engines are unable to read correct title, description and keyword from the JSON data.
 Hanjst has some placeholders to meet this requirements. That is to say, Hanjst leave pre-defined placeholders for a page's title, description and keyword.
 
-These TDK will be replaces in server-side just like what happened to `HANJST_JSON_DATA` described in last section [].
+These TDK will be replaces in server-side just like what happened to `HANJST_JSON_DATA` described in last section [Hanjst Ready to go](./hanjst-ready-to-go).
+
+Here is an example to show the TDK in a template file.
+
+```html
+<html>
+<head>
+</head>
+<body>
+....
+</body>
+</html>
+```
 
 
 ### Links
@@ -39,5 +51,5 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTY0NDU5OV19
+eyJoaXN0b3J5IjpbLTIzMzg1MDIwMV19
 -->
