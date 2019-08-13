@@ -39,11 +39,14 @@ The example blow will show a news items list on a page.
 </html>
 ```
 
-Copy and save thes
+Copy these lines and as a file: news.html .
 
 2. Hanjst Server-side in PHP
 
-dd
+```php
+$
+
+```
 
 3. Raw Template File
 
@@ -77,5 +80,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjUwNjAzXX0=
+eyJoaXN0b3J5IjpbOTk4MjEzMzIxXX0=
 -->
