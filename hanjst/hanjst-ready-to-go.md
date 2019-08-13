@@ -16,6 +16,17 @@ The example blow will show a news items list on a page.
 	style="width:100%;height:100%;z-index:99;opacity:0.92;position:absolute;background-color:#ffffff;"> 
 	Loading... 加载中... 
 </div>
+<div id="newsList">
+<ul>
+{foreach $newsList as $n}
+	<li>
+		{foreach $newsList[]}
+	</li>
+{foreachelse}
+	<li>No data.</li>
+{/foreach}
+</ul>
+</div>
 </body>
 </html>
 ```
@@ -56,5 +67,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDY1OTI3Nl19
+eyJoaXN0b3J5IjpbMTE1NTcxOTc3MF19
 -->
