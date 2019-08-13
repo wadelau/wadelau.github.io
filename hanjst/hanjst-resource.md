@@ -39,8 +39,8 @@ See the above section for details with paths.
 
 What's needed to be mentioned are JavaScript functions places and the loading of third-party library.
 
-#### Functions Places
-JavaScript functions in Hanjst are different with their places.
+#### Functions Positions
+JavaScript functions in Hanjst are different with their places or positions.
 
 A function defined in the current main template and called before the main function of Hanjst, will be triggered again during the process of Hanjst parsing work. So if the function has been restricted with run-only-once, it is better to place this function after Hanjst main function.
 
@@ -144,6 +144,6 @@ This example below shows the demo. (eg08122054)
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTY3MTY0MCwtMzYyODU2NzE1LDExOT
-gxMjk2NzEsMTk5ODAxMTc0NywtMTc1NzQ4MTcxOV19
+eyJoaXN0b3J5IjpbOTA1NDQwODg5LC0zNjI4NTY3MTUsMTE5OD
+EyOTY3MSwxOTk4MDExNzQ3LC0xNzU3NDgxNzE5XX0=
 -->
