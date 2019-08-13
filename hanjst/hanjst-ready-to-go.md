@@ -33,9 +33,13 @@ The example blow will show a news items list on a page.
 	style="display:hidden;">
 	HANJST_JSON_DATA
 </div>
+<script type="text/javascript" src="Hanjst.js" async></script>
+<noscript>JavaScript Required for Hanjst.</noscript>
 </body>
 </html>
 ```
+
+Copy and save thes
 
 2. Hanjst Server-side in PHP
 
@@ -73,5 +77,5 @@ dd
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTIzMzU0M119
+eyJoaXN0b3J5IjpbLTk4NjUwNjAzXX0=
 -->
