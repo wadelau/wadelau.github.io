@@ -72,6 +72,8 @@ print($tplContent);
 
 Copy these lines and save them as a file: `news.php` .  Then upload `news.php` and `news.html` to a folder under a web server which can execute PHP scripts.
 
+One more, please also upload `Hanjst.js` into the same folder along with `news.php` .
+
 
 3. Raw Template File
 
@@ -175,5 +177,5 @@ The happy end comes with its final Hanjst-parsed HTML as below. It is the desira
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjA2MjE1MDZdfQ==
+eyJoaXN0b3J5IjpbOTcxMjE1NDQ1XX0=
 -->
