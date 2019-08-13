@@ -126,7 +126,8 @@ And it can be even better with pseudo static links as below by introducing an .h
 
 ### Plain Contents
 ---
-dddsd
+
+It is the same issue that plain contents in Hanjst-based pages are not welcome to search engine. Adn t
 
 
 ---
@@ -144,6 +145,6 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjc2NzM4NywtMTYxMTY3Mzg3MSwtMz
+eyJoaXN0b3J5IjpbMTg3OTcxODMzNCwtMTYxMTY3Mzg3MSwtMz
 E4Nzc5ODIzXX0=
 -->
