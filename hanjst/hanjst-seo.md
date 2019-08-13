@@ -37,9 +37,17 @@ When the template is read in server-side the placeholders for TDK will be replac
 $respData = array();
 $tdkArr = array(
 	"title"=>"Hanjst is so powerful.",
-	"description"=>"Hanjst is a JavaScript-based template e",
+	"description"=>"Hanjst is a JavaScript-based template language and engine. It is very powerful and has a few of exciting features as back-end tempalte engines.",
+	"keyword"=>"Hanjst, 汉吉斯特, template engine, JavaScript"
 );
 array_push($respData, $tdkArr);
+
+//- template contents processing
+$tplFile = "news.html";
+$jsonDataPlaceHolder = "HANJST_JSON_DATA";
+$tplContent = file_get_contents($tplFile);
+$tplContent = str_replace($jsonDataPlaceHolder, $jsonDataStr, $tplContent);
+
 
 ```
 
@@ -69,5 +77,5 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTQ1MDU2NiwtMzE4Nzc5ODIzXX0=
+eyJoaXN0b3J5IjpbLTgwNzQ4NDYxMSwtMzE4Nzc5ODIzXX0=
 -->
