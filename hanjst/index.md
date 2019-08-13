@@ -13,7 +13,7 @@
 ### [Installation](/hanjst/hanjst-install)
 ### [Configurations](/hanjst/hanjst-config)
 #### [Debugging](/hanjst/hanjst-debug)
-### [Quick Start](/hanjst-ready-to-go)
+### [Quick Start](/hanjst/hanjst-ready-to-go)
 ### Misc.
 
 # Hanjst for Templates Designers
@@ -45,7 +45,8 @@
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTczNzI3MjcsMjA3NDE0OTA3MywtMj
-Y3NjgzNTE1LC01NTc1MzIwNTIsLTIwNzA3MzYzMjksMjEyNDM2
-MTkwMCwxNzUxMTQzNDM1LDg1MTA0ODYxM119
+eyJoaXN0b3J5IjpbLTEwNzc5MTcwMTgsLTE0MTczNzI3MjcsMj
+A3NDE0OTA3MywtMjY3NjgzNTE1LC01NTc1MzIwNTIsLTIwNzA3
+MzYzMjksMjEyNDM2MTkwMCwxNzUxMTQzNDM1LDg1MTA0ODYxM1
+19
 -->
