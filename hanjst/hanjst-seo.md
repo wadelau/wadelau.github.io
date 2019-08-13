@@ -14,7 +14,7 @@ Hanjst has some placeholders to meet this requirements. That is to say, Hanjst l
 
 These TDK will be replaces in server-side just like what happened to `HANJST_JSON_DATA` described in last section [Hanjst Ready to go](./hanjst-ready-to-go).
 
-Here is an example to show the TDK in a template file.
+Here is an example to show the TDK in a template file. (eg08131528)
 
 ```html
 <html>
@@ -46,7 +46,7 @@ $respData['tdkArr'] = $tdkArr;
 $tplFile = "news.html";
 $jsonDataPlaceHolder = "HANJST_JSON_DATA";
 $tplContent = file_get_contents($tplFile);
-$tplContent = str_replace($, $jsonDataStr, $tplContent);
+$tplContent = str_replace($jsonDataPlaceHolder , $jsonDataStr, $tplContent);
 
 //- tdk replacements
 $tdkPlaceHolders = array("Serv_Page_Title", "Serv_Page_Desc", 
@@ -56,7 +56,9 @@ $tplContent = str_replace($tdkPlaceHolders, $respData['tdkArr'],
 
 ```
 
-So that template contents have been merged with actual values in server-side and its contents looks exactly like a pure HTML which is 
+So that template contents have been merged with actual values in server-side and its contents looks exactly like a pure HTML which is welcome to search engines.
+
+The template file (eg08131528) 
 
 
 ### Links
@@ -83,5 +85,6 @@ dddsd
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTE2NzM4NzEsLTMxODc3OTgyM119
+eyJoaXN0b3J5IjpbMTIwMDk4MTQ1OSwtMTYxMTY3Mzg3MSwtMz
+E4Nzc5ODIzXX0=
 -->
