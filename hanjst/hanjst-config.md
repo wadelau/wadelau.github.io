@@ -6,11 +6,18 @@ Except from what we have introduced in previous section, there are some other va
 
 ```javascript
 window.HanjstDefault = {
-	"TplVarTag": "$", //- variables from response starting with this, e.g. $pageTitle
-	"JsonDataId": "Hanjstjsondata", //- an html element id which holds server response json data
-	"LogTag": "Hanjst", //- inner usage
-	"ParseTag": "__JSTPL__",  //- inner usage
-	"IsDebug": false, //- verbose output in console
+	//- variables from response starting with this, e.g. $pageTitle
+	"TplVarTag": "$", 
+	
+	//- an html element id which holds server response json data
+	"JsonDataId": "Hanjstjsondata", 
+	
+	//- inner usage
+	"LogTag": "Hanjst", 
+	//- inner usage
+	"ParseTag": "__JSTPL__", 
+	//- verbose output in console 
+	"IsDebug": false, 
 };
 ```
 Keys listed in above can be set in window.Hanjst before the main source file, i.e., Hanjst.js .
@@ -31,5 +38,6 @@ However it is highly-recommended to keep them untouched due to unexpected or unk
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODk5MzMyNTEsMjEyNTEzNjA0MV19
+eyJoaXN0b3J5IjpbLTE1MzYwNjA4NDcsLTE3ODk5MzMyNTEsMj
+EyNTEzNjA0MV19
 -->
