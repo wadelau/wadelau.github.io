@@ -93,7 +93,7 @@ Contents in Chinese Version / 目录中文版
 
 # Hanjst为后端开发人员
 
-## [](https://wadelau.github.io/hanjst/hanjst-class)[](https://wadelau.github.io/hanjst/#hanjst-class)
+## [Hanjst 对象类](https://wadelau.github.io/hanjst/hanjst-class)[](https://wadelau.github.io/hanjst/#hanjst-class)
 
 ## [服务器端替换](https://wadelau.github.io/hanjst/hanjst-replacement)[](https://wadelau.github.io/hanjst/#server-side-replacements)
 
@@ -111,7 +111,7 @@ Contents in Chinese Version / 目录中文版
 
 ## [高速缓存](https://wadelau.github.io/hanjst/hanjst-cache)[](https://wadelau.github.io/hanjst/#caching)
 
-## [随时可用](https://wadelau.github.io/hanjst/hanjst-ready-to-go)[](https://wadelau.github.io/hanjst/#a-ready-to-go)
+## [随时可用样例](https://wadelau.github.io/hanjst/hanjst-ready-to-go)[](https://wadelau.github.io/hanjst/#a-ready-to-go)
 
 ## [搜索引擎优化](https://wadelau.github.io/hanjst/hanjst-seo)[](https://wadelau.github.io/hanjst/#search-engine-optimization)
 
@@ -119,11 +119,11 @@ Contents in Chinese Version / 目录中文版
 
 ### [链接](https://wadelau.github.io/hanjst/hanjst-seo)[](https://wadelau.github.io/hanjst/#links)
 
-### 平原内容
+### 文本内容
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDI2NDUzOCwtMTQ4NDkwNDkzNiwtMT
-A3NzkxNzAxOCwtMTQxNzM3MjcyNywyMDc0MTQ5MDczLC0yNjc2
-ODM1MTUsLTU1NzUzMjA1MiwtMjA3MDczNjMyOSwyMTI0MzYxOT
-AwLDE3NTExNDM0MzUsODUxMDQ4NjEzXX0=
+eyJoaXN0b3J5IjpbLTEyNzM2NzAxMTAsLTE0ODQ5MDQ5MzYsLT
+EwNzc5MTcwMTgsLTE0MTczNzI3MjcsMjA3NDE0OTA3MywtMjY3
+NjgzNTE1LC01NTc1MzIwNTIsLTIwNzA3MzYzMjksMjEyNDM2MT
+kwMCwxNzUxMTQzNDM1LDg1MTA0ODYxM119
 -->
