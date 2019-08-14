@@ -59,7 +59,7 @@ Contents in Chinese Version / 目录中文版
 
 **Hanjst**是一个**Han** **J** ava **S** cript **T** emplate，它是HTML和Web的模板语言和引擎。
 
-“ **汉吉斯特** ”的中文。
+“ **汉吉斯特** ”是Hanjst的中文名称。
 
 ## 入门[](https://wadelau.github.io/hanjst/#get-started)
 
@@ -81,7 +81,7 @@ Contents in Chinese Version / 目录中文版
 
 ## [变量和修饰符](https://wadelau.github.io/hanjst/hanjst-variable)[](https://wadelau.github.io/hanjst/#variables-and-modifiers)
 
-## [功能](https://wadelau.github.io/hanjst/hanjst-function)[](https://wadelau.github.io/hanjst/#functions)
+## [功能函数指令](https://wadelau.github.io/hanjst/hanjst-function)[](https://wadelau.github.io/hanjst/#functions)
 
 ### [内置功能](https://wadelau.github.io/hanjst/hanjst-function)[](https://wadelau.github.io/hanjst/#built-in-functions)
 
@@ -89,11 +89,11 @@ Contents in Chinese Version / 目录中文版
 
 ## Hanjst在服务器端运行[](https://wadelau.github.io/hanjst/#hanjst-run-in-server-side)
 
-### [Node.js的](https://wadelau.github.io/hanjst/hanjst-nodejs)[](https://wadelau.github.io/hanjst/#nodejs)
+### [Node.js](https://wadelau.github.io/hanjst/hanjst-nodejs)[](https://wadelau.github.io/hanjst/#nodejs)
 
 # Hanjst为后端开发人员
 
-## [汉杰斯特班](https://wadelau.github.io/hanjst/hanjst-class)[](https://wadelau.github.io/hanjst/#hanjst-class)
+## [](https://wadelau.github.io/hanjst/hanjst-class)[](https://wadelau.github.io/hanjst/#hanjst-class)
 
 ## [服务器端替换](https://wadelau.github.io/hanjst/hanjst-replacement)[](https://wadelau.github.io/hanjst/#server-side-replacements)
 
@@ -122,8 +122,8 @@ Contents in Chinese Version / 目录中文版
 ### 平原内容
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1NDc0MDE2LC0xNDg0OTA0OTM2LC0xMD
-c3OTE3MDE4LC0xNDE3MzcyNzI3LDIwNzQxNDkwNzMsLTI2NzY4
-MzUxNSwtNTU3NTMyMDUyLC0yMDcwNzM2MzI5LDIxMjQzNjE5MD
-AsMTc1MTE0MzQzNSw4NTEwNDg2MTNdfQ==
+eyJoaXN0b3J5IjpbLTc3NDI2NDUzOCwtMTQ4NDkwNDkzNiwtMT
+A3NzkxNzAxOCwtMTQxNzM3MjcyNywyMDc0MTQ5MDczLC0yNjc2
+ODM1MTUsLTU1NzUzMjA1MiwtMjA3MDczNjMyOSwyMTI0MzYxOT
+AwLDE3NTExNDM0MzUsODUxMDQ4NjEzXX0=
 -->
