@@ -73,7 +73,7 @@ Contents in Chinese Version / 目录中文版
 
 ### [快速开始](https://wadelau.github.io/hanjst/hanjst-ready-to-go)[](https://wadelau.github.io/hanjst/#quick-start)
 
-### 杂项。[](https://wadelau.github.io/hanjst/#misc)
+### 杂项[](https://wadelau.github.io/hanjst/#misc)
 
 # Hanjst为模板设计人员
 
@@ -122,8 +122,8 @@ Contents in Chinese Version / 目录中文版
 ### 文本内容
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxMDk4NTM3LC0xNDg0OTA0OTM2LC0xMD
-c3OTE3MDE4LC0xNDE3MzcyNzI3LDIwNzQxNDkwNzMsLTI2NzY4
-MzUxNSwtNTU3NTMyMDUyLC0yMDcwNzM2MzI5LDIxMjQzNjE5MD
-AsMTc1MTE0MzQzNSw4NTEwNDg2MTNdfQ==
+eyJoaXN0b3J5IjpbMTczNDE0OTMyOSw4MDEwOTg1MzcsLTE0OD
+Q5MDQ5MzYsLTEwNzc5MTcwMTgsLTE0MTczNzI3MjcsMjA3NDE0
+OTA3MywtMjY3NjgzNTE1LC01NTc1MzIwNTIsLTIwNzA3MzYzMj
+ksMjEyNDM2MTkwMCwxNzUxMTQzNDM1LDg1MTA0ODYxM119
 -->
