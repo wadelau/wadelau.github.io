@@ -3,7 +3,7 @@
 ### Hanjst with node.js
 ---
 
-Hanjst has potential power to run in server-side with `node.js`.
+Hanjst has potential power to run in server-side with `node.js`. Just like any other JavaScript libraries which run with `node.js` in back-end environments.
 
 Developers from front-end or back-end are encouraged to import Hanjst into `npm` for convenient and widely usage.  
 
@@ -25,5 +25,5 @@ Developers from front-end or back-end are encouraged to import Hanjst into `npm`
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MTI4ODI1LC05ODY2NjA4NDVdfQ==
+eyJoaXN0b3J5IjpbLTcyMTI5ODg5NSwtOTg2NjYwODQ1XX0=
 -->
