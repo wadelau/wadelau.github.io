@@ -1,23 +1,24 @@
 
 ##
-Hopeful and helpful things.
+Hopeful and helpful things with GWA2, gMIS and Hanjst.
 ##
 
 ### GWA2
 
-General Web Application Architecture
+`G`eneral `W`eb `A`pplication `A`rchitecture.
 
 ---
 ### gMIS
-general Management Information System
+`g`eneral `M`anagement `I`nformation `S`ystem.
 
 ---
 
 ### Hanjst
 
-Han JavaScript 
+`Han` `J`ava`S`cript `T`emplate.
 
+---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDc1MzkxNF19
+eyJoaXN0b3J5IjpbMjA3MjI1OTEzXX0=
 -->
