@@ -105,7 +105,7 @@ Contents in Chinese Version / 目录中文版
 
 ### [脚本](https://wadelau.github.io/hanjst/hanjst-resource)[](https://wadelau.github.io/hanjst/#scripts)
 
-#### 第三方图书馆[](https://wadelau.github.io/hanjst/#third-party-libraries)
+#### 第三方类库[](https://wadelau.github.io/hanjst/#third-party-libraries)
 
 ### [图片](https://wadelau.github.io/hanjst/hanjst-resource)[](https://wadelau.github.io/hanjst/#images)
 
@@ -122,8 +122,9 @@ Contents in Chinese Version / 目录中文版
 ### 文本内容
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDE0OTMyOSw4MDEwOTg1MzcsLTE0OD
-Q5MDQ5MzYsLTEwNzc5MTcwMTgsLTE0MTczNzI3MjcsMjA3NDE0
-OTA3MywtMjY3NjgzNTE1LC01NTc1MzIwNTIsLTIwNzA3MzYzMj
-ksMjEyNDM2MTkwMCwxNzUxMTQzNDM1LDg1MTA0ODYxM119
+eyJoaXN0b3J5IjpbLTE3MzUyOTc0ODMsMTczNDE0OTMyOSw4MD
+EwOTg1MzcsLTE0ODQ5MDQ5MzYsLTEwNzc5MTcwMTgsLTE0MTcz
+NzI3MjcsMjA3NDE0OTA3MywtMjY3NjgzNTE1LC01NTc1MzIwNT
+IsLTIwNzA3MzYzMjksMjEyNDM2MTkwMCwxNzUxMTQzNDM1LDg1
+MTA0ODYxM119
 -->
