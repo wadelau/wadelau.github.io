@@ -1,6 +1,6 @@
 
 ##
-Hopeful and helpful things with GWA2, gMIS and Hanjst.
+`Hopeful` and `helpful` things with GWA2, gMIS and Hanjst.
 ##
 
 ### GWA2
@@ -20,5 +20,5 @@ Hopeful and helpful things with GWA2, gMIS and Hanjst.
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjI1OTEzXX0=
+eyJoaXN0b3J5IjpbMTIxMjg2NzY3OSwyMDcyMjU5MTNdfQ==
 -->
