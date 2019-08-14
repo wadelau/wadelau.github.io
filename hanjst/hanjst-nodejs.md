@@ -14,7 +14,7 @@ Developers from front-end or back-end are encouraged to import Hanjst into `npm`
 #### Related works
 
 1. [Node.js](//nodejs.org)
-2. 
+2. [NPM](//npmjs.org)
 3. [Hanjst Demo Page](https://ufqi.com/dev/hanjst/)
 
 ---
@@ -25,5 +25,5 @@ Developers from front-end or back-end are encouraged to import Hanjst into `npm`
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjY2MDg0NV19
+eyJoaXN0b3J5IjpbMTc5MTI4ODI1LC05ODY2NjA4NDVdfQ==
 -->
