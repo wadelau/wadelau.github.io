@@ -101,7 +101,9 @@ There are some practical guides for including or import third-party libraries.
 
 JavaScript codes which will be run only once after Hanjst's work, should be placed below and after Hanjst. And also please keep in mind:
 > `use strict` mode, add comma for each sentence;
+> 
 >src of Objects should be loaded in sync mode, e.g. jquery.min.js;
+>
 >invokes with Objects should be loaded in async mode, e.g. project.base.js;
 
 
@@ -144,6 +146,7 @@ This example below shows the demo. (eg08122054)
 
 [Back to Up](/hanjst/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1NDQwODg5LC0zNjI4NTY3MTUsMTE5OD
-EyOTY3MSwxOTk4MDExNzQ3LC0xNzU3NDgxNzE5XX0=
+eyJoaXN0b3J5IjpbLTIwNzI1MjAxMDUsOTA1NDQwODg5LC0zNj
+I4NTY3MTUsMTE5ODEyOTY3MSwxOTk4MDExNzQ3LC0xNzU3NDgx
+NzE5XX0=
 -->
