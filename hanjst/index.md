@@ -60,7 +60,7 @@
 Contents in Chinese Version / 目录中文版
 
 ---
-# Hanjst概述
+# 汉吉斯特Hanjst概述
 
 ![Hanjst标志](http://ufqi.com/blog/wp-content/uploads/2019/06/hanjst-logo.201901.jpg)
 
@@ -129,9 +129,9 @@ Contents in Chinese Version / 目录中文版
 ### 文本内容
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5MzA5Njk4LC0xNzM1Mjk3NDgzLDE3Mz
-QxNDkzMjksODAxMDk4NTM3LC0xNDg0OTA0OTM2LC0xMDc3OTE3
-MDE4LC0xNDE3MzcyNzI3LDIwNzQxNDkwNzMsLTI2NzY4MzUxNS
-wtNTU3NTMyMDUyLC0yMDcwNzM2MzI5LDIxMjQzNjE5MDAsMTc1
-MTE0MzQzNSw4NTEwNDg2MTNdfQ==
+eyJoaXN0b3J5IjpbLTc5NzkwOTc0OCw1NDkzMDk2OTgsLTE3Mz
+UyOTc0ODMsMTczNDE0OTMyOSw4MDEwOTg1MzcsLTE0ODQ5MDQ5
+MzYsLTEwNzc5MTcwMTgsLTE0MTczNzI3MjcsMjA3NDE0OTA3My
+wtMjY3NjgzNTE1LC01NTc1MzIwNTIsLTIwNzA3MzYzMjksMjEy
+NDM2MTkwMCwxNzUxMTQzNDM1LDg1MTA0ODYxM119
 -->
