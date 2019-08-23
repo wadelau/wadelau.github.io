@@ -87,7 +87,7 @@ End-user will see a few parts of the loading page if we choose this method by se
 
 ```html
 <div id="Hanjstjsondata" 
-	style="display:hidden;">
+	style="display:none;">
 	{"copyright_year": 2018}
 </div>
 ```
@@ -109,7 +109,7 @@ It's also a resolution to combine those two methods at the same page to reduce t
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Mzc1MDc2NiwtNDI0NTQxOTIsMTc1MD
+eyJoaXN0b3J5IjpbMjAwNTQyNjIwOCwtNDI0NTQxOTIsMTc1MD
 k4NjQ2NywxMTQwNDc1NTkxLC03NTA5ODU2NTksMTY0OTUxODY2
 MSwtMTM4MTExMTkzNiwxNTYwMjIzNTgzLDE4MjgyODg4OTddfQ
 ==
