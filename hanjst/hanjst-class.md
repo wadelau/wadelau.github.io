@@ -139,14 +139,14 @@ There is a Hanjst.java or Hanjst.class.jsp for Java, and similarly, Hanjst.class
 
 ---
 
-[Back to Top](/hanjst/hanjst-function-class)
+[Back to Top](/hanjst/hanjst-class)
 
 [Previous](./hanjst-nodejs) ... [Next](./hanjst-replacement)
 
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTUyNTgyNTIsNTMzNTI1Mjg2LDQ1ND
-M0MjExMCw3MjU4NDA1OCwxNzA5MTMyMTk0LC0xMjU4NzQ5NzI3
-LDE3MjA1NDY0OTZdfQ==
+eyJoaXN0b3J5IjpbMTUyNDExNTMzNyw1MzM1MjUyODYsNDU0Mz
+QyMTEwLDcyNTg0MDU4LDE3MDkxMzIxOTQsLTEyNTg3NDk3Mjcs
+MTcyMDU0NjQ5Nl19
 -->
