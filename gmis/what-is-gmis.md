@@ -30,8 +30,22 @@ Its slogan is **Lower Costs, 较低成本; Better Productivity, 较高效率**.
 > Those shared some common functions and most of them just needed to achieve basic goals (CURDLS) for a table.
 > So we conducted many practices to find one to meet this kind of demand, for all, forever.”
 
+Its source code locates in [-GitHub-Wadelau , and its live demo lives in -gmis .  
+  
+This project has been started and pondered during the study in Univ. of Derby,  
+and it is based on some observations and demands from ChinaM. In the short time in Sina Corp,  
+it has been created from top to down and the polishing work are continuing and lasting till now.  
+  
+This application has been filed by Copyright Protection Center of China, reference ID: 2015R11L514106 .
 
-### 
+### Main Developers
+Zhenxing Liu, 
+Shujuan Wang, 
+Ding Xu, 
+Shaopeng Xu, 
+Cecil Yuan
+
+### gMIS Layouts
 
 
 
@@ -40,5 +54,5 @@ Its slogan is **Lower Costs, 较低成本; Better Productivity, 较高效率**.
 [Previous](/gmis/index) .... [Next](./gmis/gmis-pros-cons)
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTc0ODgyOTEsMTEyMjQyNTQ1M119
+eyJoaXN0b3J5IjpbLTQ5OTY1ODk3OSwxMTIyNDI1NDUzXX0=
 -->
