@@ -8,9 +8,11 @@ gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem...
 
 # Get Started
 ## What is gMIS?
+## Pros and Cons
 ## Installation
 ## Configurations
 ## Live Snapshots
+
 # gMIS for Operations
 ## Menus
 ## Tables
@@ -23,6 +25,7 @@ gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem...
 ## Pickup
 ## Statistics and Pivots
 ## Workflow
+
 # gMIS for Developers
 ## GWA2 in backend
 ## Extra Modules
@@ -41,7 +44,7 @@ gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0OTIyNTA1LDEwNTQxNTUwMTIsLTgxMz
-c3NzAxMyw1MzYwMjM1MCwtMjAyOTU1MjA0OCwtNDUyMzU4NTE0
-LC0xNjAxMjg4NDQzXX0=
+eyJoaXN0b3J5IjpbLTczODg1MTgwNSwxMDU0MTU1MDEyLC04MT
+M3NzcwMTMsNTM2MDIzNTAsLTIwMjk1NTIwNDgsLTQ1MjM1ODUx
+NCwtMTYwMTI4ODQ0M119
 -->
