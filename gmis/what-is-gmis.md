@@ -3,6 +3,7 @@
 
 ### gMIS: A general-purpose management information system software.
 
+### gMIS in a Brief
 -gMIS is a [-GWA2](https://ufqi.com/dev/gwa2/) based Management Information System (MIS) software with configurable input and output interfaces.  
 
 Various management application software systems can be built on it, such as  
@@ -23,16 +24,14 @@ With zero code development, -gMIS can build a set of management information syst
 
 Its slogan is **Lower Costs, 较低成本; Better Productivity, 较高效率**.
 
+### gMIS Background
+
+> “In a demand-driven opinion, we faced increasing requests of creating enormous table-based management tools for operation teams in years of 2005-2010 at ChinaM, an affiliate of [Telstra](http://telstra.com.au) in Beijing.  
+> Those shared some common functions and most of them just needed to achieve basic goals (CURDLS) for a table.
+> So we conducted many practices to find one to meet this kind of demand, for all, forever.”
 
 
-> “In a demand-driven opinion, we faced increasing requests of creating enormous table-based management tools for operation teams in years of 2005-2010 at ChinaM, an affiliate of [Telstra](http://telstra.com.au)
-> in Beijing.  Those shared some common functions and most of them just
-> needed to achieve basic goals (CURDLS) for a table. So we conducted
-> many practices to find one to meet this kind of demand, for all,
-> forever.”
-
-
-
+### 
 
 
 
@@ -41,5 +40,5 @@ Its slogan is **Lower Costs, 较低成本; Better Productivity, 较高效率**.
 [Previous](/gmis/index) .... [Next](./gmis/gmis-pros-cons)
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDc5NTM4NiwxMTIyNDI1NDUzXX0=
+eyJoaXN0b3J5IjpbLTIwMTc0ODgyOTEsMTEyMjQyNTQ1M119
 -->
