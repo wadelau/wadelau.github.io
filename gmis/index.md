@@ -25,6 +25,7 @@ gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem...
 ## Pickup
 ## Statistics and Pivots
 ## Workflow
+## Files and Online Disk
 
 # gMIS for Developers
 ## GWA2 in backend
@@ -44,7 +45,7 @@ gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyMjgyNTQ3LDEwNTQxNTUwMTIsLTgxMz
-c3NzAxMyw1MzYwMjM1MCwtMjAyOTU1MjA0OCwtNDUyMzU4NTE0
-LC0xNjAxMjg4NDQzXX0=
+eyJoaXN0b3J5IjpbLTE4NzgxODg3NTksMTA1NDE1NTAxMiwtOD
+EzNzc3MDEzLDUzNjAyMzUwLC0yMDI5NTUyMDQ4LC00NTIzNTg1
+MTQsLTE2MDEyODg0NDNdfQ==
 -->
