@@ -34,12 +34,10 @@ Its source code locates in [-GitHub-Wadelau](https://github.com/wadelau/gMIS) , 
   
 This project has been started and pondered during the study in the [University of Derby](https://www.derby.ac.uk/),  and it is based on some observations and demands from ChinaM. 
 
-In the short time in [Sina Corp],  it has been created from top to down and the polishing work are continuing and lasting till now.  
-  
-This application has been filed by Copyright Protection Center of China, reference ID: 2015R11L514106 .
+In the short time in [Sina Corp](http://weibo.com),  it has been created from top to down and the polishing work are continuing and lasting till now.  
 
 ### Main Developers
-Zhenxing Liu, 
+[Zhenxing Liu](https://github.com/wadelau), 
 Shujuan Wang, 
 Ding Xu, 
 Shaopeng Xu, 
@@ -54,5 +52,5 @@ Cecil Yuan
 [Previous](/gmis/index) .... [Next](./gmis/gmis-pros-cons)
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI5NTg3NDYsMTEyMjQyNTQ1M119
+eyJoaXN0b3J5IjpbNjUwOTUxODI3LDExMjI0MjU0NTNdfQ==
 -->
