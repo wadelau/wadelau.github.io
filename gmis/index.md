@@ -6,7 +6,7 @@ gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem...
 
 "吉密斯" in Chinese.
 
-
+# Get State
 ---
 [Back top](index)
 
@@ -14,7 +14,7 @@ gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQxMDU1NDQsLTgxMzc3NzAxMyw1Mz
-YwMjM1MCwtMjAyOTU1MjA0OCwtNDUyMzU4NTE0LC0xNjAxMjg4
-NDQzXX0=
+eyJoaXN0b3J5IjpbMjA0OTYyMzAwMCwtODEzNzc3MDEzLDUzNj
+AyMzUwLC0yMDI5NTUyMDQ4LC00NTIzNTg1MTQsLTE2MDEyODg0
+NDNdfQ==
 -->
