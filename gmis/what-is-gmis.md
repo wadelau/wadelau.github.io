@@ -30,9 +30,9 @@ Its slogan is **Lower Costs, 较低成本; Better Productivity, 较高效率**.
 > Those shared some common functions and most of them just needed to achieve basic goals (CURDLS) for a table.
 > So we conducted many practices to find one to meet this kind of demand, for all, forever.”
 
-Its source code locates in [-GitHub-Wadelau , and its live demo lives in -gmis .  
+Its source code locates in [-GitHub-Wadelau](https://github.com/wadelau/gMIS)) , and its live demo lives in [-gmis](https://ufqi.com/dev/gmis/gmis-demo) .  
   
-This project has been started and pondered during the study in Univ. of Derby,  
+This project has been started and pondered during the study in the [University of Derby](),  
 and it is based on some observations and demands from ChinaM. In the short time in Sina Corp,  
 it has been created from top to down and the polishing work are continuing and lasting till now.  
   
@@ -54,5 +54,5 @@ Cecil Yuan
 [Previous](/gmis/index) .... [Next](./gmis/gmis-pros-cons)
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTY1ODk3OSwxMTIyNDI1NDUzXX0=
+eyJoaXN0b3J5IjpbLTg1NDI3NzE3OCwxMTIyNDI1NDUzXX0=
 -->
