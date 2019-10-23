@@ -39,7 +39,9 @@ In the short time in [Sina Corp](http://weibo.com),  it has been created from to
 
 ### Main Developers
 [Zhenxing Liu](https://github.com/wadelau), 
+
 Shujuan Wang, 
+
 Ding Xu, 
 Shaopeng Xu, 
 Cecil Yuan
@@ -49,8 +51,11 @@ Cecil Yuan
 
 
 [Back top](/gmis/what-is-gmis)
+
 [Previous](/gmis/index) .... [Next](./gmis/gmis-pros-cons)
+
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzE5MjI3MzUsMTEyMjQyNTQ1M119
+eyJoaXN0b3J5IjpbLTI2MDE2NzQxNSwtMTg3MTkyMjczNSwxMT
+IyNDI1NDUzXX0=
 -->
