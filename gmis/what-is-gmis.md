@@ -21,12 +21,25 @@ Commodity Management and business operations support systems (BOSS),`` etc.
 
 With zero code development, -gMIS can build a set of management information systems (MIS) software in a few minutes.
 
-Its slogan is 
+Its slogan is **Lower Costs, 较低成本; Better Productivity, 较高效率**.
+
+
+
+> “In a demand-driven opinion, we faced increasing requests of creating enormous table-based management tools for operation teams in years of 2005-2010 at ChinaM, an affiliate of [Telstra](http://telstra.com.au)
+> in Beijing.  Those shared some common functions and most of them just
+> needed to achieve basic goals (CURDLS) for a table. So we conducted
+> many practices to find one to meet this kind of demand, for all,
+> forever.”
+
+
+
+
+
 
 
 [Back top](/gmis/what-is-gmis)
 [Previous](/gmis/index) .... [Next](./gmis/gmis-pros-cons)
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjQyNTQ1M119
+eyJoaXN0b3J5IjpbMTM1NDc5NTM4NiwxMTIyNDI1NDUzXX0=
 -->
