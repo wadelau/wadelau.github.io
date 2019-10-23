@@ -25,7 +25,12 @@ gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem...
 ## GWA2 in backend
 ## Extra Modules
 ## Tables Linkages
-## Hi
+## Tree Directories
+## Hiarchary Menus
+## Input2Search
+## Triggers
+## 
+
 
 ---
 [Back top](index)
@@ -34,7 +39,7 @@ gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDk3OTMzMCwxMDU0MTU1MDEyLC04MT
+eyJoaXN0b3J5IjpbLTMwMTk4MDE1OCwxMDU0MTU1MDEyLC04MT
 M3NzcwMTMsNTM2MDIzNTAsLTIwMjk1NTIwNDgsLTQ1MjM1ODUx
 NCwtMTYwMTI4ODQ0M119
 -->
