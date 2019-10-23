@@ -7,8 +7,8 @@ gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem...
 "吉密斯" in Chinese.
 
 # Get Started
-## What is gMIS?
-## Pros and Cons
+## [What is gMIS?](/gmis/what-is-gmis)
+## [Pros and Cons](/gmis/gmis-pros-cons)
 ## Installation
 ## Configurations
 ## Live Snapshots
@@ -40,12 +40,12 @@ gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem...
 
 ---
 [Back top](index)
-
+[Previous](../index) .... [Next](./gmis/what-is-gmis)
 [Back to Up](../index)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzgxODg3NTksMTA1NDE1NTAxMiwtOD
-EzNzc3MDEzLDUzNjAyMzUwLC0yMDI5NTUyMDQ4LC00NTIzNTg1
-MTQsLTE2MDEyODg0NDNdfQ==
+eyJoaXN0b3J5IjpbMjA5MDMwMjAzOSwtMTg3ODE4ODc1OSwxMD
+U0MTU1MDEyLC04MTM3NzcwMTMsNTM2MDIzNTAsLTIwMjk1NTIw
+NDgsLTQ1MjM1ODUxNCwtMTYwMTI4ODQ0M119
 -->
