@@ -11,7 +11,16 @@ gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem...
 ## Installation
 ## Configurations
 # gMIS for Operations
-## gMIS for  
+## Menus
+## Tables
+## Lists
+## Details
+## Fileds
+## Users and Groups
+## Securities
+## Pickup
+## Statistics anPivots
+##  
 ---
 [Back top](index)
 
@@ -19,7 +28,7 @@ gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzgwOTQ2NywtODEzNzc3MDEzLDUzNj
-AyMzUwLC0yMDI5NTUyMDQ4LC00NTIzNTg1MTQsLTE2MDEyODg0
-NDNdfQ==
+eyJoaXN0b3J5IjpbLTEyNjkyMjMwMjEsLTgxMzc3NzAxMyw1Mz
+YwMjM1MCwtMjAyOTU1MjA0OCwtNDUyMzU4NTE0LC0xNjAxMjg4
+NDQzXX0=
 -->
