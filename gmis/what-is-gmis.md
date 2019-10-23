@@ -43,7 +43,9 @@ In the short time in [Sina Corp](http://weibo.com),  it has been created from to
 Shujuan Wang, 
 
 Ding Xu, 
+
 Shaopeng Xu, 
+
 Cecil Yuan
 
 ### gMIS Layouts
@@ -56,6 +58,6 @@ Cecil Yuan
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDE2NzQxNSwtMTg3MTkyMjczNSwxMT
-IyNDI1NDUzXX0=
+eyJoaXN0b3J5IjpbLTEzNzI2Mjk5NDMsLTE4NzE5MjI3MzUsMT
+EyMjQyNTQ1M119
 -->
