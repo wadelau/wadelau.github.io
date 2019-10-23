@@ -34,7 +34,7 @@ gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem...
 ## Hiarchary Menus
 ## Input2Search
 ## Triggers
-##  Workflow
+##  Logs
 
 
 ---
@@ -44,7 +44,7 @@ gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODg1MTgwNSwxMDU0MTU1MDEyLC04MT
-M3NzcwMTMsNTM2MDIzNTAsLTIwMjk1NTIwNDgsLTQ1MjM1ODUx
-NCwtMTYwMTI4ODQ0M119
+eyJoaXN0b3J5IjpbMzcyMjgyNTQ3LDEwNTQxNTUwMTIsLTgxMz
+c3NzAxMyw1MzYwMjM1MCwtMjAyOTU1MjA0OCwtNDUyMzU4NTE0
+LC0xNjAxMjg4NDQzXX0=
 -->
