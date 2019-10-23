@@ -1,7 +1,8 @@
-# gMIS
-## What is gMIS?
+# [gMIS](/gmis/index)
+## [What is gMIS?](/gmis/what-is-gmis)
 
 ### gMIS: A general-purpose management information system software.
+![gMIS Logo](https://ufqi.com/dev/gmis/gmis-logo-201606.png)
 
 ### gMIS in a Brief
 -gMIS is a [-GWA2](https://ufqi.com/dev/gwa2/) based Management Information System (MIS) software with configurable input and output interfaces.  
@@ -44,13 +45,12 @@ Shaopeng Xu,
 Cecil Yuan
 
 ### gMIS Layouts
-
-
+![gMIS Layouts](https://ufqi.com/dev/gmis/page-relation.201303.v1.png)
 
 
 [Back top](/gmis/what-is-gmis)
 [Previous](/gmis/index) .... [Next](./gmis/gmis-pros-cons)
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwOTUxODI3LDExMjI0MjU0NTNdfQ==
+eyJoaXN0b3J5IjpbLTE4NzE5MjI3MzUsMTEyMjQyNTQ1M119
 -->
