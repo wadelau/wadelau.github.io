@@ -51,6 +51,22 @@ Cecil Yuan
 ### gMIS Layouts
 ![gMIS Layouts](https://ufqi.com/dev/gmis/page-relation.201303.v1.png)
 
+####	MIS, GWA2 and gMIS
+According to OCC’s MIS guidelines , a Management Information System (MIS) is defined as “a system or process that provides the information necessary to manage an organization effectively. MIS and the information it generates are generally considered essential components of prudent and reasonable business decisions”. A MIS has these goals:
+
+•	Enhance communication among employees.
+•	Deliver complex material throughout the institution.
+•	Provide an objective system for recording and aggregating information.
+•	Reduce expenses related to labour-intensive manual activities.
+•	Support the organization's strategic goals and direction.
+
+Regarding to general purposes, especially with MySQL as back-end, we have tools like phpMyAdmin  and its descendant, Chive  (Web-based MySQL Admin Interface). These systems have three common merits:
+
+o	No-targeting user data.
+o	On-demand and instant deployment without 2nd-round development needed.
+o	Basic data and structures manipulations: create, update, retrieve, delete, list and search (CURDLS).
+
+General Web Application Architecture  (GWA2) is a framework for web applications development. Its feathers include MVC-based, core-shared, clear and clean structures, quite fast new instances deployment and easy kick-start. GWA2 uses Smarty  as its default template engine. 
 
 
 [Back top](/gmis/what-is-gmis)
@@ -59,6 +75,6 @@ Cecil Yuan
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDQwOTUxLC0xMzcyNjI5OTQzLC0xOD
-cxOTIyNzM1LDExMjI0MjU0NTNdfQ==
+eyJoaXN0b3J5IjpbLTE0MTQ3MTUwNjMsLTEzNzI2Mjk5NDMsLT
+E4NzE5MjI3MzUsMTEyMjQyNTQ1M119
 -->
