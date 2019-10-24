@@ -52,12 +52,13 @@ Cecil Yuan
 ![gMIS Layouts](https://ufqi.com/dev/gmis/page-relation.201303.v1.png)
 
 
+
 [Back top](/gmis/what-is-gmis)
 
 [Previous](/gmis/index) .... [Next](./gmis/gmis-pros-cons)
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzI2Mjk5NDMsLTE4NzE5MjI3MzUsMT
-EyMjQyNTQ1M119
+eyJoaXN0b3J5IjpbMjEyMDQwOTUxLC0xMzcyNjI5OTQzLC0xOD
+cxOTIyNzM1LDExMjI0MjU0NTNdfQ==
 -->
