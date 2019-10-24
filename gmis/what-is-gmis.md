@@ -55,8 +55,11 @@ Cecil Yuan
 According to OCC’s MIS guidelines , a Management Information System (MIS) is defined as “a system or process that provides the information necessary to manage an organization effectively. MIS and the information it generates are generally considered essential components of prudent and reasonable business decisions”. A MIS has these goals:
 
 •	Enhance communication among employees.
+
 •	Deliver complex material throughout the institution.
+
 •	Provide an objective system for recording and aggregating information.
+
 •	Reduce expenses related to labour-intensive manual activities.
 •	Support the organization's strategic goals and direction.
 
@@ -87,6 +90,6 @@ We explore gMIS in next sections in detail and explain what these items represen
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTMyNzIwNCwtMTM3MjYyOTk0MywtMT
-g3MTkyMjczNSwxMTIyNDI1NDUzXX0=
+eyJoaXN0b3J5IjpbLTExNzMzOTIxNzQsLTEzNzI2Mjk5NDMsLT
+E4NzE5MjI3MzUsMTEyMjQyNTQ1M119
 -->
