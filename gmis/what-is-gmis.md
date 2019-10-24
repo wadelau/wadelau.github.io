@@ -61,12 +61,15 @@ According to OCC’s MIS guidelines , a Management Information System (MIS) is d
 •	Provide an objective system for recording and aggregating information.
 
 •	Reduce expenses related to labour-intensive manual activities.
+
 •	Support the organization's strategic goals and direction.
 
 Regarding to general purposes, especially with MySQL as back-end, we have tools like phpMyAdmin  and its descendant, Chive  (Web-based MySQL Admin Interface). These systems have three common merits:
 
 o	No-targeting user data.
+
 o	On-demand and instant deployment without 2nd-round development needed.
+
 o	Basic data and structures manipulations: create, update, retrieve, delete, list and search (CURDLS).
 
 General Web Application Architecture  (GWA2) is a framework for web applications development. Its feathers include MVC-based, core-shared, clear and clean structures, quite fast new instances deployment and easy kick-start. GWA2 uses Smarty  as its default template engine. 
@@ -74,12 +77,20 @@ General Web Application Architecture  (GWA2) is a framework for web applications
 gMIS is a new and generally-targeted kind of MIS. It is a GWA2-based web application and has following characteristics:
 
 	For general purpose, no user data involved in codes.
+
 	XML configurations.
+
 	Run immediately on connection to databases.
+
 	Ajax-enabled, i.e. GTAjax .
+
 	Inline editing of user data.
+
 	Customized input and output, e.g. WYSWYG.
+
 	Strong searching, i.e. innovative page navigator.  
+
+ Addtional interesting functions
 
 We explore gMIS in next sections in detail and explain what these items represent.
 
@@ -90,6 +101,6 @@ We explore gMIS in next sections in detail and explain what these items represen
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzMzOTIxNzQsLTEzNzI2Mjk5NDMsLT
-E4NzE5MjI3MzUsMTEyMjQyNTQ1M119
+eyJoaXN0b3J5IjpbLTcyMjYxMzA0OCwtMTM3MjYyOTk0MywtMT
+g3MTkyMjczNSwxMTIyNDI1NDUzXX0=
 -->
