@@ -76,7 +76,11 @@ General Web Application Architecture  (GWA2) is a framework for web applications
 
 gMIS is a new and generally-targeted kind of MIS. It is a GWA2-based web application and has following characteristics:
 
-	For general purpose, no user data involved in codes.
+
+
+List item
+
+	For general purpose, no user data involved in codes.
 
 	XML configurations.
 
@@ -101,6 +105,6 @@ We explore gMIS in next sections in detail and explain what these items represen
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjYxMzA0OCwtMTM3MjYyOTk0MywtMT
+eyJoaXN0b3J5IjpbMTA1ODM3NDM0NywtMTM3MjYyOTk0MywtMT
 g3MTkyMjczNSwxMTIyNDI1NDUzXX0=
 -->
