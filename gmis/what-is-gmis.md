@@ -54,47 +54,43 @@ Cecil Yuan
 ####	MIS, GWA2 and gMIS
 According to OCC’s MIS guidelines , a Management Information System (MIS) is defined as “a system or process that provides the information necessary to manage an organization effectively. MIS and the information it generates are generally considered essential components of prudent and reasonable business decisions”. A MIS has these goals:
 
-•	Enhance communication among employees.
+- Enhance communication among employees.
 
-•	Deliver complex material throughout the institution.
+- Deliver complex material throughout the institution.
 
-•	Provide an objective system for recording and aggregating information.
+- Provide an objective system for recording and aggregating information.
 
-•	Reduce expenses related to labour-intensive manual activities.
+- Reduce expenses related to labour-intensive manual activities.
 
-•	Support the organization's strategic goals and direction.
+ - Support the organization's strategic goals and direction.
 
 Regarding to general purposes, especially with MySQL as back-end, we have tools like phpMyAdmin  and its descendant, Chive  (Web-based MySQL Admin Interface). These systems have three common merits:
 
-o	No-targeting user data.
+ - No-targeting user data.
 
-o	On-demand and instant deployment without 2nd-round development needed.
+ - On-demand and instant deployment without 2nd-round development needed.
 
-o	Basic data and structures manipulations: create, update, retrieve, delete, list and search (CURDLS).
+- Basic data and structures manipulations: create, update, retrieve, delete, list and search (CURDLS).
 
 General Web Application Architecture  (GWA2) is a framework for web applications development. Its feathers include MVC-based, core-shared, clear and clean structures, quite fast new instances deployment and easy kick-start. GWA2 uses Smarty  as its default template engine. 
 
 gMIS is a new and generally-targeted kind of MIS. It is a GWA2-based web application and has following characteristics:
 
-
+- For general purpose, no user data involved in codes.
 
-List item
+- XML configurations.
 
-	For general purpose, no user data involved in codes.
+- Run immediately on connection to databases.
 
-	XML configurations.
+- 	Ajax-enabled, i.e. GTAjax .
 
-	Run immediately on connection to databases.
+- 	Inline editing of user data.
 
-	Ajax-enabled, i.e. GTAjax .
+- 	Customized input and output, e.g. WYSWYG.
 
-	Inline editing of user data.
+-	Strong searching, i.e. innovative page navigator.  
 
-	Customized input and output, e.g. WYSWYG.
-
-	Strong searching, i.e. innovative page navigator.  
-
- Addtional interesting functions
+- Addtional interesting functions
 
 We explore gMIS in next sections in detail and explain what these items represent.
 
@@ -105,6 +101,6 @@ We explore gMIS in next sections in detail and explain what these items represen
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODM3NDM0NywtMTM3MjYyOTk0MywtMT
+eyJoaXN0b3J5IjpbLTI2NjQ3OTY1MSwtMTM3MjYyOTk0MywtMT
 g3MTkyMjczNSwxMTIyNDI1NDUzXX0=
 -->
