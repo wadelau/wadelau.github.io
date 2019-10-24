@@ -42,11 +42,12 @@ gMIS is an acronyms for **g**eneral **M**anagement **I**nformation **S**ystem...
 [Back top](index)
 
 [Previous](../index) .... [Next](./gmis/what-is-gmis)
+
 [Back to Up](../index)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4ODYxNjA5LC0xODc4MTg4NzU5LDEwNT
-QxNTUwMTIsLTgxMzc3NzAxMyw1MzYwMjM1MCwtMjAyOTU1MjA0
-OCwtNDUyMzU4NTE0LC0xNjAxMjg4NDQzXX0=
+eyJoaXN0b3J5IjpbLTk1Njg2NDQyNSwtMTg3ODE4ODc1OSwxMD
+U0MTU1MDEyLC04MTM3NzcwMTMsNTM2MDIzNTAsLTIwMjk1NTIw
+NDgsLTQ1MjM1ODUxNCwtMTYwMTI4ODQ0M119
 -->
