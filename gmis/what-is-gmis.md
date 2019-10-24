@@ -8,18 +8,18 @@
 -gMIS is a [-GWA2](https://ufqi.com/dev/gwa2/) based Management Information System (MIS) software with configurable input and output interfaces.  
 
 Various management application software systems can be built on it, such as  
--- Content Management System (CMS), 
--- Customer Resource Management (CRM), 
--- Enterprise Resource Planning Management (ERP),  
--- Office automation systems (OA), 
+- Content Management System (CMS), 
+- Customer Resource Management (CRM), 
+- Enterprise Resource Planning Management (ERP),  
+- Office automation systems (OA), 
 
 as well as different industry application management system softwares, such as  
--- Human Resource Management System (HR), 
--- Student Management, 
--- Archive Management, 
--- Tourism Management, 
--- Book Management,  
--- Commodity Management and business operations support systems (BOSS), etc.  
+- Human Resource Management System (HR), 
+- Student Management, 
+- Archive Management, 
+- Tourism Management, 
+- Book Management,  
+- Commodity Management and business operations support systems (BOSS), etc.  
 
 With zero code development, -gMIS can build a set of management information systems (MIS) software in a few minutes.
 
@@ -101,6 +101,6 @@ We explore gMIS in next sections in detail and explain what these items represen
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTQ2NjkxOSwtMjY2NDc5NjUxLC0xMz
-cyNjI5OTQzLC0xODcxOTIyNzM1LDExMjI0MjU0NTNdfQ==
+eyJoaXN0b3J5IjpbLTE0NDQ0MzI1NzMsLTI2NjQ3OTY1MSwtMT
+M3MjYyOTk0MywtMTg3MTkyMjczNSwxMTIyNDI1NDUzXX0=
 -->
