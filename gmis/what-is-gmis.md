@@ -68,6 +68,18 @@ o	Basic data and structures manipulations: create, update, retrieve, delete, lis
 
 General Web Application Architecture  (GWA2) is a framework for web applications development. Its feathers include MVC-based, core-shared, clear and clean structures, quite fast new instances deployment and easy kick-start. GWA2 uses Smarty  as its default template engine. 
 
+gMIS is a new and generally-targeted kind of MIS. It is a GWA2-based web application and has following characteristics:
+
+	For general purpose, no user data involved in codes.
+	XML configurations.
+	Run immediately on connection to databases.
+	Ajax-enabled, i.e. GTAjax .
+	Inline editing of user data.
+	Customized input and output, e.g. WYSWYG.
+	Strong searching, i.e. innovative page navigator.  
+
+We explore gMIS in next sections in detail and explain what these items represent.
+
 
 [Back top](/gmis/what-is-gmis)
 
@@ -75,6 +87,6 @@ General Web Application Architecture  (GWA2) is a framework for web applications
 
 [Back to Up](../index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQ3MTUwNjMsLTEzNzI2Mjk5NDMsLT
-E4NzE5MjI3MzUsMTEyMjQyNTQ1M119
+eyJoaXN0b3J5IjpbMjA0MTMyNzIwNCwtMTM3MjYyOTk0MywtMT
+g3MTkyMjczNSwxMTIyNDI1NDUzXX0=
 -->
