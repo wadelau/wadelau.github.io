@@ -17,8 +17,8 @@ Han is the surname of my wife, and one of the given names of my daughter and son
 
 Han is also Chinese in Pinyin, Hànrén (汉人).
 
-Design this template language and engine from the perspective of a linguist,
-The procedural expression of grammar and semantics is realized by the engineer's thinking.
+`To design this template language and engine from the perspective of a linguist,
+the procedural expression of grammar and semantics is realized by the engineer's thinking.`
 
 This is the Hanjst template language and engine from the jointly collaboration of linguists and computer engineers.
 
