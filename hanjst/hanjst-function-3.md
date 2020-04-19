@@ -1,5 +1,5 @@
 # [Hanjst](/hanjst/index)
-## Functions, Part-2
+## Functions, Part-3
 ### Custom Functions
 
 (Continued...)
@@ -15,7 +15,11 @@ However, it is quite annoying if the image path is represented with variables fr
 <img src="{$imgPath}" alt=""/>
 ...
 ```
-This sentence will trigger a real HTTP request to a server for asking for the resouce marked with the path,  "{$imgPath}", apparently, this will yiled a 404 page er
+This sentence will trigger a real HTTP request to a server for asking for the resouce marked with the path,  "{$imgPath}", apparently, this will yiled a 404 page error.
+
+In order to overcome this issue, Hanjst introduces a custom function named `showImageAsync`.
+
+
 
 
 
@@ -35,5 +39,5 @@ This sentence will trigger a real HTTP request to a server for asking for the re
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDM2MDc0NzZdfQ==
+eyJoaXN0b3J5IjpbNjc1ODQzODM2XX0=
 -->
