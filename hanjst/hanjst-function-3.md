@@ -4,7 +4,12 @@
 
 (Continued...)
 
-It is quite understood that a web browser will invoke a single HTTP request to a server for its referring resource file when parsing an HTML element as `<img src="/path/to/abc.png"`
+1. {\$showImageAsync($imgId)}
+
+It is quite understood that a web browser will invoke a single HTTP request to a server for its referring resource file when parsing an HTML element as `<img src="/path/to/abc.png"`.
+
+However, it is quite annoying if the 
+
 
 
 
@@ -23,5 +28,5 @@ It is quite understood that a web browser will invoke a single HTTP request to a
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjcxMzQ5NV19
+eyJoaXN0b3J5IjpbMTM1MzkyODE0NV19
 -->
