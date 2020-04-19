@@ -17,7 +17,16 @@ However, it is quite annoying if the image path is represented with variables fr
 ```
 This sentence will trigger a real HTTP request to a server for asking for the resouce marked with the path,  "{$imgPath}", apparently, this will yiled a 404 page error.
 
-In order to overcome this issue, Hanjst introduces a custom function named `showImageAsync`.
+In order to overcome this issue, Hanjst introduces a custom function named `showImageAsync`. The function will show an image with Hanjst variables in its image path. Here is the revised version of the example above.
+
+```html
+...
+<img src=”data:image/png;base64,MA==” alt=”” id=”{$imgId}” data-src=”{$imgPath}”/>  
+{$showImageAsync($imgId)}
+...
+```
+
+Some other resources are also silimiar with the HTML image element, therefore Hanjst may add more custom functions to meet these kinds of requirements. 
 
 
 
@@ -39,5 +48,5 @@ In order to overcome this issue, Hanjst introduces a custom function named `show
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1ODQzODM2XX0=
+eyJoaXN0b3J5IjpbMTkzOTI1Njc1N119
 -->
