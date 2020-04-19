@@ -4,7 +4,7 @@
 
 (Continued...)
 
-It is quite unstood that th
+It is quite understood that a web browser will invoke a single HTTP request to a server for its referring resource file when parsing an HTML element as `<img src="/path/to/abc.png"`
 
 
 
@@ -23,5 +23,5 @@ It is quite unstood that th
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTY3MjY4OV19
+eyJoaXN0b3J5IjpbMjAyMjcxMzQ5NV19
 -->
