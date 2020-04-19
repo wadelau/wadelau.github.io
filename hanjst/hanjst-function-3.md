@@ -8,7 +8,14 @@
 
 It is quite understood that a web browser will invoke a single HTTP request to a server for its referring resource file when parsing an HTML element as `<img src="/path/to/abc.png"`.
 
-However, it is quite annoying if the 
+However, it is quite annoying if the image path is represented with variables from Hanjst. Here is a common but error-prone sentence written in Hanjst.
+
+```html
+...
+<img src="{$imgPath}" alt=""/>
+...
+```
+This sentence will trigger a real HTTP request to a server for asking for the resouce marked with the path,  "{$imgPath}", apparently, this will yiled a 404 page er
 
 
 
@@ -28,5 +35,5 @@ However, it is quite annoying if the
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzkyODE0NV19
+eyJoaXN0b3J5IjpbLTEwMDM2MDc0NzZdfQ==
 -->
