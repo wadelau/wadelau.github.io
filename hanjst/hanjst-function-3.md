@@ -4,7 +4,7 @@
 
 (Continued...)
 
-....
+It is quite unstood that th
 
 
 
@@ -23,5 +23,5 @@
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MjQxNTY0N119
+eyJoaXN0b3J5IjpbMTQzNTY3MjY4OV19
 -->
