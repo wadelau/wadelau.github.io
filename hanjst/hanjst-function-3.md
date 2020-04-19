@@ -26,10 +26,13 @@ In order to overcome this issue, Hanjst introduces a custom function named `show
 ...
 ```
 
-Some other resources are also silimiar with the HTML image element, therefore Hanjst may add more custom functions to meet these kinds of requirements. 
+Some other resources are also silimiar with the HTML image element, therefore Hanjst may add more custom functions to meet these kinds of requirements, such as,
 
+`{$loadScriptAsync($scriptId)}`
+(drafting...)
 
-
+`{$loadCSSAsync($cssId)}`
+(drafting...)
 
 
 
@@ -48,5 +51,5 @@ Some other resources are also silimiar with the HTML image element, therefore Ha
 [Back to Up](/hanjst/index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTI1Njc1N119
+eyJoaXN0b3J5IjpbLTcwMDQ3OTE0XX0=
 -->
