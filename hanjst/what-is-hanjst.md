@@ -9,9 +9,9 @@
 
 ![Hanjst Logo](http://ufqi.com/blog/wp-content/uploads/2019/06/hanjst-logo.201901.jpg)
 
-Hanjst is a template language aiming at presenting a page of Web contents.
+Hanjst is a template language aiming at descibing a page of Web contents.
 
-Hanjst is a template engine which parses the pages written in Hanjst template language.
+Hanjst is also a template engine which parses the pages written in Hanjst template language.
 
 Han is the surname of my wife, and one of the given names of my daughter and son.
 
