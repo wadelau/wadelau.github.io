@@ -27,6 +27,14 @@ Keys listed in above can be set in window.Hanjst before the main source file, i.
 However it is highly-recommended to keep them untouched due to unexpected or unknown warnings or errors.
 
 
+### Available Variables
+
+Hanjst provides a few environmental values via this keys:
+
+`$copyright_year` : current year's value in four digits, e.g. 2020
+
+`$time_stamp` : current time stamp since 1970, in millisecond.
+
 
 ---
 #### Related works
