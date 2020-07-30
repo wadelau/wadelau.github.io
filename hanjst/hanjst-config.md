@@ -20,6 +20,9 @@ window.HanjstDefault = {
 	
 	//- verbose output in console 
 	"IsDebug": false, 
+	
+	//- override random string in client side
+	"RandomString": "myRandomStr"
 };
 ```
 Keys listed in above can be set in window.Hanjst before the main source file, i.e., Hanjst.js .
