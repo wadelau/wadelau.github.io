@@ -44,7 +44,9 @@ Some other template languages also defined a variable in this way, e.g. [PHP](ph
 ---
 
 {$foo}
+{=$a+1}
 >display a variable
+>display a variable after its addtion
 
 {$foo[1]}
 >display the 2nd element of a zero-indexed array
