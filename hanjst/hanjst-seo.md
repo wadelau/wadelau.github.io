@@ -109,6 +109,11 @@ In order to address this kind of issues, Hanjst suggests to generate redundancy 
 
 And it can be even better with pseudo static links as below by introducing an .htaccess file in server-side, which in charge of translating those links into actual dynamic content pages.
 
+i.e.,  in .htaccess file or HTTPD conf file, 
+
+RewriteRule "^\{\$url\}&(.*)" "/?$1&ref=Hanjstless" [R=301,L]
+
+
 ```html
 ...
 <a href="{$url}&mod=news&act=detail&id={$newId}">{$newsTitle}</a>
